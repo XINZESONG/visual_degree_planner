@@ -1,0 +1,292 @@
+{
+    "GSOE9010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in a Faculty of Engineering program and completion of 12 UOC ",
+        "equivalent": [
+            "GSOE9011"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9010.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Postgraduate Coursework Research Skills",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9010.html",
+        "uoc": "6"
+    },
+    "GSOE9011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in a Faculty of Engineering program and completion of 12 UOC ",
+        "equivalent": [
+            "GSOE9010"
+        ],
+        "excluded": [
+            "GSOE9400"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9011.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Postgraduate Coursework Research Skills",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9011.html",
+        "uoc": "6"
+    },
+    "GSOE9017": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "GSOE9121",
+            "SOLA5057",
+            "SOLA9017"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9017.html",
+        "level": "Postgraduate ",
+        "name": "Managing Energy Efficiency",
+        "school": " School of Photovoltaic and Renewable Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9017.html",
+        "uoc": "6"
+    },
+    "GSOE9111": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9111.html",
+        "level": "Postgraduate ",
+        "name": "Energy Storage",
+        "school": " School of Chemical Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9111.html",
+        "uoc": "6"
+    },
+    "GSOE9122": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9122.html",
+        "level": "Postgraduate ",
+        "name": "Integrated Design Studio for High Performance Buildings",
+        "school": " School of Photovoltaic and Renewable Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9122.html",
+        "uoc": "6"
+    },
+    "GSOE9141": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9141.html",
+        "level": "Postgraduate ",
+        "name": "Smart Grids and Distribution Networks",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9141.html",
+        "uoc": "6"
+    },
+    "GSOE9210": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9210.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Decision Structures",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9210.html",
+        "uoc": "6"
+    },
+    "GSOE9220": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9220.html",
+        "level": "Postgraduate ",
+        "name": "Launching a Startup",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9220.html",
+        "uoc": "6"
+    },
+    "GSOE9340": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9340.html",
+        "level": "Postgraduate ",
+        "name": "Life Cycle Engineering",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9340.html",
+        "uoc": "6"
+    },
+    "GSOE9360": null,
+    "GSOE9400": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "GSOE9011"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/GSOE9400.html",
+        "level": "Research ",
+        "name": "Engineering Postgraduate Research Essentials",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9400.html",
+        "uoc": "0"
+    },
+    "GSOE9445": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ELEC4445"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9445.html",
+        "level": "Postgraduate ",
+        "name": "Entrepreneurial Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9445.html",
+        "uoc": "6"
+    },
+    "GSOE9510": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ELEC4122"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9510.html",
+        "level": "Postgraduate ",
+        "name": "Ethics and Leadership in Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Summer Term, Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9510.html",
+        "uoc": "6"
+    },
+    "GSOE9712": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9712.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Statistics and Experiment Design",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9712.html",
+        "uoc": "6"
+    },
+    "GSOE9740": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GSOE9740.html",
+        "level": "Undergraduate ",
+        "name": "Industrial Ecology and Sustainable Engineering",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9740.html",
+        "uoc": "6"
+    },
+    "GSOE9758": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9758.html",
+        "level": "Postgraduate ",
+        "name": "Network Systems Architecture",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9758.html",
+        "uoc": "6"
+    },
+    "GSOE9810": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9810.html",
+        "level": "Postgraduate ",
+        "name": "Process and Product Quality in Engineering",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9810.html",
+        "uoc": "6"
+    },
+    "GSOE9820": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "CVEN8731",
+            "CVEN9731"
+        ],
+        "excluded": [
+            "CVEN9702"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9820.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Project Management",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9820.html",
+        "uoc": "6"
+    },
+    "GSOE9830": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "CVEN9701"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9830.html",
+        "level": "Postgraduate ",
+        "name": "Economic Decision Analysis in Engineering",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9830.html",
+        "uoc": "6"
+    },
+    "GSOE9997": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Successful completion of 30 UOC in program (8338 or 8335 or 8037 or 8059) OR successful completion of 48 UOC in program 8543. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/GSOE9997.html",
+        "level": "Postgraduate ",
+        "name": "Engineering Work Related Learning for Postgraduates",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSOE9997.html",
+        "uoc": "6"
+    }
+}

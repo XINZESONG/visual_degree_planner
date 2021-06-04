@@ -1,0 +1,2204 @@
+{
+    "JURD7121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic Program must be 9150. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7101",
+            "LAWS1001",
+            "LAWS1021"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7121.html",
+        "level": "Postgraduate ",
+        "name": "Crime and the Criminal Process",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7121.html",
+        "uoc": "6"
+    },
+    "JURD7122": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LAWS1021 or JURD7121 or LAWS1001 or  JURD7101 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7111",
+            "LAWS1011",
+            "LAWS1022"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7122.html",
+        "level": "Postgraduate ",
+        "name": "Criminal Laws",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7122.html",
+        "uoc": "6"
+    },
+    "JURD7130": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses including LAWS1052 or 24 UOC completed in Juris Doctor courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7110",
+            "LAWS1210",
+            "LAWS1230"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7130.html",
+        "level": "Postgraduate ",
+        "name": "Lawyers, Ethics and Justice",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7130.html",
+        "uoc": "6"
+    },
+    "JURD7141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic Program must be 9150. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7140",
+            "LAWS1140",
+            "LAWS1141"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7141.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Public Law",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7141.html",
+        "uoc": "6"
+    },
+    "JURD7150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic Program must be 9150. ",
+        "equivalent": [
+            "JURD7171"
+        ],
+        "excluded": [
+            "JURD7171",
+            "LAWS1071",
+            "LAWS1150"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7150.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Private Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7150.html",
+        "uoc": "6"
+    },
+    "JURD7152": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic Program must be 9150. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7152.html",
+        "level": "Postgraduate ",
+        "name": "Introducing Law and Justice",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7152.html",
+        "uoc": "6"
+    },
+    "JURD7160": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Principles of Public Law (LAWS1141/JURD7141) or Public Law (LAWS1140/JURD7140) ",
+        "equivalent": [
+            "LAWS1160"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7160.html",
+        "level": "Postgraduate ",
+        "name": "Administrative Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7160.html",
+        "uoc": "6"
+    },
+    "JURD7161": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: JURD7152 ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS1061"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7161.html",
+        "level": "Postgraduate ",
+        "name": "Torts",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7161.html",
+        "uoc": "6"
+    },
+    "JURD7175": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Principles of Private Law (any one of LAWS1071, LAWS1150, JURD7150, or JURD7171) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7172",
+            "LAWS1072",
+            "LAWS1075"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7175.html",
+        "level": "Postgraduate ",
+        "name": "Contracts",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7175.html",
+        "uoc": "6"
+    },
+    "JURD7222": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7632",
+            "LAWS2820",
+            "LAWS3332"
+        ],
+        "excluded": [
+            "JURD7223",
+            "JURD7236",
+            "JURD7284"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7222.html",
+        "level": "Postgraduate ",
+        "name": "Law and Social Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7222.html",
+        "uoc": "6"
+    },
+    "JURD7223": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7431",
+            "LAWS2320",
+            "LAWS3331"
+        ],
+        "excluded": [
+            "JURD7222",
+            "JURD7236",
+            "JURD7284"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7223.html",
+        "level": "Postgraduate ",
+        "name": "Legal Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7223.html",
+        "uoc": "6"
+    },
+    "JURD7224": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150 /JURD7150), Contracts (LAWS1075/JURD7175) and Equity and Trusts (LAWS2385/JURD7285). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS1091",
+            "LAWS2010"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7224.html",
+        "level": "Postgraduate ",
+        "name": "Business Associations",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7224.html",
+        "uoc": "6"
+    },
+    "JURD7236": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7336",
+            "LAWS2326",
+            "LAWS3326"
+        ],
+        "excluded": [
+            "JURD7222",
+            "JURD7223",
+            "JURD7284"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7236.html",
+        "level": "Postgraduate ",
+        "name": "Theories of Law and Justice",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7236.html",
+        "uoc": "6"
+    },
+    "JURD7250": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principle of Public Law (LAWS1141/JURD7141) and Administrative Law (LAWS1160/JURD7160) ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS2150"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7250.html",
+        "level": "Postgraduate ",
+        "name": "Federal Constitutional Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7250.html",
+        "uoc": "6"
+    },
+    "JURD7251": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Crime and Criminal Process (LAWS1021/JURD7121) and Criminal Laws (LAWS1022/JURD7122). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7221",
+            "LAWS2321",
+            "LAWS2351"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7251.html",
+        "level": "Postgraduate ",
+        "name": "Court Process, Evidence and Proof",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7251.html",
+        "uoc": "6"
+    },
+    "JURD7270": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 48 UOC in JURD courses. This course is open ONLY to the students who commenced their program from 2013.Co-requisite: Equity and Trusts (JURD7285) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7571",
+            "LAWS2270",
+            "LAWS3271"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7270.html",
+        "level": "Postgraduate ",
+        "name": "Law in the Global Context",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7270.html",
+        "uoc": "6"
+    },
+    "JURD7271": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150/JURD7150) and Contracts (LAWS1075/ JURD7175) ",
+        "equivalent": [
+            "JURD7211"
+        ],
+        "excluded": [
+            "JURD7211",
+            "LAWS2311",
+            "LAWS2371"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7271.html",
+        "level": "Postgraduate ",
+        "name": "Resolving Civil Disputes",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7271.html",
+        "uoc": "6"
+    },
+    "JURD7272": null,
+    "JURD7283": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150 /JURD7150), Contracts (LAWS1075/JURD7175) and Equity and Trusts (LAWS2385/JURD7285). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7282",
+            "LAWS2382",
+            "LAWS2383"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7283.html",
+        "level": "Postgraduate ",
+        "name": "Land Law",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7283.html",
+        "uoc": "6"
+    },
+    "JURD7284": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7784",
+            "LAWS2384",
+            "LAWS3384"
+        ],
+        "excluded": [
+            "JURD7222",
+            "JURD7223",
+            "JURD7236"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7284.html",
+        "level": "Postgraduate ",
+        "name": "Legal Experimentalism",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7284.html",
+        "uoc": "6"
+    },
+    "JURD7285": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150/JURD7150) and Contracts (LAWS1075/ JURD7175) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7281",
+            "LAWS2381",
+            "LAWS2385"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7285.html",
+        "level": "Postgraduate ",
+        "name": "Equity and Trusts",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7285.html",
+        "uoc": "6"
+    },
+    "JURD7301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3401"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7301.html",
+        "level": "Postgraduate ",
+        "name": "Health and Medical Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7301.html",
+        "uoc": "6"
+    },
+    "JURD7303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including LEJ (JURD7130/7110) and RCD (JURD7271/7211) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including LEJ and RCD. ",
+        "equivalent": [
+            "LAWS3303"
+        ],
+        "excluded": [
+            "JURD7304",
+            "LAWS3303",
+            "LAWS3304"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7303.html",
+        "level": "Postgraduate ",
+        "name": "Kingsford Legal Centre Community Law Clinic (Intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7303.html",
+        "uoc": "12"
+    },
+    "JURD7304": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including LEJ (JURD7130/7110) and RCD (JURD7271/7211) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including LEJ and RCD. ",
+        "equivalent": [
+            "LAWS3304"
+        ],
+        "excluded": [
+            "JURD7303",
+            "LAWS3303",
+            "LAWS3304"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7304.html",
+        "level": "Postgraduate ",
+        "name": "Kingsford Legal Centre Community Law Clinic (Non-intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7304.html",
+        "uoc": "6"
+    },
+    "JURD7305": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including LEJ (JURD7130/7110) and RCD (JURD7271/7211) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including LEJ and RCD. ",
+        "equivalent": [
+            "LAWS3305"
+        ],
+        "excluded": [
+            "LAWS3305"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7305.html",
+        "level": "Postgraduate ",
+        "name": "Kingsford Legal Centre Employment Law Clinic (Intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7305.html",
+        "uoc": "12"
+    },
+    "JURD7318": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. Co-requisite: Business Associations (JURD7224) and Land Law (JURD7283) ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3018"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7318.html",
+        "level": "Postgraduate ",
+        "name": "Commercial Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7318.html",
+        "uoc": "6"
+    },
+    "JURD7321": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. Exclusion: JURD7446, JURD7448, JURD7617 OR equivalent. ",
+        "equivalent": [
+            "LAWS3021"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7321.html",
+        "level": "Postgraduate ",
+        "name": "Foundations of Intellectual Property Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7321.html",
+        "uoc": "6"
+    },
+    "JURD7323": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3123",
+            "LAWS8135"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7323.html",
+        "level": "Postgraduate ",
+        "name": "Chinese Legal System (SJTU)",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7323.html",
+        "uoc": "6"
+    },
+    "JURD7328": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3028"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7328.html",
+        "level": "Postgraduate ",
+        "name": "Employment Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7328.html",
+        "uoc": "6"
+    },
+    "JURD7331": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3131"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7331.html",
+        "level": "Postgraduate ",
+        "name": "Information Technology Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7331.html",
+        "uoc": "6"
+    },
+    "JURD7333": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3133"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7333.html",
+        "level": "Postgraduate ",
+        "name": "Law of Banking",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7333.html",
+        "uoc": "6"
+    },
+    "JURD7335": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3335"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7335.html",
+        "level": "Postgraduate ",
+        "name": "Economic Analysis of Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7335.html",
+        "uoc": "6"
+    },
+    "JURD7336": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "JURD7236",
+            "LAWS2326",
+            "LAWS3326"
+        ],
+        "excluded": [
+            "LAWS3326"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7336.html",
+        "level": "Postgraduate ",
+        "name": "Theories of Law and Justice",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7336.html",
+        "uoc": "6"
+    },
+    "JURD7346": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3146",
+            "LAWS8146"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7346.html",
+        "level": "Postgraduate ",
+        "name": "Human Rights Law (New York)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7346.html",
+        "uoc": "6"
+    },
+    "JURD7357": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 36 UOC of JURD courses for student enrolled prior to 2013. For students enrolled after 2013, 72 UOC of JURD courses. Co-requisite: Foundations of Intellectual Property Law (JURD7321) or Intellectual Property Law (JURD7617). ",
+        "equivalent": [
+            "LAWS3057"
+        ],
+        "excluded": [
+            "JURD7446"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7357.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Intellectual Property Policy and Practice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7357.html",
+        "uoc": "6"
+    },
+    "JURD7361": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3361"
+        ],
+        "excluded": [
+            "LAWS3361",
+            "LAWS9801"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7361.html",
+        "level": "Postgraduate ",
+        "name": "Environmental Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7361.html",
+        "uoc": "6"
+    },
+    "JURD7370": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JD courses including LEJ (JURD7130) and RCD (JURD7271) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JD courses including LEJ and RCD. Co-requisite: CPEP (JURD7251) ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3170"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7370.html",
+        "level": "Postgraduate ",
+        "name": "The Essential Advocate: An Introduction to Advocacy",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7370.html",
+        "uoc": "6"
+    },
+    "JURD7372": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: completion of 36 UOC of JURD courses including Federal Constitutional Law (JURD7250) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Fed.Con. (JURD7250). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3272"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7372.html",
+        "level": "Postgraduate ",
+        "name": "Australian Immigration Law and Practice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7372.html",
+        "uoc": "6"
+    },
+    "JURD7376": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8076"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7376.html",
+        "level": "Postgraduate ",
+        "name": "Current Issues in Criminal Justice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7376.html",
+        "uoc": "6"
+    },
+    "JURD7379": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3079"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7379.html",
+        "level": "Postgraduate ",
+        "name": "Restitution",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7379.html",
+        "uoc": "6"
+    },
+    "JURD7381": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3181"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7381.html",
+        "level": "Postgraduate ",
+        "name": "International Humanitarian Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7381.html",
+        "uoc": "6"
+    },
+    "JURD7382": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 36UOC of JD courses for students enrolled prior to 2013. Students enrolled after 2013 must have completed 72 UOC of JD. Co-requisite: Resolving Civil Disputes (JURD7271) ",
+        "equivalent": [
+            "LAWS3282"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7382.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Administrative Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7382.html",
+        "uoc": "6"
+    },
+    "JURD7383": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3183"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7383.html",
+        "level": "Postgraduate ",
+        "name": "Australian Journal of Human Rights",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7383.html",
+        "uoc": "6"
+    },
+    "JURD7386": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3186"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7386.html",
+        "level": "Postgraduate ",
+        "name": "Human Rights Defender",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7386.html",
+        "uoc": "6"
+    },
+    "JURD7387": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3187"
+        ],
+        "excluded": [
+            "JURD7490",
+            "LAWS3187",
+            "LAWS8190"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7387.html",
+        "level": "Postgraduate ",
+        "name": "Forced Migration and Human Rights in International Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7387.html",
+        "uoc": "6"
+    },
+    "JURD7392": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: completion of 36 UOC of JURD courses including Business Associations (JURD7224) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including BA (JURD7224). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7791",
+            "LAWS3192",
+            "LAWS8091"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7392.html",
+        "level": "Postgraduate ",
+        "name": "Takeovers and Capital Markets Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7392.html",
+        "uoc": "6"
+    },
+    "JURD7404": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8104"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7404.html",
+        "level": "Postgraduate ",
+        "name": "International Children's Rights Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7404.html",
+        "uoc": "6"
+    },
+    "JURD7412": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3412"
+        ],
+        "excluded": [
+            "JURD7691",
+            "JURD7792",
+            "LAWS3412",
+            "LAWS8391",
+            "LAWS8392"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7412.html",
+        "level": "Postgraduate ",
+        "name": "Discrimination and the Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7412.html",
+        "uoc": "6"
+    },
+    "JURD7413": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3413"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7413.html",
+        "level": "Postgraduate ",
+        "name": "Housing Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7413.html",
+        "uoc": "6"
+    },
+    "JURD7414": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: completion of 36 UOC of JURD courses including Business Associations (JURD7224) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including BA (JURD7224). ",
+        "equivalent": [
+            "LAWS3014"
+        ],
+        "excluded": [
+            "JURD7695",
+            "LAWS3014",
+            "LAWS8095"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7414.html",
+        "level": "Postgraduate ",
+        "name": "Insolvency Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7414.html",
+        "uoc": "6"
+    },
+    "JURD7417": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Any of JURD7223, JURD7431, JURD7222, JURD7632, JURD7236, JURD7336. Plus, completion of 36 UOC of JURD courses for student enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. ",
+        "equivalent": [
+            "LAWS3017"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7417.html",
+        "level": "Postgraduate ",
+        "name": "The Politics of Human Rights: Theory and Critique",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7417.html",
+        "uoc": "6"
+    },
+    "JURD7420": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8020"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7420.html",
+        "level": "Postgraduate ",
+        "name": "International Commercial Dispute Resolution",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7420.html",
+        "uoc": "6"
+    },
+    "JURD7421": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3221"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7421.html",
+        "level": "Postgraduate ",
+        "name": "Media Law: General Principles",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7421.html",
+        "uoc": "6"
+    },
+    "JURD7428": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8028"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7428.html",
+        "level": "Postgraduate ",
+        "name": "Corporate Governance",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7428.html",
+        "uoc": "6"
+    },
+    "JURD7431": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "JURD7223",
+            "LAWS2320",
+            "LAWS3331"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7431.html",
+        "level": "Postgraduate ",
+        "name": "Legal Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7431.html",
+        "uoc": "6"
+    },
+    "JURD7434": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3434",
+            "LAWS8422"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7434.html",
+        "level": "Postgraduate ",
+        "name": "Research Thesis: Extended",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7434.html",
+        "uoc": "6"
+    },
+    "JURD7437": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8037"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7437.html",
+        "level": "Postgraduate ",
+        "name": "Surveillance, Security and Democracy",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7437.html",
+        "uoc": "6"
+    },
+    "JURD7438": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8038"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7438.html",
+        "level": "Postgraduate ",
+        "name": "Chinese Corporate and Securities Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7438.html",
+        "uoc": "6"
+    },
+    "JURD7440": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8040"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7440.html",
+        "level": "Postgraduate ",
+        "name": "Online Content Regulation",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7440.html",
+        "uoc": "6"
+    },
+    "JURD7441": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3441"
+        ],
+        "excluded": [
+            "JURD7345",
+            "JURD7564",
+            "LAWS3064",
+            "LAWS3441"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7441.html",
+        "level": "Postgraduate ",
+        "name": "Law Journal (Issue Editor)",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7441.html",
+        "uoc": "6"
+    },
+    "JURD7446": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. Exclusion: JURD7321, JURD7617 OR equivalent ",
+        "equivalent": [
+            "LAWS3046"
+        ],
+        "excluded": [
+            "JURD7357"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7446.html",
+        "level": "Postgraduate ",
+        "name": "Intellectual Property 1: Copyright and Designs",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7446.html",
+        "uoc": "6"
+    },
+    "JURD7448": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. Exclusion: JURD7321, JURD7617 OR equivalent ",
+        "equivalent": [
+            "LAWS3248"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7448.html",
+        "level": "Postgraduate ",
+        "name": "Intellectual Property 2: Trade Marks and Patents",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7448.html",
+        "uoc": "6"
+    },
+    "JURD7449": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3149"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7449.html",
+        "level": "Postgraduate ",
+        "name": "Theories of Law and Biology",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7449.html",
+        "uoc": "6"
+    },
+    "JURD7450": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: completion of 36 UOC of JURD courses including Federal Constitutional Law (JURD7250) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Fed.Con. (JURD7250). ",
+        "equivalent": [
+            "LAWS3150"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7450.html",
+        "level": "Postgraduate ",
+        "name": " Contemporary Constitutional Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7450.html",
+        "uoc": "6"
+    },
+    "JURD7463": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8063"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7463.html",
+        "level": "Postgraduate ",
+        "name": "Concepts and Controversies in Dispute Resolution",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7463.html",
+        "uoc": "6"
+    },
+    "JURD7466": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8066"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7466.html",
+        "level": "Postgraduate ",
+        "name": "Climate Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7466.html",
+        "uoc": "6"
+    },
+    "JURD7468": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Program must be either 6001 or 6021. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7468.html",
+        "level": "Postgraduate ",
+        "name": "The Australian Legal System in Comparative Perspective",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7468.html",
+        "uoc": "6"
+    },
+    "JURD7470": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8070"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7470.html",
+        "level": "Postgraduate ",
+        "name": "Renewable Energy Law: Structuring  and Financing Renewable Energy Projects",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7470.html",
+        "uoc": "6"
+    },
+    "JURD7475": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8075"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7475.html",
+        "level": "Postgraduate ",
+        "name": "Gender, Race and Justice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7475.html",
+        "uoc": "6"
+    },
+    "JURD7476": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: completion of 36 UOC of JURD courses including Federal Constitutional Law (JURD7250) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Fed.Con. (JURD7250). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3276"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7476.html",
+        "level": "Postgraduate ",
+        "name": "Sir Anthony Mason Research Project in Constitutional Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7476.html",
+        "uoc": "6"
+    },
+    "JURD7478": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8078"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7478.html",
+        "level": "Postgraduate ",
+        "name": "Mediation in Practice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7478.html",
+        "uoc": "6"
+    },
+    "JURD7479": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8079"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7479.html",
+        "level": "Postgraduate ",
+        "name": "International Investment Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7479.html",
+        "uoc": "6"
+    },
+    "JURD7480": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8980"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7480.html",
+        "level": "Postgraduate ",
+        "name": "Principled (Interest Based) Negotiation",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7480.html",
+        "uoc": "6"
+    },
+    "JURD7481": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 36UOC of JD courses for students enrolled prior to 2013. Students enrolled after 2013 must have completed 72 UOC of JD courses and Law in the Global Context (JURD7220) ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3381"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7481.html",
+        "level": "Postgraduate ",
+        "name": "Public International Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7481.html",
+        "uoc": "6"
+    },
+    "JURD7482": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3382"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7482.html",
+        "level": "Postgraduate ",
+        "name": "Conflict of Laws",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7482.html",
+        "uoc": "6"
+    },
+    "JURD7484": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3084"
+        ],
+        "excluded": [
+            "JURD7472",
+            "LAWS3084",
+            "LAWS8972"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7484.html",
+        "level": "Postgraduate ",
+        "name": "International Trade Law: The Law and Policy of the WTO",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7484.html",
+        "uoc": "6"
+    },
+    "JURD7485": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3185"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7485.html",
+        "level": "Postgraduate ",
+        "name": "Public Interest Litigation: Origins and Strategies",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7485.html",
+        "uoc": "6"
+    },
+    "JURD7486": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3086"
+        ],
+        "excluded": [
+            "JURD7610",
+            "LAWS3086",
+            "LAWS3510"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7486.html",
+        "level": "Postgraduate ",
+        "name": "International Law Competitive Moot",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7486.html",
+        "uoc": "6"
+    },
+    "JURD7487": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8087"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7487.html",
+        "level": "Postgraduate ",
+        "name": "International Law and the Use of Force",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7487.html",
+        "uoc": "6"
+    },
+    "JURD7488": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8188"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7488.html",
+        "level": "Postgraduate ",
+        "name": "Law of Armed Conflict",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7488.html",
+        "uoc": "6"
+    },
+    "JURD7491": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3391"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7491.html",
+        "level": "Postgraduate ",
+        "name": "Family Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7491.html",
+        "uoc": "6"
+    },
+    "JURD7492": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3392"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7492.html",
+        "level": "Postgraduate ",
+        "name": "Children and the Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7492.html",
+        "uoc": "6"
+    },
+    "JURD7496": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Family Law (JURD7491). Plus, 36  UOC of JD courses for the students enrolled prior to 2013, and 72 UOC of JD courses for the students enrolled after 2013. ",
+        "equivalent": [
+            "LAWS3396"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7496.html",
+        "level": "Postgraduate ",
+        "name": "Family Law Advocacy and Practice",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7496.html",
+        "uoc": "6"
+    },
+    "JURD7502": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including Admin. Law (JURD7160) and Equity & Trusts (JURD7285) for students enrolled prior to 2013. For students enrolled after 2013, 72 UOC of JURD courses including Admin. Law and Equity & Trusts. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7502.html",
+        "level": "Postgraduate ",
+        "name": "Land and Environment Court Clinic",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7502.html",
+        "uoc": "6"
+    },
+    "JURD7505": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8105"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7505.html",
+        "level": "Postgraduate ",
+        "name": "Juvenile Justice",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7505.html",
+        "uoc": "6"
+    },
+    "JURD7514": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8014"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7514.html",
+        "level": "Postgraduate ",
+        "name": "Defamation and the Media",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7514.html",
+        "uoc": "6"
+    },
+    "JURD7515": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: Completion of 36 UOC of JURD courses including Land Law (JURD7283/JURD7282) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Land Law (JURD7283). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3115"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7515.html",
+        "level": "Postgraduate ",
+        "name": "People, Land and Community",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7515.html",
+        "uoc": "6"
+    },
+    "JURD7522": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3022"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7522.html",
+        "level": "Postgraduate ",
+        "name": "Competition Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7522.html",
+        "uoc": "6"
+    },
+    "JURD7526": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8026"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7526.html",
+        "level": "Postgraduate ",
+        "name": "Banking and Finance Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7526.html",
+        "uoc": "6"
+    },
+    "JURD7527": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM3024",
+            "LAWS3427"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7527.html",
+        "level": "Postgraduate ",
+        "name": "Drug Law and Policy",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7527.html",
+        "uoc": "6"
+    },
+    "JURD7540": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including Lawyers, Ethics and Justice (JURD7130/JURD7110) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including LEJ (JURD7130). ",
+        "equivalent": [
+            "LAWS3240"
+        ],
+        "excluded": [
+            "LAWS3240"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7540.html",
+        "level": "Postgraduate ",
+        "name": "Kingsford Legal Centre Family Law Community Education Clinic (Non-intensive)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7540.html",
+        "uoc": "6"
+    },
+    "JURD7555": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3555"
+        ],
+        "excluded": [
+            "JURD7307",
+            "LAWS3307"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7555.html",
+        "level": "Postgraduate ",
+        "name": "UNSW Law Internships",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7555.html",
+        "uoc": "6"
+    },
+    "JURD7564": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3064"
+        ],
+        "excluded": [
+            "JURD7345",
+            "JURD7441",
+            "LAWS3064",
+            "LAWS3441"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7564.html",
+        "level": "Postgraduate ",
+        "name": "UNSW Law Journal (Executive Editor)",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7564.html",
+        "uoc": "6"
+    },
+    "JURD7565": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3065"
+        ],
+        "excluded": [
+            "LAWS3065"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7565.html",
+        "level": "Postgraduate ",
+        "name": "UNSW Law Journal Editor",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7565.html",
+        "uoc": "6"
+    },
+    "JURD7567": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3167"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7567.html",
+        "level": "Postgraduate ",
+        "name": "The Rule of Law in Southeast Asia",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7567.html",
+        "uoc": "6"
+    },
+    "JURD7581": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses including Admin. Law (JURD7160) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Admin. Law. Co-requisite: RCD (JURD7271). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3281"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7581.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Statutory Interpretation",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7581.html",
+        "uoc": "6"
+    },
+    "JURD7582": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3182"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7582.html",
+        "level": "Postgraduate ",
+        "name": "International Human Rights Law and Advocacy",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7582.html",
+        "uoc": "6"
+    },
+    "JURD7593": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7710",
+            "LAWS8210",
+            "TABL5562"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7593.html",
+        "level": "Postgraduate ",
+        "name": "International Business Transactions",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7593.html",
+        "uoc": "6"
+    },
+    "JURD7596": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3196"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7596.html",
+        "level": "Postgraduate ",
+        "name": "Designing Technology Solutions for Access to Justice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7596.html",
+        "uoc": "6"
+    },
+    "JURD7603": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8203"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7603.html",
+        "level": "Postgraduate ",
+        "name": "Global Issues in Competition Law and Policy",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7603.html",
+        "uoc": "6"
+    },
+    "JURD7610": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3510"
+        ],
+        "excluded": [
+            "JURD7486",
+            "LAWS3086",
+            "LAWS3510"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7610.html",
+        "level": "Postgraduate ",
+        "name": "International Commercial Mediation Competition",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7610.html",
+        "uoc": "6"
+    },
+    "JURD7616": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7616.html",
+        "level": "Postgraduate ",
+        "name": "International and Comparative Intellectual Property",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7616.html",
+        "uoc": "6"
+    },
+    "JURD7617": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. Exclusion: JURD7321 OR equivalent ",
+        "equivalent": [
+            "LAWS8017"
+        ],
+        "excluded": [
+            "LAWS8017",
+            "TABL3781",
+            "TABL5517"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7617.html",
+        "level": "Postgraduate ",
+        "name": "Intellectual Property Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7617.html",
+        "uoc": "6"
+    },
+    "JURD7619": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8319"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7619.html",
+        "level": "Postgraduate ",
+        "name": "International Environmental Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7619.html",
+        "uoc": "6"
+    },
+    "JURD7623": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: completion of 36 UOC of JURD courses including Business Associations (JURD7224) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including BA (JURD7224). ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3023"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7623.html",
+        "level": "Postgraduate ",
+        "name": "Commercial and Charitable Trusts",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7623.html",
+        "uoc": "6"
+    },
+    "JURD7625": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8225"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7625.html",
+        "level": "Postgraduate ",
+        "name": "Dispute Resolution in China",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7625.html",
+        "uoc": "6"
+    },
+    "JURD7627": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3327"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7627.html",
+        "level": "Postgraduate ",
+        "name": "Law Schools Global League Summer School",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7627.html",
+        "uoc": "12"
+    },
+    "JURD7632": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "JURD7222",
+            "LAWS2820",
+            "LAWS3332"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7632.html",
+        "level": "Postgraduate ",
+        "name": "Law and Social Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7632.html",
+        "uoc": "6"
+    },
+    "JURD7645": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3345"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7645.html",
+        "level": "Postgraduate ",
+        "name": "CIBEL Elective (Tsinghua)",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7645.html",
+        "uoc": "6"
+    },
+    "JURD7648": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3348",
+            "LAWS8348"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7648.html",
+        "level": "Postgraduate ",
+        "name": "Transitional Justice (South America)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7648.html",
+        "uoc": "6"
+    },
+    "JURD7665": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8165"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7665.html",
+        "level": "Postgraduate ",
+        "name": "Skills in Dispute Management",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7665.html",
+        "uoc": "6"
+    },
+    "JURD7689": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8989"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7689.html",
+        "level": "Postgraduate ",
+        "name": "World Trade Law: Contemporary Issues and Concerns",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7689.html",
+        "uoc": "6"
+    },
+    "JURD7695": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7414",
+            "LAWS3014",
+            "LAWS8095"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7695.html",
+        "level": "Postgraduate ",
+        "name": "Corporate Insolvency",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7695.html",
+        "uoc": "6"
+    },
+    "JURD7701": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3301"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7701.html",
+        "level": "Postgraduate ",
+        "name": "Remedies",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7701.html",
+        "uoc": "6"
+    },
+    "JURD7716": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3216"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7716.html",
+        "level": "Postgraduate ",
+        "name": "Food Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7716.html",
+        "uoc": "6"
+    },
+    "JURD7751": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Public Law (JURD7141/JURD7140), Contracts (JURD7175)/Contracts 2 (JURD7172) and 36 UOC of JD courses for students enrolled prior to 2013. For students enrolled after 2013, 72 UOC of JD courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7351",
+            "JURD7458",
+            "LAWS3058",
+            "LAWS3147",
+            "LAWS3751"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7751.html",
+        "level": "Postgraduate ",
+        "name": "Business Taxation",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7751.html",
+        "uoc": "6"
+    },
+    "JURD7773": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: Completion of 36 UOC of JURD courses including Land Law (JURD7283/JURD7282) for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses including Land Law (JURD7283). ",
+        "equivalent": [
+            "LAWS3073"
+        ],
+        "excluded": [
+            "JURD7371"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7773.html",
+        "level": "Postgraduate ",
+        "name": "Cities, Planning, Law and Justice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7773.html",
+        "uoc": "6"
+    },
+    "JURD7781": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8181"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7781.html",
+        "level": "Postgraduate ",
+        "name": "International Human Rights",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7781.html",
+        "uoc": "6"
+    },
+    "JURD7784": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "JURD7284",
+            "LAWS2384",
+            "LAWS3384"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7784.html",
+        "level": "Postgraduate ",
+        "name": "Legal Experimentalism",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7784.html",
+        "uoc": "6"
+    },
+    "JURD7787": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3087"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7787.html",
+        "level": "Postgraduate ",
+        "name": "US Legal Systems (Berkeley)",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7787.html",
+        "uoc": "6"
+    },
+    "JURD7795": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 72 UOC in JD courses including either LAWS3046/JURD7446 and LAWS3248/JURD7448, or LAWS3021/JURD7321 and LAWS3057/JURD7357, or LAWS8017/JURD7617 and LAWS3057/JURD7357. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7795.html",
+        "level": "Postgraduate ",
+        "name": "Intellectual Property & Tech Commercialisation: Strategic Management of the Lifecycle of Innovation",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7795.html",
+        "uoc": "6"
+    },
+    "JURD7812": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8212"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7812.html",
+        "level": "Postgraduate ",
+        "name": "Native Title Law, Policy and Practice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7812.html",
+        "uoc": "6"
+    },
+    "JURD7813": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3513",
+            "LAWS8123"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7813.html",
+        "level": "Postgraduate ",
+        "name": "Indigenous Children and the Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7813.html",
+        "uoc": "6"
+    },
+    "JURD7817": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8117"
+        ],
+        "excluded": [
+            "CRIM2022",
+            "CRIM3019",
+            "LAWS8117"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7817.html",
+        "level": "Postgraduate ",
+        "name": "Critical Issues in Restorative Justice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7817.html",
+        "uoc": "6"
+    },
+    "JURD7819": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Criminal Laws (JURD7122/JURD7111). Plus, completion of 36 UOC of JURD courses for students enrolled prior to 2013. For students enrolled after 2013, completion of 72 UOC of JURD courses. ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS3319"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7819.html",
+        "level": "Postgraduate ",
+        "name": "Police Powers Clinic",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7819.html",
+        "uoc": "6"
+    },
+    "JURD7823": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7823.html",
+        "level": "Postgraduate ",
+        "name": "Research Thesis: 6 Units of Credit",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7823.html",
+        "uoc": "6"
+    },
+    "JURD7829": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7829.html",
+        "level": "Postgraduate ",
+        "name": "Legal Writing in Context",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7829.html",
+        "uoc": "6"
+    },
+    "JURD7891": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS8991"
+        ],
+        "excluded": [
+            "JURD7467",
+            "LAWS3067",
+            "LAWS8991"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7891.html",
+        "level": "Postgraduate ",
+        "name": "International Criminal Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7891.html",
+        "uoc": "6"
+    },
+    "JURD7942": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [
+            "LAWS3442"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7942.html",
+        "level": "Postgraduate ",
+        "name": "The Will of the People",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7942.html",
+        "uoc": "6"
+    },
+    "JURD7992": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 72 UOC of JURD courses ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8092"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/JURD7992.html",
+        "level": "Postgraduate ",
+        "name": "Securities and Financial Markets Regulation",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/JURD7992.html",
+        "uoc": "6"
+    }
+}

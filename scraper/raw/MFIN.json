@@ -1,0 +1,58 @@
+{
+    "MFIN6201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: enrolment in program 8406 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MFIN6201.html",
+        "level": "Postgraduate ",
+        "name": "Empirical Techniques and Applications in Finance",
+        "school": " School of Banking and Finance",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MFIN6201.html",
+        "uoc": "6"
+    },
+    "MFIN6205": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MFIN6201 or MFIN6214 and enrolment in program 8406 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MFIN6205.html",
+        "level": "Postgraduate ",
+        "name": "Financial Risk Management for Financial Institutions",
+        "school": " School of Banking and Finance",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MFIN6205.html",
+        "uoc": "6"
+    },
+    "MFIN6210": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MFIN6201 or MFIN6214 and enrolment in program 8406 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MFIN6210.html",
+        "level": "Postgraduate ",
+        "name": "Empirical Studies in Finance",
+        "school": " School of Banking and Finance",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MFIN6210.html",
+        "uoc": "6"
+    },
+    "MFIN6214": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: enrolment in program 8406 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MFIN6214.html",
+        "level": "Postgraduate ",
+        "name": "Financial Theory and Policy",
+        "school": " School of Banking and Finance",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MFIN6214.html",
+        "uoc": "6"
+    }
+}

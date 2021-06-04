@@ -1,0 +1,328 @@
+{
+    "ACCT1501": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPBS1501"
+        ],
+        "excluded": [
+            "COMM1140"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT1501.html",
+        "level": "Undergraduate ",
+        "name": "Accounting and Financial Management 1A",
+        "school": " School of Accounting",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT1501.html",
+        "uoc": "6"
+    },
+    "ACCT1511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT1501 ",
+        "equivalent": [
+            "DPBS1511"
+        ],
+        "excluded": [
+            "ACCT2511"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT1511.html",
+        "level": "Undergraduate ",
+        "name": "Accounting and Financial Management 1B",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT1511.html",
+        "uoc": "6"
+    },
+    "ACCT2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT2101.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 1",
+        "school": " School of Accounting",
+        "terms": "Summer Term, Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT2101.html",
+        "uoc": "12"
+    },
+    "ACCT2511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM1140 ",
+        "equivalent": [],
+        "excluded": [
+            "ACCT1511"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT2511.html",
+        "level": "Undergraduate ",
+        "name": "Financial Accounting Fundamentals",
+        "school": " School of Accounting",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT2511.html",
+        "uoc": "6"
+    },
+    "ACCT2522": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT1511 or Corequisite: ACCT2511 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT2522.html",
+        "level": "Undergraduate ",
+        "name": "Management Accounting 1",
+        "school": " School of Accounting",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT2522.html",
+        "uoc": "6"
+    },
+    "ACCT2542": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT1511 or ACCT2511 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT2542.html",
+        "level": "Undergraduate ",
+        "name": "Corporate Financial Reporting and Analysis",
+        "school": " School of Accounting",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT2542.html",
+        "uoc": "6"
+    },
+    "ACCT2672": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACCT1501 AND 65+ WAM or COMM1140  AND 65+ WAM ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT2672.html",
+        "level": "Undergraduate ",
+        "name": "Accounting Analytics for Business Decision Making",
+        "school": " School of Accounting",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT2672.html",
+        "uoc": "6"
+    },
+    "ACCT3202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3202.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 2",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3202.html",
+        "uoc": "6"
+    },
+    "ACCT3303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Accounting Co-op Major (ACCTB13554) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3303.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 3",
+        "school": " School of Accounting",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3303.html",
+        "uoc": "6"
+    },
+    "ACCT3563": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:ACCT2542 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3563.html",
+        "level": "Undergraduate ",
+        "name": "Issues in Financial Reporting and Analysis",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3563.html",
+        "uoc": "6"
+    },
+    "ACCT3583": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT2522 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3583.html",
+        "level": "Undergraduate ",
+        "name": "Management Accounting 2",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3583.html",
+        "uoc": "6"
+    },
+    "ACCT3601": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT2542 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3601.html",
+        "level": "Undergraduate ",
+        "name": "Global Financial Reporting and Analysis",
+        "school": " School of Accounting",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3601.html",
+        "uoc": "6"
+    },
+    "ACCT3610": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT2542 and FINS1613 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3610.html",
+        "level": "Undergraduate ",
+        "name": "Business Analysis and Valuation",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3610.html",
+        "uoc": "6"
+    },
+    "ACCT3625": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Completed 72 UOC, 65+ WAM ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3625.html",
+        "level": "Undergraduate ",
+        "name": "Integrated Reporting, Integrated Thinking and Value Creation",
+        "school": " School of Accounting",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3625.html",
+        "uoc": "6"
+    },
+    "ACCT3708": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACCT2542 or approval from the School ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT3708.html",
+        "level": "Undergraduate ",
+        "name": "Auditing and Assurance Services",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT3708.html",
+        "uoc": "6"
+    },
+    "ACCT4796": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4796.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Accounting) A",
+        "school": " School of Accounting",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4796.html",
+        "uoc": "6"
+    },
+    "ACCT4797": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must be enrolled in program 4501 (Accounting) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4797.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Accounting) B",
+        "school": " School of Accounting",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4797.html",
+        "uoc": "6"
+    },
+    "ACCT4798": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4798.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Accounting) C",
+        "school": " School of Accounting",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4798.html",
+        "uoc": "12"
+    },
+    "ACCT4809": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must be enrolled in program 4501 (Accounting) ",
+        "equivalent": [
+            "ACCT5909"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4809.html",
+        "level": "Undergraduate ",
+        "name": "Current Developments in Auditing Research",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4809.html",
+        "uoc": "6"
+    },
+    "ACCT4851": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must be enrolled in program 4501 (Accounting) ",
+        "equivalent": [
+            "ACCT5951"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4851.html",
+        "level": "Undergraduate ",
+        "name": "Current Developments in Accounting Research - Financial",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4851.html",
+        "uoc": "6"
+    },
+    "ACCT4852": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must be enrolled in program 4501 (Accounting) ",
+        "equivalent": [
+            "ACCT5952"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4852.html",
+        "level": "Undergraduate ",
+        "name": "Current Developments in Accounting Research - Managerial",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4852.html",
+        "uoc": "6"
+    },
+    "ACCT4897": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must be enrolled in program 4501 (Accounting) ",
+        "equivalent": [
+            "ACCT5997"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACCT4897.html",
+        "level": "Undergraduate ",
+        "name": "Seminar in Research Methodology",
+        "school": " School of Accounting",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACCT4897.html",
+        "uoc": "6"
+    }
+}

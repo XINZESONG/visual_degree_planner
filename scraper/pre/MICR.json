@@ -1,0 +1,62 @@
+{
+    "MICR2011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MICR2011.html",
+        "level": "Undergraduate ",
+        "name": "Microbiology 1",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MICR2011.html",
+        "uoc": "6"
+    },
+    "MICR3061": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 and MICR2011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MICR3061.html",
+        "level": "Undergraduate ",
+        "name": "Viruses and Disease",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MICR3061.html",
+        "uoc": "6"
+    },
+    "MICR3071": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MICR2011 ",
+        "equivalent": [],
+        "excluded": [
+            "MICR9071"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MICR3071.html",
+        "level": "Undergraduate ",
+        "name": "Environmental Microbiology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MICR3071.html",
+        "uoc": "6"
+    },
+    "MICR3621": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-req: 12 UoC from MICR2011 or BIOS2021/BABS2204 or BIOS2621/BABS2264 or BIOC2201 ",
+        "equivalent": [],
+        "excluded": [
+            "BABS3021"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MICR3621.html",
+        "level": "Undergraduate ",
+        "name": "Microbial Genetics (Advanced)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MICR3621.html",
+        "uoc": "6"
+    }
+}

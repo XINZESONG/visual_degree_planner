@@ -1,0 +1,53 @@
+{
+    "MERE4951": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 126 UOC and (MINE3430 or PTRL3030) ",
+        "equivalent": [
+            "MINE4951",
+            "PTRL4951"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MERE4951.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis A",
+        "school": " School of Minerals & Energy Resources Engineering",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MERE4951.html",
+        "uoc": "4"
+    },
+    "MERE4952": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MERE4951 ",
+        "equivalent": [
+            "MINE4952",
+            "PTRL4952"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MERE4952.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis B",
+        "school": " School of Minerals & Energy Resources Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MERE4952.html",
+        "uoc": "4"
+    },
+    "MERE4953": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: MERE4952 ",
+        "equivalent": [
+            "MINE4953",
+            "PTRL4953"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MERE4953.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis C",
+        "school": " School of Minerals & Energy Resources Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MERE4953.html",
+        "uoc": "4"
+    }
+}

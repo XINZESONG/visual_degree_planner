@@ -1,0 +1,83 @@
+
+.plan-wrapper {
+    margin-top: auto;
+    display: flex;
+    height: calc(100vh * 0.27);
+    width: 200px;
+    flex-direction: column;
+    
+    
+}
+.plan-header {
+    background:#234a71;
+    color: #fff;
+    text-align: center;
+    height: calc(100vh * 0.058);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    /*background: #234a71;
+    height:44px;
+    color: #fff;
+    text-align: center;
+    */
+
+ 
+}
+.plan-col {
+    overflow: auto;
+    /* border: 1px solid #d2d2d2; */
+    width:100%;
+    height: 100%;
+    /* margin: 0 2px; */
+    background: #eee;
+    display: flex;
+    flex-direction: column;
+}
+.plan-item {
+    border: 1px solid #008CBA;
+    width: 80%;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #b3b3b3;
+    margin: 5px auto;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #282c34;
+   
+    
+}
+.save {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.savebutton {
+    background: #fff;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #b3b3b3;
+    border: 1px solid #008CBA;
+    color: #282c34;
+}
+/* .delete {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+} */
+.plan-button {
+  flex: 1;
+}
+.plan-Name {
+   flex: 3;
+   margin-left: 5px;
+   margin-right: 5px;
+}
+.expand {
+    margin-left:5px;
+}
+.plan-style{
+    border-radius: 5px;
+    border: 1px solid #008CBA;
+}

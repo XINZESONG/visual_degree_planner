@@ -1,0 +1,44 @@
+{
+    "CHEN6701": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CHEN6701.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Reaction Engineering",
+        "school": " School of Chemical Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CHEN6701.html",
+        "uoc": "6"
+    },
+    "CHEN6703": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CHEN6703.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Particle Systems Engineering",
+        "school": " School of Chemical Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CHEN6703.html",
+        "uoc": "6"
+    },
+    "CHEN6706": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: CEIC2001, CEIC2002, MATH2019, CEIC3000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CHEN6706.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Transport Phenomena",
+        "school": " School of Chemical Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CHEN6706.html",
+        "uoc": "6"
+    }
+}

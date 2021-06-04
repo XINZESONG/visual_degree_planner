@@ -1,0 +1,104 @@
+{
+    "VISN1101": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "VISN1211"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN1101.html",
+        "level": "Undergraduate ",
+        "name": "Seeing the World: Perspectives from Vision Science",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN1101.html",
+        "uoc": "6"
+    },
+    "VISN1111": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN1111.html",
+        "level": "Undergraduate ",
+        "name": "Geometrical and Physical Optics",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN1111.html",
+        "uoc": "6"
+    },
+    "VISN1221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: VISN1111 ",
+        "equivalent": [],
+        "excluded": [
+            "VISN2131"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN1221.html",
+        "level": "Undergraduate ",
+        "name": "Visual Optics",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN1221.html",
+        "uoc": "6"
+    },
+    "VISN2111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: VISN1101 and ANAT2111 and PHSL2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN2111.html",
+        "level": "Undergraduate ",
+        "name": "Ocular Anatomy and Physiology",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN2111.html",
+        "uoc": "6"
+    },
+    "VISN2211": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: VISN2111 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN2211.html",
+        "level": "Undergraduate ",
+        "name": "Organisation and Function of the Visual System",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN2211.html",
+        "uoc": "6"
+    },
+    "VISN3111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: VISN2211 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN3111.html",
+        "level": "Undergraduate ",
+        "name": "Development and Aging of the Visual System",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN3111.html",
+        "uoc": "6"
+    },
+    "VISN4016": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in VISN Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/VISN4016.html",
+        "level": "Undergraduate ",
+        "name": "Vision Science Honours",
+        "school": " School of Optometry and Vision Science",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/VISN4016.html",
+        "uoc": "16"
+    }
+}

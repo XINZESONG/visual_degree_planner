@@ -1,0 +1,343 @@
+{
+    "CRIM1010": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM1010.html",
+        "level": "Undergraduate ",
+        "name": "Criminology: An Introduction",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM1010.html",
+        "uoc": "6"
+    },
+    "CRIM1011": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM1011.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Criminal Justice",
+        "school": " School of Social Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM1011.html",
+        "uoc": "6"
+    },
+    "CRIM2014": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 including CRIM1010 and CRIM1011 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7789",
+            "LAWS3789"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2014.html",
+        "level": "Undergraduate ",
+        "name": "Issues in Policing",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2014.html",
+        "uoc": "6"
+    },
+    "CRIM2020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24units of credit at Level 1 including CRIM1010 and CRIM1011; Excluded: Students in all Law Faculty programs ",
+        "equivalent": [],
+        "excluded": [
+            "LAWS8090"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2020.html",
+        "level": "Undergraduate ",
+        "name": "Criminal Law and Justice 1",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2020.html",
+        "uoc": "6"
+    },
+    "CRIM2021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: CRIM2020, not available to students in Law programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2021.html",
+        "level": "Undergraduate ",
+        "name": "Criminal Law and Justice 2",
+        "school": " School of Social Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2021.html",
+        "uoc": "6"
+    },
+    "CRIM2031": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 including CRIM1010 or CRIM1011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2031.html",
+        "level": "Undergraduate ",
+        "name": "Indigenous Perspective in Criminal Justice",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2031.html",
+        "uoc": "6"
+    },
+    "CRIM2034": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 including CRIM1010 or CRIM1011 ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM2027"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2034.html",
+        "level": "Undergraduate ",
+        "name": "Crime, Politics and the Media",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2034.html",
+        "uoc": "6"
+    },
+    "CRIM2037": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 including CRIM1010 or CRIM1011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2037.html",
+        "level": "Undergraduate ",
+        "name": "Explaining Punishment",
+        "school": " School of Social Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2037.html",
+        "uoc": "6"
+    },
+    "CRIM2038": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 including CRIM1010 and CRIM1011 ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM2029"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2038.html",
+        "level": "Undergraduate ",
+        "name": "Young People and Juvenile Justice",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2038.html",
+        "uoc": "6"
+    },
+    "CRIM2041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit at Level 1 ",
+        "equivalent": [
+            "SLSP2820"
+        ],
+        "excluded": [
+            "GENT0911"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2041.html",
+        "level": "Undergraduate ",
+        "name": "Crime and Punishment in Historical Perspective",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2041.html",
+        "uoc": "6"
+    },
+    "CRIM2042": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit overall, including CRIM1010 or CRIM1011, and enrolment in a single or double degree Criminology and Criminal Justice program, or Criminology stream. Equivalent: CRIM3001 ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM5001"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM2042.html",
+        "level": "Undergraduate ",
+        "name": "Explaining Crime",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM2042.html",
+        "uoc": "6"
+    },
+    "CRIM3000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 72 units of credit overall, and enrolment in a Criminology major or a Criminology & Criminology Justice single or dual program ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM2000"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3000.html",
+        "level": "Undergraduate ",
+        "name": "Criminology in Practice",
+        "school": " School of Social Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3000.html",
+        "uoc": "6"
+    },
+    "CRIM3011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in Criminology. Or 84 uoc and enrolled in 4787 Social Work (Honours)/Law ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7503",
+            "LAWS8103"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3011.html",
+        "level": "Undergraduate ",
+        "name": "Crime Prevention Policy",
+        "school": " School of Social Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3011.html",
+        "uoc": "6"
+    },
+    "CRIM3015": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: CRIM2021 or LAWS1022 ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM3006",
+            "JURD7193",
+            "LAWS8193"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3015.html",
+        "level": "Undergraduate ",
+        "name": "State Crime and Human Rights",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3015.html",
+        "uoc": "6"
+    },
+    "CRIM3019": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in Criminology. Or 84 uoc and enrolled in 4787 Social Work (Honours)/Law ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM2022",
+            "JURD7817",
+            "LAWS8117"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3019.html",
+        "level": "Undergraduate ",
+        "name": "Restorative Justice",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3019.html",
+        "uoc": "6"
+    },
+    "CRIM3020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in Criminology. Or 84 uoc and enrolled in 4787 Social Work (Honours)/Law ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM3008"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3020.html",
+        "level": "Undergraduate ",
+        "name": "The Criminal Trial",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3020.html",
+        "uoc": "6"
+    },
+    "CRIM3022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in Criminology. Or 84 uoc and enrolled in 4787 Social Work (Honours)/Law ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3022.html",
+        "level": "Undergraduate ",
+        "name": "Public Health and Corrections",
+        "school": " School of Social Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3022.html",
+        "uoc": "6"
+    },
+    "CRIM3024": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: CRIM2021 or LAWS1022 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7527",
+            "LAWS3427"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3024.html",
+        "level": "Undergraduate ",
+        "name": "Issues in Drug Policy",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3024.html",
+        "uoc": "6"
+    },
+    "CRIM3025": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 uoc including CRIM1010, CRIM1011 and CRIM2042, WAM 75, and in the final year of a Criminology major or Criminology & Criminal Justice single or double degree. Students in program 4034 are not eligible to enrol. Consent required. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM3025.html",
+        "level": "Undergraduate ",
+        "name": "Criminology Work Integrated Learning Placement",
+        "school": " School of Social Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM3025.html",
+        "uoc": "6"
+    },
+    "CRIM4001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in the Criminology honours program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM4001.html",
+        "level": "Undergraduate ",
+        "name": "Criminology Honours",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM4001.html",
+        "uoc": "6"
+    },
+    "CRIM4002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in the Criminology honours program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM4002.html",
+        "level": "Undergraduate ",
+        "name": "Criminology Honours",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM4002.html",
+        "uoc": "12"
+    },
+    "CRIM4003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in the Criminology honours program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CRIM4003.html",
+        "level": "Undergraduate ",
+        "name": "Criminology Honours",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CRIM4003.html",
+        "uoc": "18"
+    }
+}

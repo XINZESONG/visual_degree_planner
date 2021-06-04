@@ -1,0 +1,51 @@
+.List {
+    overflow: auto;
+    height: 100%;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    border-right: solid #002766;
+}
+.Button {
+    display: flex;
+    flex-direction: column;
+}
+.result {
+    height: calc(100vh * 0.6);
+}
+
+.button {
+    margin: 2px;
+    background-color:transparent;
+    /*border: 1px solid grey;
+    border-radius: 5px;*/
+    border: none;
+    outline:none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button1 {
+    padding: 8px 16px;
+    background-color: transparent;
+    color: black;
+}
+
+.button1:hover {
+    color:#1890ff;
+    border-right: 4px solid #1890ff;
+    /*border:1px solid #108ee9;*/
+    text:#108ee9;
+    transition: 0.5s;
+    background:#e6f7ff;
+}
+.button2 {
+    margin: 0px;
+    padding: 4px 8px;
+    font-size: 8px;
+    background-color: #b6ebfb;
+}

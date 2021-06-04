@@ -1,0 +1,30 @@
+{
+    "GENM0295": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENM0295.html",
+        "level": "Undergraduate ",
+        "name": "Personalised medicine",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENM0295.html",
+        "uoc": "6"
+    },
+    "GENM0709": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: Not available to Undergraduate Faculty of Medicine single/dual program students ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENM0709.html",
+        "level": "Undergraduate ",
+        "name": "The Power of Sport: An Introduction to Sport for Social Change",
+        "school": " School of Public Health & Community Medicine",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENM0709.html",
+        "uoc": "6"
+    }
+}

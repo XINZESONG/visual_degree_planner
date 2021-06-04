@@ -1,0 +1,72 @@
+{
+    "ZINT2100": {
+        "campus": "UNSW Canberra ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Canberra at ADFA",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ZINT2100.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Cyber-Security: Policy and Operations",
+        "school": " UC Engineering & Information Technology",
+        "terms": "Semester 1, Semester 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ZINT2100.html",
+        "uoc": "6"
+    },
+    "ZINT2501": {
+        "campus": "UNSW Canberra ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Canberra at ADFA",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ZINT2501.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Materials and Chemistry",
+        "school": " UC Science",
+        "terms": "Semester 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ZINT2501.html",
+        "uoc": "6"
+    },
+    "ZINT8105": {
+        "campus": "UNSW Canberra ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Canberra at ADFA",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZINT8105.html",
+        "level": "Postgraduate ",
+        "name": "Academic Practice: Critical Reading and Writing",
+        "school": " UC School of Humanities and Social Sciences",
+        "terms": "Semester 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ZINT8105.html",
+        "uoc": "6"
+    },
+    "ZINT8301": {
+        "campus": "UNSW Canberra ",
+        "conditions": "Conditions for Enrolment Restricted to students enrolled in Graduate Diploma or Masters programs. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Canberra at ADFA",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ZINT8301.html",
+        "level": "Postgraduate ",
+        "name": "Lethality and Survivability",
+        "school": " UC Engineering & Information Technology",
+        "terms": "Semester 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ZINT8301.html",
+        "uoc": "6"
+    },
+    "ZINT9001": {
+        "campus": "UNSW Canberra ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Canberra at ADFA",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ZINT9001.html",
+        "level": "Research ",
+        "name": "Postgraduate Research Preparation Course",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ZINT9001.html",
+        "uoc": "0"
+    }
+}

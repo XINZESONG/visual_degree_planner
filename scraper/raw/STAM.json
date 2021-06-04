@@ -1,0 +1,30 @@
+{
+    "STAM9000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/STAM9000.html",
+        "level": "Research ",
+        "name": "PhD Thesis Arts and Media Full Time",
+        "school": " School of the Arts and Media",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/STAM9000.html",
+        "uoc": "12"
+    },
+    "STAM9050": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/STAM9050.html",
+        "level": "Research ",
+        "name": "PhD Thesis Arts and Media Part Time",
+        "school": " School of the Arts and Media",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/STAM9050.html",
+        "uoc": "6"
+    }
+}

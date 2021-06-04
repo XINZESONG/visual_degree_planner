@@ -1,0 +1,35 @@
+{
+    "RISK2001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON1101 and ACCT1501 ",
+        "equivalent": [
+            "COMM0032",
+            "RISK5001"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/RISK2001.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Risk and Risk Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK2001.html",
+        "uoc": "6"
+    },
+    "RISK3003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACCT1501 and (ECON1203 or RISK2001) ",
+        "equivalent": [
+            "RISK5003"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/RISK3003.html",
+        "level": "Undergraduate ",
+        "name": "Risk Decision Analytics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK3003.html",
+        "uoc": "6"
+    }
+}

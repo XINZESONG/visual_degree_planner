@@ -1,0 +1,286 @@
+{
+    "INTA1000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ARCH6101",
+            "BENV1101",
+            "INTA2101"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA1000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 1",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA1000.html",
+        "uoc": "6"
+    },
+    "INTA1002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA1002.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Composition 2",
+        "school": " School of Built Environment",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA1002.html",
+        "uoc": "6"
+    },
+    "INTA1003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: INTA1001,  INTA1002 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA1003.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Composition 3",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA1003.html",
+        "uoc": "6"
+    },
+    "INTA2000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Co-Req: BENV0001 ",
+        "equivalent": [
+            "INTA2102"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 2",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2000.html",
+        "uoc": "6"
+    },
+    "INTA2001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2001.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Technics 1",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2001.html",
+        "uoc": "6"
+    },
+    "INTA2002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "INTA1172"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2002.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Technics 2",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2002.html",
+        "uoc": "6"
+    },
+    "INTA2003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: INTA2001, INTA2002 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2003.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Technics 3",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2003.html",
+        "uoc": "6"
+    },
+    "INTA2004": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite courses: INTA2001, INTA2002 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2004.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Technics 4",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2004.html",
+        "uoc": "6"
+    },
+    "INTA2411": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INTA600 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA2411.html",
+        "level": "Undergraduate ",
+        "name": "Dissertation",
+        "school": " School of Built Environment",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA2411.html",
+        "uoc": "6"
+    },
+    "INTA3000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: INTA1000, INTA2000, INTA2101, INTA2102, BENV0001 ",
+        "equivalent": [
+            "INTA2201"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA3000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 3",
+        "school": " School of Built Environment",
+        "terms": "Summer Term, Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA3000.html",
+        "uoc": "6"
+    },
+    "INTA3002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "INTA2122"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA3002.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Critical Perspectives 2",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA3002.html",
+        "uoc": "6"
+    },
+    "INTA3003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INTA3121, INTA3122 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA3003.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Critical Perspectives 3",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA3003.html",
+        "uoc": "6"
+    },
+    "INTA3004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "INTA2222"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA3004.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Critical Perspectives 4",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA3004.html",
+        "uoc": "6"
+    },
+    "INTA4000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: INTA1000, INTA2000, INTA2101, INTA2102, BENV0001 ",
+        "equivalent": [
+            "INTA2202"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA4000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 4",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA4000.html",
+        "uoc": "6"
+    },
+    "INTA4004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA4004.html",
+        "level": "Undergraduate ",
+        "name": "Practice of Interior Architecture",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA4004.html",
+        "uoc": "6"
+    },
+    "INTA5000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: INTA3000, INTA4000, INTA2201, INTA2202 ",
+        "equivalent": [
+            "INTA2301"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA5000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 5",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA5000.html",
+        "uoc": "6"
+    },
+    "INTA6000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INTA2301, INTA5000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA6000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 6",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA6000.html",
+        "uoc": "12"
+    },
+    "INTA7000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INTA600 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA7000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 7",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA7000.html",
+        "uoc": "12"
+    },
+    "INTA8000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INTA7000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INTA8000.html",
+        "level": "Undergraduate ",
+        "name": "Interior Architecture Practice Studio 8",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INTA8000.html",
+        "uoc": "12"
+    }
+}

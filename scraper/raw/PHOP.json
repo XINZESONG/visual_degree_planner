@@ -1,0 +1,58 @@
+{
+    "PHOP9012": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 9040 Master of Public Health (International) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/PHOP9012.html",
+        "level": "Postgraduate ",
+        "name": "Health Promotion and Social Perspectives of Health",
+        "school": " School of Public Health & Community Medicine",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHOP9012.html",
+        "uoc": "6"
+    },
+    "PHOP9143": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 9040 Master of Public Health (International) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/PHOP9143.html",
+        "level": "Postgraduate ",
+        "name": "Internship",
+        "school": " School of Public Health & Community Medicine",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHOP9143.html",
+        "uoc": "6"
+    },
+    "PHOP9606": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 9040 Master of Public Health (International) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/PHOP9606.html",
+        "level": "Postgraduate ",
+        "name": "Reproductive Maternal and Children's Health",
+        "school": " School of Public Health & Community Medicine",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHOP9606.html",
+        "uoc": "6"
+    },
+    "PHOP9748": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 9040 Master of Public Health (International) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/PHOP9748.html",
+        "level": "Postgraduate ",
+        "name": "Clinical Governance and Risk Management",
+        "school": " School of Public Health & Community Medicine",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHOP9748.html",
+        "uoc": "6"
+    }
+}

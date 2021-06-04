@@ -1,0 +1,148 @@
+{
+    "BIOC2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1051 or CHEM1811 and CHEM1021 or DPST1032 or CHEM1041 or CHEM1061 or CHEM1821 ",
+        "equivalent": [],
+        "excluded": [
+            "BIOC1221",
+            "BIOC2181",
+            "GENB1002",
+            "GENS6012",
+            "LIFE2101"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC2101.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Biochemistry (Advanced)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC2101.html",
+        "uoc": "6"
+    },
+    "BIOC2181": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1831 ",
+        "equivalent": [],
+        "excluded": [
+            "BIOC1221",
+            "BIOC2101",
+            "GENB1002",
+            "GENS6012",
+            "LIFE2101"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC2181.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Biochemistry",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC2181.html",
+        "uoc": "6"
+    },
+    "BIOC2201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1051 or CHEM1811 and CHEM1021 or DPST1032 or CHEM1041 or CHEM1061 or CHEM1821 ",
+        "equivalent": [],
+        "excluded": [
+            "BIOC2291",
+            "GENB1001",
+            "GENS6011"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC2201.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Molecular Biology (Advanced)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC2201.html",
+        "uoc": "6"
+    },
+    "BIOC3111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: BIOC2101 or LIFE2101, BIOC2201 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC3111.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Biology of Proteins",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC3111.html",
+        "uoc": "6"
+    },
+    "BIOC3261": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2101, BIOC2201 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC3261.html",
+        "level": "Undergraduate ",
+        "name": "Human Biochemistry",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC3261.html",
+        "uoc": "6"
+    },
+    "BIOC3271": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2101, BIOC2201 ",
+        "equivalent": [],
+        "excluded": [
+            "BIOC3671"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC3271.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Cell Biology 2",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC3271.html",
+        "uoc": "6"
+    },
+    "BIOC3671": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2101, BIOC2201. Restricted to Advanced Science programs (3985, 3990, 3962, 3972, 3973, 3986, 3931, 3936) ",
+        "equivalent": [],
+        "excluded": [
+            "BIOC3271"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BIOC3671.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Cell Biology 2 (Advanced)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC3671.html",
+        "uoc": "6"
+    },
+    "BIOC8608": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/BIOC8608.html",
+        "level": "Research ",
+        "name": "Biochemistry Research Thesis Full-Time",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC8608.html",
+        "uoc": "12"
+    },
+    "BIOC8618": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/BIOC8618.html",
+        "level": "Research ",
+        "name": "Part-Time Research Thesis Biochemistry",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BIOC8618.html",
+        "uoc": "6"
+    }
+}

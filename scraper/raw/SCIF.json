@@ -1,0 +1,118 @@
+{
+    "SCIF1004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF1004.html",
+        "level": "Undergraduate ",
+        "name": "Science and the Cinema",
+        "school": " School of Chemistry",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF1004.html",
+        "uoc": "6"
+    },
+    "SCIF1111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolment in the Bachelor of Medical Science (3991) or the Bachelor of Medicinal Chemistry (3992) or the bachelor of Medicinal Chemistry (Honours) (3999) ",
+        "equivalent": [
+            "BSSM1110",
+            "SCIF1110"
+        ],
+        "excluded": [
+            "PSYC1021",
+            "SCIF1101",
+            "SCIF1102",
+            "SCIF1121",
+            "SCIF1131"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF1111.html",
+        "level": "Undergraduate ",
+        "name": "Perspectives in Medical Science",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF1111.html",
+        "uoc": "6"
+    },
+    "SCIF1131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolment in BSc (Adv. Science), BAdvSci(Hons), BSc (Adv. Maths), BSc(AdvMath)(Hons), (incl. associated dual degrees), or BMedSci ",
+        "equivalent": [],
+        "excluded": [
+            "PSYC1021",
+            "SCIF1101",
+            "SCIF1102",
+            "SCIF1111",
+            "SCIF1121"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF1131.html",
+        "level": "Undergraduate ",
+        "name": "Introductory Skills for Science",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF1131.html",
+        "uoc": "6"
+    },
+    "SCIF2041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: Minimum 48 UoC completed and 70 WAM ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF2041.html",
+        "level": "Undergraduate ",
+        "name": "Research Internship A",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF2041.html",
+        "uoc": "6"
+    },
+    "SCIF2199": null,
+    "SCIF3041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: 72UOC completed 70WAM ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF3041.html",
+        "level": "Undergraduate ",
+        "name": "Research Internship B",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF3041.html",
+        "uoc": "6"
+    },
+    "SCIF3900": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Minimum completion of 72 UoC ",
+        "equivalent": [],
+        "excluded": [
+            "AVIA3900"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SCIF3900.html",
+        "level": "Undergraduate ",
+        "name": "Sustainable Tourism in Regional Australia",
+        "school": " School of Aviation",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF3900.html",
+        "uoc": "6"
+    },
+    "SCIF7000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SCIF7000.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Communication Skills in Science",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SCIF7000.html",
+        "uoc": "6"
+    }
+}

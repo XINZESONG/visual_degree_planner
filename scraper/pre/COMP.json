@@ -1,0 +1,1037 @@
+{
+    "COMP1010": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ENGG1811"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1010.html",
+        "level": "Undergraduate ",
+        "name": "The Art of Computing",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP1010.html",
+        "uoc": "6"
+    },
+    "COMP1511": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "COMP1917",
+            "DPST1091"
+        ],
+        "excluded": [
+            "DPST1091"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1511.html",
+        "level": "Undergraduate ",
+        "name": "Programming Fundamentals",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP1511.html",
+        "uoc": "6"
+    },
+    "COMP1521": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1511 or DPST1091 or COMP1911 or COMP1917 ",
+        "equivalent": [
+            "DPST1092"
+        ],
+        "excluded": [
+            "DPST1092"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1521.html",
+        "level": "Undergraduate ",
+        "name": "Computer Systems Fundamentals",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP1521.html",
+        "uoc": "6"
+    },
+    "COMP1531": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921 ",
+        "equivalent": [],
+        "excluded": [
+            "SENG1010",
+            "SENG1020",
+            "SENG1031"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1531.html",
+        "level": "Undergraduate ",
+        "name": "Software Engineering Fundamentals",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP1531.html",
+        "uoc": "6"
+    },
+    "COMP1911": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP1911.html",
+        "level": "Undergraduate ",
+        "name": "Computing 1A",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP1911.html",
+        "uoc": "6"
+    },
+    "COMP2041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1511 OR DPST1091 OR COMP1917 OR COMP1921 ",
+        "equivalent": [
+            "COMP9044"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2041.html",
+        "level": "Undergraduate ",
+        "name": "Software Construction: Techniques and Tools",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP2041.html",
+        "uoc": "6"
+    },
+    "COMP2111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1081 AND (COMP1511 OR DPST1091 OR COMP1917 OR COMP1921) ",
+        "equivalent": [],
+        "excluded": [
+            "COMP2110"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2111.html",
+        "level": "Undergraduate ",
+        "name": "System Modelling and Design",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP2111.html",
+        "uoc": "6"
+    },
+    "COMP2511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531 AND (COMP2521 OR COMP1927) ",
+        "equivalent": [],
+        "excluded": [
+            "COMP2011",
+            "COMP2911"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2511.html",
+        "level": "Undergraduate ",
+        "name": "Object-Oriented Design and Programming",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP2511.html",
+        "uoc": "6"
+    },
+    "COMP2521": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1511 or DPST1091 or COMP1917 or COMP1921 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP1927"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP2521.html",
+        "level": "Undergraduate ",
+        "name": "Data Structures and Algorithms",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP2521.html",
+        "uoc": "6"
+    },
+    "COMP3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1927 or COMP2521 ",
+        "equivalent": [
+            "COMP3821",
+            "COMP9801"
+        ],
+        "excluded": [
+            "COMP9101",
+            "COMP9801"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3121.html",
+        "level": "Undergraduate ",
+        "name": "Algorithms and Programming Techniques",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3121.html",
+        "uoc": "6"
+    },
+    "COMP3131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2511 or COMP2911 ",
+        "equivalent": [
+            "COMP9102"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3131.html",
+        "level": "Undergraduate ",
+        "name": "Programming Languages and Compilers",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3131.html",
+        "uoc": "6"
+    },
+    "COMP3141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1927 or COMP2521 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3141.html",
+        "level": "Undergraduate ",
+        "name": "Software System Design and Implementation",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3141.html",
+        "uoc": "6"
+    },
+    "COMP3153": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: MATH1081 ",
+        "equivalent": [
+            "COMP9153"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3153.html",
+        "level": "Undergraduate ",
+        "name": "Algorithmic Verification",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3153.html",
+        "uoc": "6"
+    },
+    "COMP3161": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2521 or COMP1927 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3161.html",
+        "level": "Undergraduate ",
+        "name": "Concepts of Programming Languages",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3161.html",
+        "uoc": "6"
+    },
+    "COMP3211": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3222 or ELEC2141. ",
+        "equivalent": [
+            "COMP9211"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3211.html",
+        "level": "Undergraduate ",
+        "name": "Computer Architecture",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3211.html",
+        "uoc": "6"
+    },
+    "COMP3222": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2121 OR COMP1521 OR DPST1092 ",
+        "equivalent": [
+            "COMP2021",
+            "COMP9022",
+            "COMP9222"
+        ],
+        "excluded": [
+            "ELEC2141"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3222.html",
+        "level": "Undergraduate ",
+        "name": "Digital Circuits and Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3222.html",
+        "uoc": "6"
+    },
+    "COMP3231": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (COMP1521 or DPST1092 or COMP2121 or ELEC2142) and (COMP2521 or COMP1927) ",
+        "equivalent": [
+            "COMP3891",
+            "COMP9201",
+            "COMP9283"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3231.html",
+        "level": "Undergraduate ",
+        "name": "Operating Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3231.html",
+        "uoc": "6"
+    },
+    "COMP3311": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2521 or COMP1927 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP9311",
+            "INFS5992"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3311.html",
+        "level": "Undergraduate ",
+        "name": "Database Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3311.html",
+        "uoc": "6"
+    },
+    "COMP3331": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1927 or COMP2521 or MTRN3500 ",
+        "equivalent": [
+            "COMP9331"
+        ],
+        "excluded": [
+            "COMP3931"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3331.html",
+        "level": "Undergraduate ",
+        "name": "Computer Networks and Applications",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3331.html",
+        "uoc": "6"
+    },
+    "COMP3411": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2521 or COMP1927 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP9414",
+            "COMP9814"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3411.html",
+        "level": "Undergraduate ",
+        "name": "Artificial Intelligence",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3411.html",
+        "uoc": "6"
+    },
+    "COMP3421": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2511 or COMP2911 ",
+        "equivalent": [
+            "COMP9415"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3421.html",
+        "level": "Undergraduate ",
+        "name": "Computer Graphics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3421.html",
+        "uoc": "6"
+    },
+    "COMP3431": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2521 or COMP1927, and a WAM of at least 70 ",
+        "equivalent": [
+            "COMP9434"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3431.html",
+        "level": "Undergraduate ",
+        "name": "Robotic Software Architecture",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3431.html",
+        "uoc": "6"
+    },
+    "COMP3511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 48 UOC ",
+        "equivalent": [
+            "COMP9511"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3511.html",
+        "level": "Undergraduate ",
+        "name": "Human Computer Interaction",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3511.html",
+        "uoc": "6"
+    },
+    "COMP3601": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2121 OR DESN2000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3601.html",
+        "level": "Undergraduate ",
+        "name": "Design Project A",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3601.html",
+        "uoc": "6"
+    },
+    "COMP3821": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: A mark of at least 65 in COMP1927 or COMP2521 ",
+        "equivalent": [
+            "COMP3121",
+            "COMP9801"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3821.html",
+        "level": "Undergraduate ",
+        "name": "Extended Algorithms and Programming Techniques",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3821.html",
+        "uoc": "6"
+    },
+    "COMP3891": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (COMP1521 or DPST1092 or COMP2121) and (COMP2521 or COMP1927) and a WAM of at least 75 ",
+        "equivalent": [
+            "COMP3231",
+            "COMP9201",
+            "COMP9283"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3891.html",
+        "level": "Undergraduate ",
+        "name": "Extended Operating Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3891.html",
+        "uoc": "6"
+    },
+    "COMP3900": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531, and COMP2521 or COMP1927, and enrolled in a BSc Computer Science major with completion of 102 uoc. ",
+        "equivalent": [],
+        "excluded": [
+            "COMP9596",
+            "COMP9900",
+            "COMP9945",
+            "COMP9992",
+            "COMP9993"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3900.html",
+        "level": "Undergraduate ",
+        "name": "Computer Science Project",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3900.html",
+        "uoc": "6"
+    },
+    "COMP3901": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3901.html",
+        "level": "Undergraduate ",
+        "name": "Special Project A",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3901.html",
+        "uoc": "6"
+    },
+    "COMP3902": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 80+ WAM in COMP, SENG or BINF courses, completion of all first and second year core requirements a CSE program, and agreement from a suitable CSE academic supervisor. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP3902.html",
+        "level": "Undergraduate ",
+        "name": "Special Project B",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP3902.html",
+        "uoc": "12"
+    },
+    "COMP4121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3121 or  COMP3821. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4121.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Algorithms",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4121.html",
+        "uoc": "6"
+    },
+    "COMP4128": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMP3821, or (COMP3121 and a 75WAM) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4128.html",
+        "level": "Undergraduate ",
+        "name": "Programming Challenges",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4128.html",
+        "uoc": "6"
+    },
+    "COMP4141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1081, and COMP1927 or COMP2521 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4141.html",
+        "level": "Undergraduate ",
+        "name": "Theory of Computation",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4141.html",
+        "uoc": "6"
+    },
+    "COMP4161": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 48 UOC ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4161.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Topics in Software Verification",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4161.html",
+        "uoc": "6"
+    },
+    "COMP4336": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3331. ",
+        "equivalent": [
+            "COMP9336"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4336.html",
+        "level": "Undergraduate ",
+        "name": "Mobile Data Networking",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4336.html",
+        "uoc": "6"
+    },
+    "COMP4337": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3331. ",
+        "equivalent": [
+            "COMP9337"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4337.html",
+        "level": "Undergraduate ",
+        "name": "Securing Fixed and Wireless Networks",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4337.html",
+        "uoc": "6"
+    },
+    "COMP4418": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3411 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4418.html",
+        "level": "Undergraduate ",
+        "name": "Knowledge Representation and Reasoning",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4418.html",
+        "uoc": "6"
+    },
+    "COMP4511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: a mark of at least 70 in COMP3511 and a mark of at least 65 in COMP2511 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP4581"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4511.html",
+        "level": "Undergraduate ",
+        "name": "User Interface Design and Construction",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4511.html",
+        "uoc": "6"
+    },
+    "COMP4601": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3211 and COMP3601. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4601.html",
+        "level": "Undergraduate ",
+        "name": "Design Project B",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4601.html",
+        "uoc": "6"
+    },
+    "COMP4920": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (COMP2511 or COMP2911) and completion of 96 UOC in Computer Science. ",
+        "equivalent": [],
+        "excluded": [
+            "BINF4920",
+            "COMP2920",
+            "SENG4920",
+            "SENG4921"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4920.html",
+        "level": "Undergraduate ",
+        "name": "Professional Issues and Ethics in Information Technology",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4920.html",
+        "uoc": "6"
+    },
+    "COMP4951": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in a CSE BE (Hons) programs, completion of 126 UOC and completion of 3rd year core. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4951.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis A",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4951.html",
+        "uoc": "4"
+    },
+    "COMP4952": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis A (4951) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4952.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis B",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4952.html",
+        "uoc": "4"
+    },
+    "COMP4953": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis B (4952) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4953.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis C",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4953.html",
+        "uoc": "4"
+    },
+    "COMP4961": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Students enrolled in program 4515 Bachelor of Computer Science (Hons) or program 3648. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4961.html",
+        "level": "Undergraduate ",
+        "name": "Computer Science Thesis A",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4961.html",
+        "uoc": "6"
+    },
+    "COMP4962": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment COMP4962 Prerequisite: Students must successfully complete COMP4951 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4962.html",
+        "level": "Undergraduate ",
+        "name": "Computer Science Thesis B",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4962.html",
+        "uoc": "6"
+    },
+    "COMP4963": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment COMP4963 Prerequisite: Student must successfully complete COMP4962 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP4963.html",
+        "level": "Undergraduate ",
+        "name": "Computer Science Thesis C",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP4963.html",
+        "uoc": "6"
+    },
+    "COMP6080": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531 AND (COMP2521 OR COMP1927) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6080.html",
+        "level": "Undergraduate ",
+        "name": "Web Front-End Programming",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6080.html",
+        "uoc": "6"
+    },
+    "COMP6441": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 48 UOC ",
+        "equivalent": [],
+        "excluded": [
+            "COMP3441",
+            "COMP6841",
+            "COMP9441"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6441.html",
+        "level": "Undergraduate ",
+        "name": "Security Engineering and Cyber Security",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6441.html",
+        "uoc": "6"
+    },
+    "COMP6443": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP6441 or COMP6841 or COMP3441 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP6843"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6443.html",
+        "level": "Undergraduate ",
+        "name": "Web Application Security and Testing",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6443.html",
+        "uoc": "6"
+    },
+    "COMP6445": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3441 or COMP6441 or COMP6841, and COMP3231 or COMP3891 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP6845"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6445.html",
+        "level": "Undergraduate ",
+        "name": "Digital Forensics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6445.html",
+        "uoc": "6"
+    },
+    "COMP6447": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: A mark of at least 65 in COMP6841, or a mark of at least 75 in COMP6441 or COMP3441. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6447.html",
+        "level": "Undergraduate ",
+        "name": "System and Software Security Assessment",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6447.html",
+        "uoc": "6"
+    },
+    "COMP6448": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP6841 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6448.html",
+        "level": "Undergraduate ",
+        "name": "Security Engineering Masterclass",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6448.html",
+        "uoc": "6"
+    },
+    "COMP6451": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMP2521 OR COMP9024 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6451.html",
+        "level": "Undergraduate ",
+        "name": "Cryptocurrency and Distributed Ledger Technologies",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6451.html",
+        "uoc": "6"
+    },
+    "COMP6452": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531 AND (COMP2521 OR COMP1927) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6452.html",
+        "level": "Undergraduate ",
+        "name": "Software Architecture for Blockchain Applications",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6452.html",
+        "uoc": "6"
+    },
+    "COMP6721": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: MATH1081 AND COMP2521 AND (not enrolled in SENGAH) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6721.html",
+        "level": "Undergraduate ",
+        "name": "(In-)Formal Methods: The Lost Art",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6721.html",
+        "uoc": "6"
+    },
+    "COMP6733": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 65 WAM and COMP3331 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP4335",
+            "COMP9335"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6733.html",
+        "level": "Undergraduate ",
+        "name": "Internet of Things Experimental Design Studio",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6733.html",
+        "uoc": "6"
+    },
+    "COMP6741": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3121 or  COMP3821. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6741.html",
+        "level": "Undergraduate ",
+        "name": "Algorithms for Intractable Problems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6741.html",
+        "uoc": "6"
+    },
+    "COMP6752": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: MATH1081 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP3152",
+            "COMP9152"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6752.html",
+        "level": "Undergraduate ",
+        "name": "Modelling Concurrent Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6752.html",
+        "uoc": "6"
+    },
+    "COMP6771": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2511 or COMP2911 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP3171",
+            "COMP9171"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6771.html",
+        "level": "Undergraduate ",
+        "name": "Advanced C++ Programming",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6771.html",
+        "uoc": "6"
+    },
+    "COMP6841": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 48 UOC, and COMP1927 or COMP2521 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP3441",
+            "COMP6441",
+            "COMP9441"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6841.html",
+        "level": "Undergraduate ",
+        "name": "Extended Security Engineering and Cyber Security",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6841.html",
+        "uoc": "6"
+    },
+    "COMP6843": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP6441 or COMP6841 or COMP3441 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP6443"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6843.html",
+        "level": "Undergraduate ",
+        "name": "Extended Web Application Security and Testing",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6843.html",
+        "uoc": "6"
+    },
+    "COMP6845": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP3441 or COMP6441 or COMP6841, and COMP3231 or COMP3891 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP6445"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP6845.html",
+        "level": "Undergraduate ",
+        "name": "Extended Digital Forensics and Incident Response",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP6845.html",
+        "uoc": "6"
+    },
+    "COMP9243": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: [COMP3231 or COMP3891] and [COMP3331 or TELE3018]. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP9243.html",
+        "level": "Undergraduate ",
+        "name": "Distributed Systems",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP9243.html",
+        "uoc": "6"
+    },
+    "COMP9302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment (COMP6441 OR COMP6841) AND (12 UOC from (COMP6443, COMP6843, COMP6445, COMP6845, COMP6447)) AND enrolled in final term of program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP9302.html",
+        "level": "Undergraduate ",
+        "name": "Cyber Security Project B",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP9302.html",
+        "uoc": "12"
+    },
+    "COMP9319": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP2521 or COMP1927 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP9319.html",
+        "level": "Undergraduate ",
+        "name": "Web Data Compression and Search",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP9319.html",
+        "uoc": "6"
+    },
+    "COMP9433": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment COMP1531 and COMP2511, COMP9517 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP9433.html",
+        "level": "Undergraduate ",
+        "name": "Computational Methods for Robotics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP9433.html",
+        "uoc": "6"
+    },
+    "COMP9491": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Two prerequisite conditions:1. Students have taken:6 UOC from the following: COMP3411; and12 UOC from the following: COMP9444/COMP9417/COMP9517/COMP44182. Students must have a WAM of 70 or higher ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/COMP9491.html",
+        "level": "Undergraduate ",
+        "name": "Applied Artificial Intelligence",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMP9491.html",
+        "uoc": "6"
+    }
+}

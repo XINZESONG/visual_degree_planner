@@ -1,0 +1,202 @@
+{
+    "TELE3113": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC2134 ",
+        "equivalent": [
+            "TELE3013"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE3113.html",
+        "level": "Undergraduate ",
+        "name": "Analogue and Digital Communications",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE3113.html",
+        "uoc": "6"
+    },
+    "TELE3118": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ELEC2142 OR COMP2121 OR DESN2000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE3118.html",
+        "level": "Undergraduate ",
+        "name": "Network Technologies",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE3118.html",
+        "uoc": "6"
+    },
+    "TELE3119": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3118 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE3119.html",
+        "level": "Undergraduate ",
+        "name": "Trusted Networks",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE3119.html",
+        "uoc": "6"
+    },
+    "TELE4642": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3118 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE4642.html",
+        "level": "Undergraduate ",
+        "name": "Network Performance",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE4642.html",
+        "uoc": "6"
+    },
+    "TELE4651": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3113 ",
+        "equivalent": [
+            "TELE4333"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE4651.html",
+        "level": "Undergraduate ",
+        "name": "Wireless Communication Technologies",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE4651.html",
+        "uoc": "6"
+    },
+    "TELE4652": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3113 ",
+        "equivalent": [
+            "TELE4353"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE4652.html",
+        "level": "Undergraduate ",
+        "name": "Mobile and Satellite Communications Systems",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE4652.html",
+        "uoc": "6"
+    },
+    "TELE4653": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3113 ",
+        "equivalent": [
+            "TELE4323"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TELE4653.html",
+        "level": "Undergraduate ",
+        "name": "Digital Modulation and Coding",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE4653.html",
+        "uoc": "6"
+    },
+    "TELE9752": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "TELE4352",
+            "TELE9302"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9752.html",
+        "level": "Postgraduate ",
+        "name": "Network Operations and Control",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9752.html",
+        "uoc": "6"
+    },
+    "TELE9753": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "TELE4353",
+            "TELE9344"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9753.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Wireless Communications",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9753.html",
+        "uoc": "6"
+    },
+    "TELE9754": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9754.html",
+        "level": "Postgraduate ",
+        "name": "Coding and Information Theory",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9754.html",
+        "uoc": "6"
+    },
+    "TELE9755": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ELEC9353"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9755.html",
+        "level": "Postgraduate ",
+        "name": "Microwave Circuits, Theory and Techniques",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9755.html",
+        "uoc": "6"
+    },
+    "TELE9756": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "TELE9337"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9756.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Networking",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9756.html",
+        "uoc": "6"
+    },
+    "TELE9757": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TELE9757.html",
+        "level": "Postgraduate ",
+        "name": "Quantum Communications",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TELE9757.html",
+        "uoc": "6"
+    }
+}

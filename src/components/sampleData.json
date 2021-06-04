@@ -1,0 +1,300 @@
+[
+  {
+    "code": "COMP1511",
+    "name": "Programming Fundamentals",
+    "terms": [1,2,3],
+    "uoc": 6,
+    "prereq": [],
+    "equivalent": ["COMP1917", "DPST1091"],
+    "exclusion": ["DPST1091"]
+  },
+  {
+    "code": "COMP1521",
+    "name": "Computer Systems Fundamentals",
+    "terms": [2,3],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1511", "DPST1091", "COMP1911", "COMP1917"]
+    ],
+    "equivalent": ["DPST1092"],
+    "exclusion": ["DPST1092"]
+  },
+  {
+    "code": "COMP1531",
+    "name": "Software Engineering Fundamentals",
+    "terms": [1,3],
+    "uoc": 6,
+    "prereq": [
+      ["DPST1091", "COMP1917", "COMP1921"]
+    ],
+    "equivalent": ["COMP2021", "COMP9022", "COMP9222"],
+    "exclusion": ["ELEC2141"]
+  },
+  {
+    "code": "COMP1911",
+    "name": "Computing 1A",
+    "terms": [2],
+    "uoc": 6,
+    "prereq": [],
+    "equivalent": [],
+    "exclusion": []
+  },
+  {
+    "code": "COMP1917",
+    "name": "Computing 1",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [],
+    "equivalent": [],
+    "exclusion": ["COMP1921"]
+  },
+  {
+    "code": "COMP1921",
+    "name": "Computing 1B",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1911"]
+    ],
+    "equivalent": [],
+    "exclusion": ["COMP1917"]
+  },
+  {
+    "code": "COMP1927",
+    "name": "Computing 2",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1511", "DPST1091", "COMP1917", "COMP1921"]
+    ],
+    "equivalent": [],
+    "exclusion": ["COMP2521"]
+  },
+  {
+    "code": "COMP2021",
+    "name": "Digital System Structures",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1021", "COMP1721", "COMP2811"]
+    ],
+    "equivalent": [],
+    "exclusion": []
+  },
+  {
+    "code": "COMP2121",
+    "name": "Microprocessors and Interfacing",
+    "terms": [1],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1917", "COMP1921", "COMP1511", "DPST1091", "COMP1521", "DPST1092", "COMP1911"],
+      ["COMP1917", "COMP1921", "COMP1511", "DPST1091", "COMP1521", "DPST1092", "MTRN2500"]
+    ],
+    "equivalent": [],
+    "exclusion": ["ELEC2142", "MTRN3200"]
+  },
+  {
+    "code": "COMP2511",
+    "name": "Object-Oriented Design & Programming",
+    "terms": [2,3],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1531"],
+      ["COMP2521", "COMP1927"]
+    ],
+    "equivalent": [],
+    "exclusion": ["COMP2011", "COMP2911"]
+  },
+  {
+    "code": "COMP2521",
+    "name": "Data Structures and Algorithms",
+    "terms": [1,2,3],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1511", "DPST1091", "COMP1917", "COMP1921"]
+    ],
+    "equivalent": [],
+    "exclusion": ["COMP1927"]
+  },
+  {
+    "code": "COMP2911",
+    "name": "Engineering Design in Computing",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1927", "COMP2521", "MTRN3500"]
+    ],
+    "equivalent": [],
+    "exclusion": ["COMP2011", "COMP2511"]
+  },
+  {
+    "code": "COMP3222",
+    "name": "Digital Circuits and Systems",
+    "terms": [3],
+    "uoc": 6,
+    "prereq": [
+      ["COMP2121", "COMP1521", "DPST1092"]
+    ],
+    "equivalent": ["COMP2021", "COMP9022", "COMP9222"],
+    "exclusion": ["ELEC2141"]
+  },
+  {
+    "code": "COMP4920",
+    "name": "Management and Ethics",
+    "terms": [3],
+    "uoc": 6,
+    "prereq": [
+      ["COMP2511", "COMP2911"]
+    ],
+    "equivalent": [],
+    "exclusion": ["BINF4920", "COMP2920", "SENG4920", "SENG4921"]
+  },
+  {
+    "code": "MATH1081",
+    "name": "Discrete Mathematics",
+    "terms": [1,2,3],
+    "uoc": 6,
+    "prereq": [
+      ["MATH1131", "DPST1013", "MATH1141", "MATH1151"]
+    ],
+    "equivalent": [],
+    "exclusion": ["MATH1090"]
+  },
+  {
+    "code": "MATH1131",
+    "name": "Mathematics 1A",
+    "terms": [1,2,3],
+    "uoc": 6,
+    "prereq": [],
+    "equivalent": ["DPST1013"],
+    "exclusion": ["DPST1013", "ECON1202", "ECON2291", "MATH1141", "MATH1151"]
+  },
+  {
+    "code": "MATH1231",
+    "name": "Mathematics 1B",
+    "terms": [1,2,3],
+    "uoc": 6,
+    "prereq": [
+      ["MATH1131", "DPST1013", "MATH1141"]
+    ],
+    "equivalent": ["DPST1014"],
+    "exclusion": ["DPST1014", "MATH1021", "MATH1241", "MATH1251"]
+  },
+  {
+    "code": "MATH2301",
+    "name": "Mathematical Computing",
+    "terms": [1],
+    "uoc": 6,
+    "prereq": [
+      ["MATH1031", "MATH1231", "DPST1014", "MATH1241", "MATH1251"]
+    ],
+    "equivalent": [],
+    "exclusion": ["MATH2089", "CVEN2002", "CVEN2702"]
+  },
+  {
+    "code": "MATH2801",
+    "name": "Theory of Statistics",
+    "terms": [2],
+    "uoc": 6,
+    "prereq": [
+      ["MATH1231", "MATH1241", "MATH1251", "DPST1014"]
+    ],
+    "equivalent": [],
+    "exclusion": ["MATH2089", "MATH2099", "MATH2801", "MATH2901", "BEES2041", "BIOS2041", "CVEN2002", "ECON3209"]
+  },
+  {
+    "code": "SENG1031",
+    "name": "Software Engineering Workshop 1",
+    "terms": [],
+    "uoc": 6,
+    "prereq": [],
+    "equivalent": [],
+    "exclusion": ["SENG1010", "SENG1020"]
+  },
+  {
+    "code": "SENG2011",
+    "name": "Workshop on Reasoning about Programs",
+    "terms": [3],
+    "uoc": 6,
+    "prereq": [
+      ["MATH1081"]
+    ],
+    "equivalent": [],
+    "exclusion": ["SENG2010"]
+  },
+  {
+    "code": "SENG2021",
+    "name": "Requirements and Design Workshop",
+    "terms": [1],
+    "uoc": 6,
+    "prereq": [
+      ["SENG1031", "COMP1531"]
+    ],
+    "equivalent": [],
+    "exclusion": ["SENG2020"]
+  },
+  {
+    "code": "SENG2991",
+    "name": "Software Workplace Practice 1",
+    "terms": [1],
+    "uoc": 6,
+    "prereq": [
+      ["COMP1511"],
+      ["COMP1531"],
+      ["COMP2521"]
+    ],
+    "equivalent": [],
+    "exclusion": []
+  },
+  {
+    "code": "SENG3011",
+    "name": "Software Engineering Workshop 3",
+    "terms": [1],
+    "uoc": 6,
+    "prereq": [
+      ["SENG2021"]
+    ],
+    "equivalent": [],
+    "exclusion": ["SENG3010"]
+  },
+  {
+    "code": "SENG3991",
+    "name": "Software Workplace Practice 2",
+    "terms": [1,2],
+    "uoc": 6,
+    "prereq": [
+      ["SENG2011"],
+      ["SENG2021"],
+      ["DESN2000"],
+      ["COMP2511"],
+      ["COMP2041"],
+      ["SENG2991"]
+    ],
+    "equivalent": [],
+    "exclusion": []
+  },
+  {
+    "code": "SENG3992",
+    "name": "Software Workplace Practice 3",
+    "terms": [2,3],
+    "uoc": 6,
+    "prereq": [
+      ["SENG3011"],
+      ["SEN2G991"],
+      ["SENG3991"]
+    ],
+    "equivalent": [],
+    "exclusion": []
+  },
+  {
+    "code": "SENG4920",
+    "name": "Ethics and Management",
+    "terms": [3],
+    "uoc": 6,
+    "prereq": [
+      ["SENG3011"]
+    ],
+    "equivalent": [],
+    "exclusion": ["SENG4921", "COMP4920", "COMP2920", "BINF4920"]
+  }
+]

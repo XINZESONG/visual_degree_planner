@@ -1,0 +1,416 @@
+{
+    "BLDG1011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BLDG1002",
+            "BLDG1212"
+        ],
+        "excluded": [
+            "BLDG1212"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1011.html",
+        "level": "Undergraduate ",
+        "name": "Low Rise Building Construction",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1011.html",
+        "uoc": "6"
+    },
+    "BLDG1012": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BLDG1121"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1012.html",
+        "level": "Undergraduate ",
+        "name": "Construction Materials",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1012.html",
+        "uoc": "6"
+    },
+    "BLDG1013": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [],
+        "excluded": [
+            "BLDG1260"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1013.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Construction Management and Property",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1013.html",
+        "uoc": "6"
+    },
+    "BLDG1014": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BLDG2301",
+            "BLDG2332"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1014.html",
+        "level": "Undergraduate ",
+        "name": "Building Measurement",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1014.html",
+        "uoc": "6"
+    },
+    "BLDG1021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BLDG1011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1021.html",
+        "level": "Undergraduate ",
+        "name": "Industrial and Infrastructure Construction",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1021.html",
+        "uoc": "6"
+    },
+    "BLDG1022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BLDG1050",
+            "BLDG1051"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1022.html",
+        "level": "Undergraduate ",
+        "name": "Building Structures",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1022.html",
+        "uoc": "6"
+    },
+    "BLDG1023": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BENV1192"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1023.html",
+        "level": "Undergraduate ",
+        "name": "Construction Project Management Theory",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1023.html",
+        "uoc": "6"
+    },
+    "BLDG1024": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program 3331 3332 ",
+        "equivalent": [
+            "BLDG1302",
+            "BLDG2411"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG1024.html",
+        "level": "Undergraduate ",
+        "name": "Construction and Property Economics",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG1024.html",
+        "uoc": "6"
+    },
+    "BLDG2011": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BLDG2212"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2011.html",
+        "level": "Undergraduate ",
+        "name": "Building Services",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2011.html",
+        "uoc": "6"
+    },
+    "BLDG2012": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BLDG1271",
+            "BLDG1281"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2012.html",
+        "level": "Undergraduate ",
+        "name": "Construction and Property Law",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2012.html",
+        "uoc": "6"
+    },
+    "BLDG2013": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BLDG3321",
+            "BLDG3332"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2013.html",
+        "level": "Undergraduate ",
+        "name": "Construction Estimating",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2013.html",
+        "uoc": "6"
+    },
+    "BLDG2021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: BLDG1011 and BLDG1021 ",
+        "equivalent": [
+            "BLDG3004",
+            "BLDG3101"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2021.html",
+        "level": "Undergraduate ",
+        "name": "High Rise Building Construction",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2021.html",
+        "uoc": "6"
+    },
+    "BLDG2022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:  BLDG2012 ",
+        "equivalent": [
+            "BLDG3281"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2022.html",
+        "level": "Undergraduate ",
+        "name": "Procurement and Contract Administration",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2022.html",
+        "uoc": "6"
+    },
+    "BLDG2023": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BLDG3284"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG2023.html",
+        "level": "Undergraduate ",
+        "name": "Construction Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG2023.html",
+        "uoc": "6"
+    },
+    "BLDG3011": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3011.html",
+        "level": "Undergraduate ",
+        "name": "Organisational and People Management in Construction",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3011.html",
+        "uoc": "6"
+    },
+    "BLDG3012": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequiste: minimum 96 UOC ",
+        "equivalent": [],
+        "excluded": [
+            "BENV2817"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3012.html",
+        "level": "Undergraduate ",
+        "name": "Risk, Health and Safety Management",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3012.html",
+        "uoc": "6"
+    },
+    "BLDG3013": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: BLDG2013 and BLDG2023 ",
+        "equivalent": [
+            "BLDG2482",
+            "BLDG3282",
+            "BLDG3482"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3013.html",
+        "level": "Undergraduate ",
+        "name": "Digital Construction",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3013.html",
+        "uoc": "6"
+    },
+    "BLDG3021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BLDG2013 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3021.html",
+        "level": "Undergraduate ",
+        "name": "Property Development",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3021.html",
+        "uoc": "6"
+    },
+    "BLDG3022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: BLDG1023, BLDG2013 and BLDG2023 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3022.html",
+        "level": "Undergraduate ",
+        "name": "Construction Project Management Practice Capstone",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3022.html",
+        "uoc": "6"
+    },
+    "BLDG3023": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BENV2813"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG3023.html",
+        "level": "Undergraduate ",
+        "name": "Construction Business Strategy and Entrepreneurship",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG3023.html",
+        "uoc": "6"
+    },
+    "BLDG4018": null,
+    "BLDG4019": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program Prerequisite:4522 or Program 3332 with WAM of 65 or over ",
+        "equivalent": [
+            "BENV2986"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4019.html",
+        "level": "Undergraduate ",
+        "name": "Property & Asset Management",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4019.html",
+        "uoc": "6"
+    },
+    "BLDG4020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program Prerequisite:4522 or Program 3332 with WAM of 65 or over ",
+        "equivalent": [
+            "BLDG4306"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4020.html",
+        "level": "Undergraduate ",
+        "name": "Total Building Performance and Management",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4020.html",
+        "uoc": "6"
+    },
+    "BLDG4022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program Prerequisite:4522 or Program 3332 with WAM of 65 or over ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4022.html",
+        "level": "Undergraduate ",
+        "name": "Construction Cost Management",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4022.html",
+        "uoc": "6"
+    },
+    "BLDG4023": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program Prerequisite:4522 or Program 3332 with WAM of 65 or over ",
+        "equivalent": [
+            "BLDG4305"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4023.html",
+        "level": "Undergraduate ",
+        "name": "Construction Value Management",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4023.html",
+        "uoc": "6"
+    },
+    "BLDG4024": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Program Prerequisite:4522 or Program 3332 with WAM of 65 or over ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4024.html",
+        "level": "Undergraduate ",
+        "name": "Business Intelligence and Data Analytics",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4024.html",
+        "uoc": "6"
+    },
+    "BLDG4504": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BLDG4501 or BENV4000 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BLDG4504.html",
+        "level": "Undergraduate ",
+        "name": "Thesis",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BLDG4504.html",
+        "uoc": "12"
+    }
+}

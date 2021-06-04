@@ -1,0 +1,72 @@
+{
+    "SART9003": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Prerequisite: SART9003 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SART9003.html",
+        "level": "Postgraduate ",
+        "name": "The Consolidated Studio",
+        "school": " School of Art & Design",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SART9003.html",
+        "uoc": "6"
+    },
+    "SART9115": {
+        "campus": "Paddington ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SART9115.html",
+        "level": "Postgraduate ",
+        "name": "Fine Arts Professional Practice",
+        "school": " School of Art & Design",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SART9115.html",
+        "uoc": "6"
+    },
+    "SART9204": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Prerequisite: SART9204 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SART9204.html",
+        "level": "Postgraduate ",
+        "name": "Capstone Project",
+        "school": " School of Art & Design",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SART9204.html",
+        "uoc": "12"
+    },
+    "SART9205": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Prerequisite: SART9204 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SART9205.html",
+        "level": "Postgraduate ",
+        "name": "Project Paper",
+        "school": " School of Art & Design",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SART9205.html",
+        "uoc": "6"
+    },
+    "SART9744": {
+        "campus": "Paddington ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/SART9744.html",
+        "level": "Postgraduate ",
+        "name": "Fine Arts Field Trip",
+        "school": " School of Art & Design",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SART9744.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "ADAD2610": {
+        "campus": "Paddington ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ADAD2610.html",
+        "level": "Undergraduate ",
+        "name": "Art and Design for Environmental Challenges",
+        "school": " School of Art & Design",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ADAD2610.html",
+        "uoc": "6"
+    },
+    "ADAD3000": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Must have completed either SART3800, SDES2116, SOMA3616 or DDES2102 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ADAD3000.html",
+        "level": "Undergraduate ",
+        "name": "Professional Experience Project",
+        "school": " School of Art & Design",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ADAD3000.html",
+        "uoc": "6"
+    },
+    "ADAD4001": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Must have completed either SART3800, SDES2116, SOMA3616. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ADAD4001.html",
+        "level": "Undergraduate ",
+        "name": "Professional Experience Project B",
+        "school": " School of Art & Design",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ADAD4001.html",
+        "uoc": "6"
+    },
+    "ADAD4100": {
+        "campus": "Paddington ",
+        "conditions": "Conditions for Enrolment Students must be enrolled in an Art & Design Honours Year. Programs 4526, 4527, 4528 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Art & Design",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ADAD4100.html",
+        "level": "Undergraduate ",
+        "name": "Honours Professional Experience Program",
+        "school": " School of Art & Design",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ADAD4100.html",
+        "uoc": "6"
+    }
+}

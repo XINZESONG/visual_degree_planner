@@ -1,0 +1,522 @@
+{
+    "ACCT": {
+        "link": "http://timetable.unsw.edu.au/2021/ACCTKENS.html",
+        "name": "Accounting",
+        "offerer": "School of Accounting"
+    },
+    "ACTL": {
+        "link": "http://timetable.unsw.edu.au/2021/ACTLKENS.html",
+        "name": "Actuarial Studies",
+        "offerer": "School of Risk & Actuarial St"
+    },
+    "ADAD": {
+        "link": "http://timetable.unsw.edu.au/2021/ADADCOFA.html",
+        "name": "Art and Design",
+        "offerer": "School of Art & Design"
+    },
+    "AERO": {
+        "link": "http://timetable.unsw.edu.au/2021/AEROKENS.html",
+        "name": "Aerospace Engineering",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "ANAT": {
+        "link": "http://timetable.unsw.edu.au/2021/ANATKENS.html",
+        "name": "Anatomy",
+        "offerer": "School of Medical Sciences"
+    },
+    "ARCH": {
+        "link": "http://timetable.unsw.edu.au/2021/ARCHKENS.html",
+        "name": "Architecture",
+        "offerer": "Architectural Studies Program"
+    },
+    "ARTS": {
+        "link": "http://timetable.unsw.edu.au/2021/ARTSKENS.html",
+        "name": "Arts",
+        "offerer": "Faculty of Arts & Soc. Science"
+    },
+    "ATSI": {
+        "link": "http://timetable.unsw.edu.au/2021/ATSIKENS.html",
+        "name": "Nura Gili (Indigenous Programs)",
+        "offerer": "Nura Gili Indigenous Programs"
+    },
+    "AVEN": {
+        "link": "http://timetable.unsw.edu.au/2021/AVENKENS.html",
+        "name": "Aviation",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "AVIA": {
+        "link": "http://timetable.unsw.edu.au/2021/AVIAKENS.html",
+        "name": "Aviation",
+        "offerer": "School of Aviation"
+    },
+    "BABS": {
+        "link": "http://timetable.unsw.edu.au/2021/BABSKENS.html",
+        "name": "Biotechnology & Biomolecular Sciences",
+        "offerer": "Sch Biotech & Biomolecular Sci"
+    },
+    "BEES": {
+        "link": "http://timetable.unsw.edu.au/2021/BEESKENS.html",
+        "name": "Biological, Earth and Environmental Sciences",
+        "offerer": "Sch Biol, Earth & Environ Sci"
+    },
+    "BEIL": {
+        "link": "http://timetable.unsw.edu.au/2021/BEILKENS.html",
+        "name": "BE Interdisciplinary Learning",
+        "offerer": "Faculty of the Built Env"
+    },
+    "BENV": {
+        "link": "http://timetable.unsw.edu.au/2021/BENVKENS.html",
+        "name": "Built Environment",
+        "offerer": "Faculty of the Built Env"
+    },
+    "BINF": {
+        "link": "http://timetable.unsw.edu.au/2021/BINFKENS.html",
+        "name": "Bioinformatics",
+        "offerer": "School of Computer Sci & Eng"
+    },
+    "BIOC": {
+        "link": "http://timetable.unsw.edu.au/2021/BIOCKENS.html",
+        "name": "Biochemistry",
+        "offerer": "Sch Biotech & Biomolecular Sci"
+    },
+    "BIOM": {
+        "link": "http://timetable.unsw.edu.au/2021/BIOMKENS.html",
+        "name": "Biomedical Engineering",
+        "offerer": "Grad. School of Biomedical Eng"
+    },
+    "BIOS": {
+        "link": "http://timetable.unsw.edu.au/2021/BIOSKENS.html",
+        "name": "Biological Science",
+        "offerer": "Sch Biol, Earth & Environ Sci"
+    },
+    "BLDG": {
+        "link": "http://timetable.unsw.edu.au/2021/BLDGKENS.html",
+        "name": "Building",
+        "offerer": "Faculty of the Built Env"
+    },
+    "CDEV": {
+        "link": "http://timetable.unsw.edu.au/2021/CDEVKENS.html",
+        "name": "Career Development",
+        "offerer": "Div. Registrar & Deputy Princ"
+    },
+    "CEIC": {
+        "link": "http://timetable.unsw.edu.au/2021/CEICKENS.html",
+        "name": "Chem Eng and Industrial Chemistry",
+        "offerer": "School of Chemical Engineering"
+    },
+    "CHEM": {
+        "link": "http://timetable.unsw.edu.au/2021/CHEMKENS.html",
+        "name": "Chemistry",
+        "offerer": "School of Chemistry"
+    },
+    "CHEN": {
+        "link": "http://timetable.unsw.edu.au/2021/CHENKENS.html",
+        "name": "Chemical Engineering",
+        "offerer": "School of Chemical Engineering"
+    },
+    "CLIM": {
+        "link": "http://timetable.unsw.edu.au/2021/CLIMKENS.html",
+        "name": "Climate Science",
+        "offerer": "Faculty of Science"
+    },
+    "CODE": {
+        "link": "http://timetable.unsw.edu.au/2021/CODEKENS.html",
+        "name": "Computational Design",
+        "offerer": "Faculty of the Built Env"
+    },
+    "COMM": {
+        "link": "http://timetable.unsw.edu.au/2021/COMMKENS.html",
+        "name": "Commerce",
+        "offerer": "UNSW Business School"
+    },
+    "COMP": {
+        "link": "http://timetable.unsw.edu.au/2021/COMPKENS.html",
+        "name": "Computer Science",
+        "offerer": "School of Computer Sci & Eng"
+    },
+    "CRIM": {
+        "link": "http://timetable.unsw.edu.au/2021/CRIMKENS.html",
+        "name": "Criminology",
+        "offerer": "School of Social Sciences"
+    },
+    "CVEN": {
+        "link": "http://timetable.unsw.edu.au/2021/CVENKENS.html",
+        "name": "Civil and Environmental Engineering",
+        "offerer": "School of Civil & Env Eng"
+    },
+    "DART": {
+        "link": "http://timetable.unsw.edu.au/2021/DARTCOFA.html",
+        "name": "Domain Art",
+        "offerer": "School of Art & Design"
+    },
+    "DATA": {
+        "link": "http://timetable.unsw.edu.au/2021/DATAKENS.html",
+        "name": "Data Science",
+        "offerer": "Sch Mathematics & Statistics"
+    },
+    "DDES": {
+        "link": "http://timetable.unsw.edu.au/2021/DDESCOFA.html",
+        "name": "Domain Design",
+        "offerer": "School of Art & Design"
+    },
+    "DESN": {
+        "link": "http://timetable.unsw.edu.au/2021/DESNKENS.html",
+        "name": "Design Next",
+        "offerer": "Faculty of Engineering"
+    },
+    "DPBS": {
+        "link": "http://timetable.unsw.edu.au/2021/DPBSKENS.html",
+        "name": "Global Diploma - Business",
+        "offerer": "UNSW Global Diplomas"
+    },
+    "DPGE": {
+        "link": "http://timetable.unsw.edu.au/2021/DPGEKENS.html",
+        "name": "Global Diploma General Education",
+        "offerer": "UNSW Global Diplomas"
+    },
+    "DPST": {
+        "link": "http://timetable.unsw.edu.au/2021/DPSTKENS.html",
+        "name": "Global Diploma - STEM",
+        "offerer": "UNSW Global Diplomas"
+    },
+    "ECON": {
+        "link": "http://timetable.unsw.edu.au/2021/ECONKENS.html",
+        "name": "Economics",
+        "offerer": "School of Economics"
+    },
+    "EDST": {
+        "link": "http://timetable.unsw.edu.au/2021/EDSTKENS.html",
+        "name": "Education",
+        "offerer": "School of Education"
+    },
+    "ELEC": {
+        "link": "http://timetable.unsw.edu.au/2021/ELECKENS.html",
+        "name": "Electrical Engineering",
+        "offerer": "School of Elec Eng & Telco"
+    },
+    "ENGG": {
+        "link": "http://timetable.unsw.edu.au/2021/ENGGKENS.html",
+        "name": "Engineering interdisciplinary",
+        "offerer": "Faculty of Engineering"
+    },
+    "FINS": {
+        "link": "http://timetable.unsw.edu.au/2021/FINSKENS.html",
+        "name": "Finance",
+        "offerer": "School of Banking & Finance"
+    },
+    "FOOD": {
+        "link": "http://timetable.unsw.edu.au/2021/FOODKENS.html",
+        "name": "Food Technology",
+        "offerer": "School of Chemical Engineering"
+    },
+    "GENC": {
+        "link": "http://timetable.unsw.edu.au/2021/GENCKENS.html",
+        "name": "Business General Education",
+        "offerer": "UNSW Business School"
+    },
+    "GENE": {
+        "link": "http://timetable.unsw.edu.au/2021/GENEKENS.html",
+        "name": "Engineering General Education",
+        "offerer": "Faculty of Engineering"
+    },
+    "GENL": {
+        "link": "http://timetable.unsw.edu.au/2021/GENLKENS.html",
+        "name": "Law General Education",
+        "offerer": "Faculty of Law"
+    },
+    "GENM": {
+        "link": "http://timetable.unsw.edu.au/2021/GENMKENS.html",
+        "name": "Medicine General Education",
+        "offerer": "Faculty of Medicine"
+    },
+    "GENS": {
+        "link": "http://timetable.unsw.edu.au/2021/GENSKENS.html",
+        "name": "Science General Education",
+        "offerer": "Faculty of Science"
+    },
+    "GENY": {
+        "link": "http://timetable.unsw.edu.au/2021/GENYKENS.html",
+        "name": "Student Academic and Career Success - GE",
+        "offerer": "Std Acad & Career Success"
+    },
+    "GEOS": {
+        "link": "http://timetable.unsw.edu.au/2021/GEOSKENS.html",
+        "name": "Geoscience",
+        "offerer": "Sch Biol, Earth & Environ Sci"
+    },
+    "GMAT": {
+        "link": "http://timetable.unsw.edu.au/2021/GMATKENS.html",
+        "name": "Surveying and Spatial Information Systems",
+        "offerer": "School of Civil & Env Eng"
+    },
+    "GSOE": {
+        "link": "http://timetable.unsw.edu.au/2021/GSOEKENS.html",
+        "name": "Grad School of Engineering",
+        "offerer": "Grad. School of Engineering"
+    },
+    "HESC": {
+        "link": "http://timetable.unsw.edu.au/2021/HESCKENS.html",
+        "name": "Health and Exercise Science",
+        "offerer": "School of Medical Sciences"
+    },
+    "HUMS": {
+        "link": "http://timetable.unsw.edu.au/2021/HUMSKENS.html",
+        "name": "Arts Administration",
+        "offerer": "Faculty of Arts & Soc. Science"
+    },
+    "IDES": {
+        "link": "http://timetable.unsw.edu.au/2021/IDESKENS.html",
+        "name": "Industrial Design",
+        "offerer": "Industrial Design Program"
+    },
+    "INFS": {
+        "link": "http://timetable.unsw.edu.au/2021/INFSKENS.html",
+        "name": "Information Systems",
+        "offerer": "Sch Info Sys and Tech Mgmt"
+    },
+    "INST": {
+        "link": "http://timetable.unsw.edu.au/2021/INSTKENS.html",
+        "name": "International Studies",
+        "offerer": "School Humanities & Languages"
+    },
+    "INTA": {
+        "link": "http://timetable.unsw.edu.au/2021/INTAKENS.html",
+        "name": "Interior Architecture",
+        "offerer": "Interior Architecture Program"
+    },
+    "LAND": {
+        "link": "http://timetable.unsw.edu.au/2021/LANDKENS.html",
+        "name": "Landscape Architecture",
+        "offerer": "Landscape Architecture Program"
+    },
+    "LAWS": {
+        "link": "http://timetable.unsw.edu.au/2021/LAWSKENS.html",
+        "name": "Law",
+        "offerer": "Faculty of Law"
+    },
+    "MANF": {
+        "link": "http://timetable.unsw.edu.au/2021/MANFKENS.html",
+        "name": "Manufacturing Engineering",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "MARK": {
+        "link": "http://timetable.unsw.edu.au/2021/MARKKENS.html",
+        "name": "Marketing",
+        "offerer": "School of Marketing"
+    },
+    "MATH": {
+        "link": "http://timetable.unsw.edu.au/2021/MATHKENS.html",
+        "name": "Mathematics",
+        "offerer": "Sch Mathematics & Statistics"
+    },
+    "MATS": {
+        "link": "http://timetable.unsw.edu.au/2021/MATSKENS.html",
+        "name": "Materials Science and Engineering",
+        "offerer": "School of Materials Sci & Eng"
+    },
+    "MDCN": {
+        "link": "http://timetable.unsw.edu.au/2021/MDCNKENS.html",
+        "name": "Medicine",
+        "offerer": "Faculty of Medicine"
+    },
+    "MDIA": {
+        "link": "http://timetable.unsw.edu.au/2021/MDIAKENS.html",
+        "name": "Media",
+        "offerer": "Faculty of Arts & Soc. Science"
+    },
+    "MECH": {
+        "link": "http://timetable.unsw.edu.au/2021/MECHKENS.html",
+        "name": "Mechanical Engineering",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "MERE": {
+        "link": "http://timetable.unsw.edu.au/2021/MEREKENS.html",
+        "name": "Minerals and Energy Resources Engineering",
+        "offerer": "Minerals Energy Resources Eng"
+    },
+    "MFAC": {
+        "link": "http://timetable.unsw.edu.au/2021/MFACKENS.html",
+        "name": "Medicine",
+        "offerer": "Faculty of Medicine"
+    },
+    "MGMT": {
+        "link": "http://timetable.unsw.edu.au/2021/MGMTKENS.html",
+        "name": "Organisation and Management - Commerce & Economics",
+        "offerer": "School of Management"
+    },
+    "MICR": {
+        "link": "http://timetable.unsw.edu.au/2021/MICRKENS.html",
+        "name": "Microbiology",
+        "offerer": "Sch Biotech & Biomolecular Sci"
+    },
+    "MINE": {
+        "link": "http://timetable.unsw.edu.au/2021/MINEKENS.html",
+        "name": "Mining Engineering",
+        "offerer": "School of Mining Engineering"
+    },
+    "MMAN": {
+        "link": "http://timetable.unsw.edu.au/2021/MMANKENS.html",
+        "name": "Mechanical & Manufacturing Engineering",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "MSCI": {
+        "link": "http://timetable.unsw.edu.au/2021/MSCIKENS.html",
+        "name": "Marine Science",
+        "offerer": "Faculty of Science"
+    },
+    "MTRN": {
+        "link": "http://timetable.unsw.edu.au/2021/MTRNKENS.html",
+        "name": "Mechatronic Engineering",
+        "offerer": "School of Mech & Manf. Eng"
+    },
+    "MUSC": {
+        "link": "http://timetable.unsw.edu.au/2021/MUSCKENS.html",
+        "name": "Music and Music Education",
+        "offerer": "School of the Arts & Media"
+    },
+    "NANO": {
+        "link": "http://timetable.unsw.edu.au/2021/NANOKENS.html",
+        "name": "Nanotechnology",
+        "offerer": "School of Materials Sci & Eng"
+    },
+    "NEUR": {
+        "link": "http://timetable.unsw.edu.au/2021/NEURKENS.html",
+        "name": "Neuroscience",
+        "offerer": "Faculty of Medicine"
+    },
+    "OPTM": {
+        "link": "http://timetable.unsw.edu.au/2021/OPTMKENS.html",
+        "name": "Optometry",
+        "offerer": "Schl of Optometry & Vision Sci"
+    },
+    "PATH": {
+        "link": "http://timetable.unsw.edu.au/2021/PATHKENS.html",
+        "name": "Pathology",
+        "offerer": "School of Medical Sciences"
+    },
+    "PHAR": {
+        "link": "http://timetable.unsw.edu.au/2021/PHARKENS.html",
+        "name": "Pharmacology",
+        "offerer": "School of Medical Sciences"
+    },
+    "PHCM": {
+        "link": "http://timetable.unsw.edu.au/2021/PHCMKENS.html",
+        "name": "Public Health and Community Medicine",
+        "offerer": "Sch Public Hlth and Comm Med"
+    },
+    "PHSL": {
+        "link": "http://timetable.unsw.edu.au/2021/PHSLKENS.html",
+        "name": "Physiology",
+        "offerer": "School of Medical Sciences"
+    },
+    "PHTN": {
+        "link": "http://timetable.unsw.edu.au/2021/PHTNKENS.html",
+        "name": "Photonics",
+        "offerer": "School of Elec Eng & Telco"
+    },
+    "PHYS": {
+        "link": "http://timetable.unsw.edu.au/2021/PHYSKENS.html",
+        "name": "Physics",
+        "offerer": "School of Physics"
+    },
+    "PLAN": {
+        "link": "http://timetable.unsw.edu.au/2021/PLANKENS.html",
+        "name": "Planning and Urban Development",
+        "offerer": "Planning & Urban Development"
+    },
+    "POLY": {
+        "link": "http://timetable.unsw.edu.au/2021/POLYKENS.html",
+        "name": "Polymer Science",
+        "offerer": "School of Chemical Engineering"
+    },
+    "PPEC": {
+        "link": "http://timetable.unsw.edu.au/2021/PPECKENS.html",
+        "name": "Philosophy, Politics and Economics",
+        "offerer": "Faculty of Arts & Soc. Science"
+    },
+    "PSYC": {
+        "link": "http://timetable.unsw.edu.au/2021/PSYCKENS.html",
+        "name": "Psychology",
+        "offerer": "School of Psychology"
+    },
+    "PTRL": {
+        "link": "http://timetable.unsw.edu.au/2021/PTRLKENS.html",
+        "name": "Petroleum Engineering",
+        "offerer": "School of Petroleum Eng"
+    },
+    "REGZ": {
+        "link": "http://timetable.unsw.edu.au/2021/REGZKENS.html",
+        "name": "Registrar's Division",
+        "offerer": "Div. Registrar & Deputy Princ"
+    },
+    "RISK": {
+        "link": "http://timetable.unsw.edu.au/2021/RISKKENS.html",
+        "name": "Risk Management",
+        "offerer": "School of Risk&Safety Sciences"
+    },
+    "SCIF": {
+        "link": "http://timetable.unsw.edu.au/2021/SCIFKENS.html",
+        "name": "Faculty of Science",
+        "offerer": "Faculty of Science"
+    },
+    "SDES": {
+        "link": "http://timetable.unsw.edu.au/2021/SDESCOFA.html",
+        "name": "Design Studies",
+        "offerer": "School of Art & Design"
+    },
+    "SENG": {
+        "link": "http://timetable.unsw.edu.au/2021/SENGKENS.html",
+        "name": "Software Engineering",
+        "offerer": "School of Computer Sci & Eng"
+    },
+    "SOCW": {
+        "link": "http://timetable.unsw.edu.au/2021/SOCWKENS.html",
+        "name": "Social Work",
+        "offerer": "School of Social Sciences"
+    },
+    "SOLA": {
+        "link": "http://timetable.unsw.edu.au/2021/SOLAKENS.html",
+        "name": "Photovoltaics and Solar Energy",
+        "offerer": "Photovoltaic Engineering"
+    },
+    "SOMA": {
+        "link": "http://timetable.unsw.edu.au/2021/SOMACOFA.html",
+        "name": "Media Arts",
+        "offerer": "School of Art & Design"
+    },
+    "SOMS": {
+        "link": "http://timetable.unsw.edu.au/2021/SOMSKENS.html",
+        "name": "Medical Science",
+        "offerer": "School of Medical Sciences"
+    },
+    "SOSS": {
+        "link": "http://timetable.unsw.edu.au/2021/SOSSKENS.html",
+        "name": "Social Sciences",
+        "offerer": "School of Social Sciences"
+    },
+    "SRAP": {
+        "link": "http://timetable.unsw.edu.au/2021/SRAPKENS.html",
+        "name": "Social Research and Policy",
+        "offerer": "School of Social Sciences"
+    },
+    "TABL": {
+        "link": "http://timetable.unsw.edu.au/2021/TABLKENS.html",
+        "name": "Taxation and Business Law",
+        "offerer": "School of Taxation and Bus Law"
+    },
+    "TELE": {
+        "link": "http://timetable.unsw.edu.au/2021/TELEKENS.html",
+        "name": "Telecommunications",
+        "offerer": "School of Elec Eng & Telco"
+    },
+    "VISN": {
+        "link": "http://timetable.unsw.edu.au/2021/VISNKENS.html",
+        "name": "Vision Science",
+        "offerer": "Schl of Optometry & Vision Sci"
+    },
+    "YMED": {
+        "link": "http://timetable.unsw.edu.au/2021/YMEDKENS.html",
+        "name": "Arizona State University Medicine",
+        "offerer": "Faculty of Medicine"
+    }
+}

@@ -1,0 +1,1521 @@
+{
+    "ECON1101": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPBS1101",
+            "MGMT1101"
+        ],
+        "excluded": [
+            "COMM1100"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1101.html",
+        "level": "Undergraduate ",
+        "name": "Microeconomics 1",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1101.html",
+        "uoc": "6"
+    },
+    "ECON1102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1101 or COMM1100 ",
+        "equivalent": [
+            "DPBS1102"
+        ],
+        "excluded": [
+            "COMM1150",
+            "ECON1104"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1102.html",
+        "level": "Undergraduate ",
+        "name": "Macroeconomics 1",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1102.html",
+        "uoc": "6"
+    },
+    "ECON1107": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ECON2127"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1107.html",
+        "level": "Undergraduate ",
+        "name": "Elements of Environmental Economics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1107.html",
+        "uoc": "6"
+    },
+    "ECON1202": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ECON2291"
+        ],
+        "excluded": [
+            "DPST1013",
+            "ECON2291",
+            "MATH1131",
+            "MATH1141",
+            "MATH1151"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1202.html",
+        "level": "Undergraduate ",
+        "name": "Quantitative Analysis for Business and Economics",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1202.html",
+        "uoc": "6"
+    },
+    "ECON1203": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: MATH2841, MATH2801, MATH2901, MATH2099, ACTL2002 & ACTL2131. Prerequisite: Must not be enrolled in Program 3715 or 3764 ",
+        "equivalent": [
+            "DPBS1203"
+        ],
+        "excluded": [
+            "MATH1041"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1203.html",
+        "level": "Undergraduate ",
+        "name": "Business and Economic Statistics",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1203.html",
+        "uoc": "6"
+    },
+    "ECON1401": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1101 or COMM1100 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON1401.html",
+        "level": "Undergraduate ",
+        "name": "Economic Perspectives",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON1401.html",
+        "uoc": "6"
+    },
+    "ECON2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ECON1101 or COMM1100) and (ECON1202, MATH1031, MATH1131, MATH1141 or MATH1151) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2101.html",
+        "level": "Undergraduate ",
+        "name": "Microeconomics 2",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2101.html",
+        "uoc": "6"
+    },
+    "ECON2102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1102 and (ECON1203, COMM1190, MATH1041, MATH1231, MATH1241 or MATH1251) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2102.html",
+        "level": "Undergraduate ",
+        "name": "Macroeconomics 2",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2102.html",
+        "uoc": "6"
+    },
+    "ECON2103": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1101 or COMM1100 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2103.html",
+        "level": "Undergraduate ",
+        "name": "Business and Government",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2103.html",
+        "uoc": "6"
+    },
+    "ECON2111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1102 or COMM1150 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2111.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Economic Development",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2111.html",
+        "uoc": "6"
+    },
+    "ECON2112": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ECON1101 or COMM1100) and (ECON1202, MATH1031, MATH1131, MATH1141 or MATH1151) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2112.html",
+        "level": "Undergraduate ",
+        "name": "Game Theory and Business Strategy",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2112.html",
+        "uoc": "6"
+    },
+    "ECON2127": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON1101 or COMM1100 ",
+        "equivalent": [],
+        "excluded": [
+            "ECON1107"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2127.html",
+        "level": "Undergraduate ",
+        "name": "Environmental Economics",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2127.html",
+        "uoc": "6"
+    },
+    "ECON2206": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite conditions: (ECON1203 or COMM1190) or MATH1041 or MATH1231 or MATH1241 or MATH1251 or (ECON2403 AND in program 3478 AND completing an Economics major (ECONA13478)) ",
+        "equivalent": [
+            "ECON3290"
+        ],
+        "excluded": [
+            "ECON4207"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2206.html",
+        "level": "Undergraduate ",
+        "name": "Introductory Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2206.html",
+        "uoc": "6"
+    },
+    "ECON2209": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON1203 or COMM1190 or MATH1041 or MATH1231 or MATH1241 or MATH1251. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2209.html",
+        "level": "Undergraduate ",
+        "name": "Business Forecasting",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2209.html",
+        "uoc": "6"
+    },
+    "ECON2322": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ECON1101 or COMM1100) and (ECON1102 or COMM1150) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2322.html",
+        "level": "Undergraduate ",
+        "name": "European Economic Development",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2322.html",
+        "uoc": "6"
+    },
+    "ECON2403": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: PPEC1001 AND ECON1202 AND in program 3478 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON2403.html",
+        "level": "Undergraduate ",
+        "name": "Empirical Methods",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON2403.html",
+        "uoc": "6"
+    },
+    "ECON3101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3101.html",
+        "level": "Undergraduate ",
+        "name": "Markets and Frictions",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3101.html",
+        "uoc": "6"
+    },
+    "ECON3104": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2102 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3104.html",
+        "level": "Undergraduate ",
+        "name": "International Macroeconomics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3104.html",
+        "uoc": "6"
+    },
+    "ECON3106": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3106.html",
+        "level": "Undergraduate ",
+        "name": "Politics and Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3106.html",
+        "uoc": "6"
+    },
+    "ECON3107": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3107.html",
+        "level": "Undergraduate ",
+        "name": "Economics of Finance",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3107.html",
+        "uoc": "6"
+    },
+    "ECON3110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 and (ECON1102 or COMM1150) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3110.html",
+        "level": "Undergraduate ",
+        "name": "Development Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3110.html",
+        "uoc": "6"
+    },
+    "ECON3116": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3116.html",
+        "level": "Undergraduate ",
+        "name": "International Trade Theory and Policy",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3116.html",
+        "uoc": "6"
+    },
+    "ECON3117": null,
+    "ECON3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3121.html",
+        "level": "Undergraduate ",
+        "name": "Industrial Organisation",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3121.html",
+        "uoc": "6"
+    },
+    "ECON3123": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 or ECON2112 ",
+        "equivalent": [
+            "ECON2105"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3123.html",
+        "level": "Undergraduate ",
+        "name": "Organisational Economics",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3123.html",
+        "uoc": "6"
+    },
+    "ECON3124": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3124.html",
+        "level": "Undergraduate ",
+        "name": "Behavioural Economics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3124.html",
+        "uoc": "6"
+    },
+    "ECON3130": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: (ECON1102 or COMM1150) and ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3130.html",
+        "level": "Undergraduate ",
+        "name": "Real Estate Economics and Public Policy",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3130.html",
+        "uoc": "6"
+    },
+    "ECON3202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON2101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3202.html",
+        "level": "Undergraduate ",
+        "name": "Mathematical Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3202.html",
+        "uoc": "6"
+    },
+    "ECON3203": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment ECON3209 or ECON2215 or MATH2801 or MATH2901 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3203.html",
+        "level": "Undergraduate ",
+        "name": "Econometric Theory and Methods",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3203.html",
+        "uoc": "6"
+    },
+    "ECON3206": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2209 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3206.html",
+        "level": "Undergraduate ",
+        "name": "Financial Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3206.html",
+        "uoc": "6"
+    },
+    "ECON3208": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON2206 OR (In Data Sciences and Decisions AND (MATH2831 or MATH2931)) ",
+        "equivalent": [
+            "ECON4208",
+            "ECON5408"
+        ],
+        "excluded": [
+            "ECON3291",
+            "ECON4208"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3208.html",
+        "level": "Undergraduate ",
+        "name": "Applied Econometric Methods",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3208.html",
+        "uoc": "6"
+    },
+    "ECON3209": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON2206 ",
+        "equivalent": [],
+        "excluded": [
+            "CVEN2002",
+            "MATH2801"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3209.html",
+        "level": "Undergraduate ",
+        "name": "Statistics for Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3209.html",
+        "uoc": "6"
+    },
+    "ECON3210": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite:  ECON2206 or ECON2209 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON3210.html",
+        "level": "Undergraduate ",
+        "name": "Big Data Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON3210.html",
+        "uoc": "6"
+    },
+    "ECON4100": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [],
+        "excluded": [
+            "ECON5300"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4100.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Microeconomic Analysis",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4100.html",
+        "uoc": "6"
+    },
+    "ECON4103": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4103.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Macroeconomic Analysis",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4103.html",
+        "uoc": "6"
+    },
+    "ECON4106": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6202"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4106.html",
+        "level": "Undergraduate ",
+        "name": "Policy Evaluation Methods",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4106.html",
+        "uoc": "6"
+    },
+    "ECON4150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 4501 Commerce (Honours) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4150.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Business Economics) A",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4150.html",
+        "uoc": "6"
+    },
+    "ECON4151": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 4501 Commerce (Honours) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4151.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Business Economics) B",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4151.html",
+        "uoc": "6"
+    },
+    "ECON4152": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in program 4501 Commerce (Honours) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4152.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Business Economics) C",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4152.html",
+        "uoc": "12"
+    },
+    "ECON4160": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours stream (ECONAH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4160.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Economics) A",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4160.html",
+        "uoc": "6"
+    },
+    "ECON4161": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours stream (ECONAH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4161.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Economics) B",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4161.html",
+        "uoc": "6"
+    },
+    "ECON4162": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours stream (ECONAH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4162.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Economics) C",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4162.html",
+        "uoc": "12"
+    },
+    "ECON4170": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Econometrics Honours stream (ECONEH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4170.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Econometrics) A",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4170.html",
+        "uoc": "6"
+    },
+    "ECON4171": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Econometrics Honours stream (ECONEH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4171.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Econometrics) B",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4171.html",
+        "uoc": "6"
+    },
+    "ECON4172": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Econometrics Honours stream (ECONEH4502) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4172.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Econometrics) C",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4172.html",
+        "uoc": "12"
+    },
+    "ECON4201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON4103Assumed knowledge: Familiarity with matrix algebra, introductory statistics and econometrics. Prior Knowledge in Statistical software or programming languages will be useful. ",
+        "equivalent": [
+            "ECON6203",
+            "ECON7204"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4201.html",
+        "level": "Undergraduate ",
+        "name": "Macroeconometrics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4201.html",
+        "uoc": "6"
+    },
+    "ECON4202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6201",
+            "ECON7201"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4202.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Econometric Theory and Methods",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4202.html",
+        "uoc": "6"
+    },
+    "ECON4205": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6205",
+            "ECON7205"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4205.html",
+        "level": "Undergraduate ",
+        "name": "Microeconometrics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4205.html",
+        "uoc": "6"
+    },
+    "ECON4208": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON3208",
+            "ECON5408"
+        ],
+        "excluded": [
+            "ECON3208",
+            "ECON3291"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4208.html",
+        "level": "Undergraduate ",
+        "name": "Applied Econometric Methods",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4208.html",
+        "uoc": "6"
+    },
+    "ECON4301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6301",
+            "ECON7301"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4301.html",
+        "level": "Undergraduate ",
+        "name": "Industrial Organisation",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4301.html",
+        "uoc": "6"
+    },
+    "ECON4302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6302",
+            "ECON7302"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4302.html",
+        "level": "Undergraduate ",
+        "name": "International Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4302.html",
+        "uoc": "6"
+    },
+    "ECON4311": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6311"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4311.html",
+        "level": "Undergraduate ",
+        "name": "Development and Political Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4311.html",
+        "uoc": "6"
+    },
+    "ECON4350": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Admission to Economics Honours (program 4502 or stream ECONFH4501) ",
+        "equivalent": [
+            "ECON6350"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ECON4350.html",
+        "level": "Undergraduate ",
+        "name": "Special Topics in Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON4350.html",
+        "uoc": "6"
+    },
+    "ECON5000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON5000.html",
+        "level": "Research ",
+        "name": "Research Economics Full-Time",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5000.html",
+        "uoc": "12"
+    },
+    "ECON5001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON5001.html",
+        "level": "Research ",
+        "name": "Research Economics Part-Time",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5001.html",
+        "uoc": "6"
+    },
+    "ECON5101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or corequisite: ECON5103. Students in 8412 are excluded from course. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5101.html",
+        "level": "Postgraduate ",
+        "name": "Microeconomics",
+        "school": " School of Economics",
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5101.html",
+        "uoc": "6"
+    },
+    "ECON5103": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "COMM0027"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5103.html",
+        "level": "Postgraduate ",
+        "name": "Business Economics",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5103.html",
+        "uoc": "6"
+    },
+    "ECON5106": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM5005 and ECON5103 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5106.html",
+        "level": "Postgraduate ",
+        "name": "Economics of Finance",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5106.html",
+        "uoc": "6"
+    },
+    "ECON5111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5103 ",
+        "equivalent": [],
+        "excluded": [
+            "ZZBU5611"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5111.html",
+        "level": "Postgraduate ",
+        "name": "Economics of Strategy",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5111.html",
+        "uoc": "6"
+    },
+    "ECON5130": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMM5005 and ECON5103 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5130.html",
+        "level": "Postgraduate ",
+        "name": "Financial Systems and The Economy",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5130.html",
+        "uoc": "6"
+    },
+    "ECON5205": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or corequisite: COMM5005 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5205.html",
+        "level": "Postgraduate ",
+        "name": "Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5205.html",
+        "uoc": "6"
+    },
+    "ECON5206": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5248 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5206.html",
+        "level": "Postgraduate ",
+        "name": "Financial Econometrics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5206.html",
+        "uoc": "6"
+    },
+    "ECON5248": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMM5005 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5248.html",
+        "level": "Postgraduate ",
+        "name": "Business Forecasting",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5248.html",
+        "uoc": "6"
+    },
+    "ECON5257": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: must be enrolled in program 8409  or 8415 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5257.html",
+        "level": "Postgraduate ",
+        "name": "Introductory Statistics and Data Analysis",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5257.html",
+        "uoc": "3"
+    },
+    "ECON5300": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5101 ",
+        "equivalent": [],
+        "excluded": [
+            "ECON4100"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5300.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Microeconomic Analysis",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5300.html",
+        "uoc": "6"
+    },
+    "ECON5304": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5102 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5304.html",
+        "level": "Postgraduate ",
+        "name": "International Macroeconomics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5304.html",
+        "uoc": "6"
+    },
+    "ECON5306": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5306.html",
+        "level": "Postgraduate ",
+        "name": "Politics and Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5306.html",
+        "uoc": "6"
+    },
+    "ECON5310": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5101 and ECON5103 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5310.html",
+        "level": "Postgraduate ",
+        "name": "Development Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5310.html",
+        "uoc": "6"
+    },
+    "ECON5321": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5101 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5321.html",
+        "level": "Postgraduate ",
+        "name": "Industrial Organisation",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5321.html",
+        "uoc": "6"
+    },
+    "ECON5323": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5101 OR ECON5103 ",
+        "equivalent": [
+            "ECON5112"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5323.html",
+        "level": "Postgraduate ",
+        "name": "Organisational Economics",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5323.html",
+        "uoc": "6"
+    },
+    "ECON5403": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5205 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5403.html",
+        "level": "Postgraduate ",
+        "name": "Econometric Theory and Methods",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5403.html",
+        "uoc": "6"
+    },
+    "ECON5408": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON5205 ",
+        "equivalent": [
+            "ECON3208",
+            "ECON4208"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON5408.html",
+        "level": "Postgraduate ",
+        "name": "Applied Econometric Methods",
+        "school": " School of Economics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON5408.html",
+        "uoc": "6"
+    },
+    "ECON6001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON6004 OR (co-requisite: ECON6004 and in program 8412) ",
+        "equivalent": [
+            "ECON7001"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6001.html",
+        "level": "Postgraduate ",
+        "name": "Microeconomic Theory I",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6001.html",
+        "uoc": "6"
+    },
+    "ECON6002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in program 8412 or approval of Head of School of Economics ",
+        "equivalent": [
+            "ECON7002"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6002.html",
+        "level": "Postgraduate ",
+        "name": "Macroeconomic Theory I",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6002.html",
+        "uoc": "6"
+    },
+    "ECON6004": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in program 8412 or approval of Head of School of Economics ",
+        "equivalent": [
+            "ECON7004"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6004.html",
+        "level": "Postgraduate ",
+        "name": "Mathematical Economics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6004.html",
+        "uoc": "6"
+    },
+    "ECON6101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON6001 ",
+        "equivalent": [
+            "ECON7101"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6101.html",
+        "level": "Postgraduate ",
+        "name": "Microeconomic Theory II",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6101.html",
+        "uoc": "6"
+    },
+    "ECON6102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON6002 ",
+        "equivalent": [
+            "ECON7102"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6102.html",
+        "level": "Postgraduate ",
+        "name": "Macroeconomic Theory II",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6102.html",
+        "uoc": "6"
+    },
+    "ECON6202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5408 or Corequisite: COMM8102 ",
+        "equivalent": [
+            "ECON4106"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6202.html",
+        "level": "Postgraduate ",
+        "name": "Policy Evaluation Methods",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6202.html",
+        "uoc": "6"
+    },
+    "ECON6301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON6001 ",
+        "equivalent": [
+            "ECON4301",
+            "ECON7301"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6301.html",
+        "level": "Postgraduate ",
+        "name": "Industrial Organisation",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6301.html",
+        "uoc": "6"
+    },
+    "ECON6302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON6001 ",
+        "equivalent": [
+            "ECON4302",
+            "ECON7302"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6302.html",
+        "level": "Postgraduate ",
+        "name": "International Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6302.html",
+        "uoc": "6"
+    },
+    "ECON6303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM8102 and ECON6001 ",
+        "equivalent": [
+            "ECON4303",
+            "ECON7303"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6303.html",
+        "level": "Postgraduate ",
+        "name": "Labour Economics",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6303.html",
+        "uoc": "6"
+    },
+    "ECON6307": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5101 OR Prerequisite/corequisite: ECON6001 ",
+        "equivalent": [
+            "ECON4307"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6307.html",
+        "level": "Postgraduate ",
+        "name": "Health Economics",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6307.html",
+        "uoc": "6"
+    },
+    "ECON6309": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON6001 OR ECON5101 ",
+        "equivalent": [
+            "ECON4309"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6309.html",
+        "level": "Postgraduate ",
+        "name": "Economic Measurement",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6309.html",
+        "uoc": "6"
+    },
+    "ECON6310": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ECON4310",
+            "ECON7310"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6310.html",
+        "level": "Postgraduate ",
+        "name": "Experimental and Behavioural Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6310.html",
+        "uoc": "6"
+    },
+    "ECON6311": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM8102 and ECON6001 ",
+        "equivalent": [
+            "ECON4311"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6311.html",
+        "level": "Postgraduate ",
+        "name": "Development and Political Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6311.html",
+        "uoc": "6"
+    },
+    "ECON6312": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5101 OR ECON6001 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6312.html",
+        "level": "Postgraduate ",
+        "name": "Policy Applications of Behavioural Economics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6312.html",
+        "uoc": "6"
+    },
+    "ECON6313": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Note: Knowledge of microeconomic theory equivalent or greater to passage of ECON6001 at UNSW is required. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6313.html",
+        "level": "Postgraduate ",
+        "name": "Public Economics and Regulation",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6313.html",
+        "uoc": "6"
+    },
+    "ECON6314": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON5101 OR ECON6001 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6314.html",
+        "level": "Postgraduate ",
+        "name": "Economic Development in China",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6314.html",
+        "uoc": "6"
+    },
+    "ECON6350": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or Corequisite: ECON6001, ECON6002, ECON6003 and ECON6004 ",
+        "equivalent": [
+            "ECON4350"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON6350.html",
+        "level": "Postgraduate ",
+        "name": "Special Topics in Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON6350.html",
+        "uoc": "6"
+    },
+    "ECON7001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ECON6001"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7001.html",
+        "level": "Postgraduate ",
+        "name": "Microeconomic Theory I",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7001.html",
+        "uoc": "6"
+    },
+    "ECON7002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ECON6002"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7002.html",
+        "level": "Postgraduate ",
+        "name": "Macroeconomic Theory I",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7002.html",
+        "uoc": "6"
+    },
+    "ECON7004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ECON6004"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7004.html",
+        "level": "Postgraduate ",
+        "name": "Mathematical Economics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7004.html",
+        "uoc": "6"
+    },
+    "ECON7101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7001 ",
+        "equivalent": [
+            "ECON6101"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7101.html",
+        "level": "Postgraduate ",
+        "name": "Microeconomic Theory II",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7101.html",
+        "uoc": "6"
+    },
+    "ECON7102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7002 ",
+        "equivalent": [
+            "ECON6102"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7102.html",
+        "level": "Postgraduate ",
+        "name": "Macroeconomic Theory II",
+        "school": " School of Economics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7102.html",
+        "uoc": "6"
+    },
+    "ECON7202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7001 and pre/co-requisite: COMM8102 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON7202.html",
+        "level": "Research ",
+        "name": "Policy Evaluation Methods",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7202.html",
+        "uoc": "6"
+    },
+    "ECON7204": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7001 and pre/co-requisite: COMM8102 ",
+        "equivalent": [
+            "ECON4201",
+            "ECON6203"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON7204.html",
+        "level": "Research ",
+        "name": "Macroeconometrics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7204.html",
+        "uoc": "6"
+    },
+    "ECON7205": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMM8102 ",
+        "equivalent": [
+            "ECON4205",
+            "ECON6205"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON7205.html",
+        "level": "Research ",
+        "name": "Microeconometrics",
+        "school": " School of Economics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7205.html",
+        "uoc": "6"
+    },
+    "ECON7302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7001 and ECON7004, OR approval from student\u2019s main supervisor, PGRC of his/her program, and PGRC of Economics ",
+        "equivalent": [
+            "ECON4302",
+            "ECON6302"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON7302.html",
+        "level": "Research ",
+        "name": "International Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7302.html",
+        "uoc": "6"
+    },
+    "ECON7311": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ECON7001 and ECON7004, OR approval from student\u2019s main supervisor, PGRC of his/her program, and PGRC of Economics ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ECON7311.html",
+        "level": "Research ",
+        "name": "Development and Political Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7311.html",
+        "uoc": "6"
+    },
+    "ECON7350": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ECON7350.html",
+        "level": "Postgraduate ",
+        "name": "Special Topics in Economics",
+        "school": " School of Economics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ECON7350.html",
+        "uoc": "6"
+    }
+}

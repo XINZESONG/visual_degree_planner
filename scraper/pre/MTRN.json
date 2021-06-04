@@ -1,0 +1,102 @@
+{
+    "MTRN2500": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN2500.html",
+        "level": "Undergraduate ",
+        "name": "Computing for Mechatronic Engineers",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN2500.html",
+        "uoc": "6"
+    },
+    "MTRN3020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MMAN3200 or ELEC3114 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN3020.html",
+        "level": "Undergraduate ",
+        "name": "Modelling and Control of Mechatronic Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN3020.html",
+        "uoc": "6"
+    },
+    "MTRN3500": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment pre-requisite MTRN2500 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN3500.html",
+        "level": "Undergraduate ",
+        "name": "Computing Applications in Mechatronics Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN3500.html",
+        "uoc": "6"
+    },
+    "MTRN4010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2089 and MTRN2500 and (MMAN3200 or ELEC3114) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN4010.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Autonomous Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN4010.html",
+        "uoc": "6"
+    },
+    "MTRN4030": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2089 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN4030.html",
+        "level": "Undergraduate ",
+        "name": "Optimisation Methods for Engineering Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN4030.html",
+        "uoc": "6"
+    },
+    "MTRN4110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MTRN2500 and ELEC1111 and (MMAN3200 or ELEC3114) ",
+        "equivalent": [],
+        "excluded": [
+            "MTRN3100"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN4110.html",
+        "level": "Undergraduate ",
+        "name": "Robot Design",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN4110.html",
+        "uoc": "6"
+    },
+    "MTRN4230": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MTRN2500 and MMAN2300 and (MMAN3200 or ELEC3114) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MTRN4230.html",
+        "level": "Undergraduate ",
+        "name": "Robotics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MTRN4230.html",
+        "uoc": "6"
+    }
+}

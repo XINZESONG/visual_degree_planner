@@ -1,0 +1,111 @@
+{
+    "SENG2011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: MATH1081 ",
+        "equivalent": [],
+        "excluded": [
+            "SENG2010"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2011.html",
+        "level": "Undergraduate ",
+        "name": "Workshop on Reasoning about Programs",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2011.html",
+        "uoc": "6"
+    },
+    "SENG2021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:  SENG1031 or COMP1531, and enrolment in a BE or BE(Hons) Software Engineering major. ",
+        "equivalent": [],
+        "excluded": [
+            "SENG2020"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2021.html",
+        "level": "Undergraduate ",
+        "name": "Requirements and Design Workshop",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2021.html",
+        "uoc": "6"
+    },
+    "SENG2991": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in Program 3707 in the SENGAH stream and in an approved workplace arrangement and completed COMP1511, COMP1531 and COMP2521. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2991.html",
+        "level": "Undergraduate ",
+        "name": "Software Workplace Practice 1",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2991.html",
+        "uoc": "6"
+    },
+    "SENG3011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: SENG2021 ",
+        "equivalent": [],
+        "excluded": [
+            "SENG3010"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3011.html",
+        "level": "Undergraduate ",
+        "name": "Software Engineering Workshop 3",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3011.html",
+        "uoc": "6"
+    },
+    "SENG3991": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in Program 3707 in the SENGAH stream and in the Co-op programand completed SENG2011 and SENG2021 and DESN2000 and COMP2511 and COMP2041. Successful completion of SEN2991 and attendance of IT Reflection Workshop (facilitated by Co-op Program) are aprerequisite for this course. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3991.html",
+        "level": "Undergraduate ",
+        "name": "Software Workplace Practice 2",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3991.html",
+        "uoc": "12"
+    },
+    "SENG3992": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Currently enrolled in Program 3707 in the SENGAH stream and in the Co-op programand completed SENG3011. Successful completion of SEN2991 and SENG3991are a prerequisite for this course ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3992.html",
+        "level": "Undergraduate ",
+        "name": "Software Workplace Practice 3",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3992.html",
+        "uoc": "12"
+    },
+    "SENG4920": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: SENG3011 and completion of 144 UOC in SENGAH ",
+        "equivalent": [],
+        "excluded": [
+            "BINF4920",
+            "COMP2920",
+            "COMP4920",
+            "SENG4921"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG4920.html",
+        "level": "Undergraduate ",
+        "name": "Ethics and Management",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG4920.html",
+        "uoc": "6"
+    }
+}

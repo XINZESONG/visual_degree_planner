@@ -1,0 +1,104 @@
+{
+    "AERO3110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (DESN2000 or MMAN2100) AND (ENGG2400 OR MMAN2400) ",
+        "equivalent": [],
+        "excluded": [
+            "AERO3102"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO3110.html",
+        "level": "Undergraduate ",
+        "name": "Aerospace Design 1",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO3110.html",
+        "uoc": "6"
+    },
+    "AERO3410": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ENGG2400 OR MMAN2400 OR CVEN2301 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO3410.html",
+        "level": "Undergraduate ",
+        "name": "Aerospace Structures",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO3410.html",
+        "uoc": "6"
+    },
+    "AERO3630": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MMAN2600 or ENGG2500 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO3630.html",
+        "level": "Undergraduate ",
+        "name": "Aerodynamics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO3630.html",
+        "uoc": "6"
+    },
+    "AERO3660": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MMAN1300 or ENGG1300 or DPST1072 or CVEN1300 ) AND (MMAN2600 or ENGG2500) AND MMAN2700 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO3660.html",
+        "level": "Undergraduate ",
+        "name": "Flight Performance and Propulsion",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO3660.html",
+        "uoc": "6"
+    },
+    "AERO4110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: AERO3110 ",
+        "equivalent": [],
+        "excluded": [
+            "AERO4101"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO4110.html",
+        "level": "Undergraduate ",
+        "name": "Aerospace Design 2",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO4110.html",
+        "uoc": "6"
+    },
+    "AERO4620": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: AERO3660 and MMAN3200 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO4620.html",
+        "level": "Undergraduate ",
+        "name": "Dynamics of Aerospace Vehicles, Systems and Avionics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO4620.html",
+        "uoc": "6"
+    },
+    "AERO9660": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/AERO9660.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Aerospace Propulsion",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AERO9660.html",
+        "uoc": "6"
+    }
+}

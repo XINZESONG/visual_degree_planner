@@ -1,0 +1,1066 @@
+{
+    "MATH1011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: Not enrolled in 3991 or any UNSW Business Program and must not have completed MATH1031, 1131, 1141, 1151, ECON1202 or DPST1013 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH1031"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1011.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Mathematics B",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1011.html",
+        "uoc": "6"
+    },
+    "MATH1031": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATH1011"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1031.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics for Life Sciences",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1031.html",
+        "uoc": "6"
+    },
+    "MATH1041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: MATH2841 ",
+        "equivalent": [],
+        "excluded": [
+            "ECON1203"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1041.html",
+        "level": "Undergraduate ",
+        "name": "Statistics for Life and Social Sciences",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1041.html",
+        "uoc": "6"
+    },
+    "MATH1081": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Corequisite: MATH1131 or DPST1013 or MATH1141 or MATH1151 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH1090"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1081.html",
+        "level": "Undergraduate ",
+        "name": "Discrete Mathematics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1081.html",
+        "uoc": "6"
+    },
+    "MATH1099": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Co-Op Scholar enrolled in 3956 or 3959 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1099.html",
+        "level": "Undergraduate ",
+        "name": "Industrial Placement 1 (Co-Op)",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1099.html",
+        "uoc": "12"
+    },
+    "MATH1131": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPST1013"
+        ],
+        "excluded": [
+            "DPST1013",
+            "ECON1202",
+            "ECON2291",
+            "MATH1141",
+            "MATH1151"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1131.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 1A",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1131.html",
+        "uoc": "6"
+    },
+    "MATH1141": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "DPST1013",
+            "ECON1202",
+            "ECON2291",
+            "MATH1131",
+            "MATH1151"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1141.html",
+        "level": "Undergraduate ",
+        "name": "Higher Mathematics 1A",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1141.html",
+        "uoc": "6"
+    },
+    "MATH1151": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "DPST1013",
+            "ECON1202",
+            "ECON2291",
+            "MATH1131",
+            "MATH1141"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1151.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics for Actuarial Studies and Finance 1A",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1151.html",
+        "uoc": "6"
+    },
+    "MATH1231": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1131 or DPST1013 or MATH1141 ",
+        "equivalent": [
+            "DPST1014"
+        ],
+        "excluded": [
+            "DPST1014",
+            "MATH1021",
+            "MATH1241",
+            "MATH1251"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1231.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 1B",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1231.html",
+        "uoc": "6"
+    },
+    "MATH1241": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1131 (CR) or MATH1141 (CR) or DPST1013 (CR) ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1014",
+            "MATH1021",
+            "MATH1231",
+            "MATH1251"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1241.html",
+        "level": "Undergraduate ",
+        "name": "Higher Mathematics 1B",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1241.html",
+        "uoc": "6"
+    },
+    "MATH1251": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1151. ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1014",
+            "MATH1021",
+            "MATH1231",
+            "MATH1241"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH1251.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics for Actuarial Studies and Finance 1B",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH1251.html",
+        "uoc": "6"
+    },
+    "MATH2011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 Exclusion: MATH2019, MATH2049, MATH2069, MATH2100, MATH2110 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2039",
+            "MATH2111",
+            "MATH2510",
+            "MATH2610"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2011.html",
+        "level": "Undergraduate ",
+        "name": "Several Variable Calculus",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2011.html",
+        "uoc": "6"
+    },
+    "MATH2018": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [
+            "MATH2019"
+        ],
+        "excluded": [
+            "MATH2019",
+            "MATH2020",
+            "MATH2029",
+            "MATH2059",
+            "MATH2120",
+            "MATH2121",
+            "MATH2130",
+            "MATH2221"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2018.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Mathematics 2D",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2018.html",
+        "uoc": "6"
+    },
+    "MATH2019": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [
+            "MATH2018"
+        ],
+        "excluded": [
+            "MATH2018",
+            "MATH2020",
+            "MATH2029",
+            "MATH2059",
+            "MATH2120",
+            "MATH2121",
+            "MATH2130",
+            "MATH2221"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2019.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Mathematics 2E",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2019.html",
+        "uoc": "6"
+    },
+    "MATH2069": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251; Exclusion: MATH2011, MATH2111, MATH2510, MATH2610, MATH2520 & MATH2620 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2069.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 2A",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2069.html",
+        "uoc": "6"
+    },
+    "MATH2089": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251. Exclusion: CVEN2002, CVEN2025, CVEN2702,ECON3209, MATH2049, MATH2829, MATH2839, MATH2899, and MINE2700 ",
+        "equivalent": [],
+        "excluded": [
+            "BEES2041",
+            "BIOS2041",
+            "MATH2099",
+            "MATH2859",
+            "MATH2901"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2089.html",
+        "level": "Undergraduate ",
+        "name": "Numerical Methods and Statistics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2089.html",
+        "uoc": "6"
+    },
+    "MATH2099": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 Exclusion: MATH2501 and MATH2601 ",
+        "equivalent": [],
+        "excluded": [
+            "BEES2041",
+            "BIOS2041",
+            "MATH2089",
+            "MATH2859",
+            "MATH2901"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2099.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 2B",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2099.html",
+        "uoc": "6"
+    },
+    "MATH2121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2018",
+            "MATH2019",
+            "MATH2020",
+            "MATH2029",
+            "MATH2059",
+            "MATH2120",
+            "MATH2130",
+            "MATH2221"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2121.html",
+        "level": "Undergraduate ",
+        "name": "Theory and Applications of Differential Equations",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2121.html",
+        "uoc": "6"
+    },
+    "MATH2221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 each with a mark of 70. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2018",
+            "MATH2019",
+            "MATH2020",
+            "MATH2029",
+            "MATH2059",
+            "MATH2120",
+            "MATH2121",
+            "MATH2130"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2221.html",
+        "level": "Undergraduate ",
+        "name": "Higher Theory and Applications of Differential Equations",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2221.html",
+        "uoc": "6"
+    },
+    "MATH2241": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2241.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Atmosphere and Ocean Dynamics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2241.html",
+        "uoc": "6"
+    },
+    "MATH2301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1031 (CR) or MATH1231 or or DPST1014 or MATH1241 or MATH1251. Exclusions: MATH2089, CVEN2002, and CVEN2702 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2301.html",
+        "level": "Undergraduate ",
+        "name": "Mathematical Computing",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2301.html",
+        "uoc": "6"
+    },
+    "MATH2400": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1081 or MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2400.html",
+        "level": "Undergraduate ",
+        "name": "Finite Mathematics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2400.html",
+        "uoc": "3"
+    },
+    "MATH2501": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251; Exclusion: MATH2099 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2509",
+            "MATH2601"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2501.html",
+        "level": "Undergraduate ",
+        "name": "Linear Algebra",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2501.html",
+        "uoc": "6"
+    },
+    "MATH2521": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251; Exclusion: MATH2069 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2520",
+            "MATH2620",
+            "MATH2621"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2521.html",
+        "level": "Undergraduate ",
+        "name": "Complex Analysis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2521.html",
+        "uoc": "6"
+    },
+    "MATH2601": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 each with a mark of 70 or greater; Exclusion: MATH2099 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2501",
+            "MATH2509"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2601.html",
+        "level": "Undergraduate ",
+        "name": "Higher Linear Algebra",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2601.html",
+        "uoc": "6"
+    },
+    "MATH2621": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 each with a mark of at least 70; Exclusion: MATH2069 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2520",
+            "MATH2521",
+            "MATH2620"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2621.html",
+        "level": "Undergraduate ",
+        "name": "Higher Complex Analysis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2621.html",
+        "uoc": "6"
+    },
+    "MATH2701": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 with at least a CR, enrolment in an advanced maths or advanced science program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2701.html",
+        "level": "Undergraduate ",
+        "name": "Abstract Algebra and Fundamental Analysis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2701.html",
+        "uoc": "6"
+    },
+    "MATH2801": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014; Exclusion: MATH2089; MATH2099; MATH2801; MATH2901; BEES2041; BIOS2041;CVEN2002. ",
+        "equivalent": [],
+        "excluded": [
+            "CVEN2002",
+            "ECON3209"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2801.html",
+        "level": "Undergraduate ",
+        "name": "Theory of Statistics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2801.html",
+        "uoc": "6"
+    },
+    "MATH2831": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2801 or MATH2901. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2931"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2831.html",
+        "level": "Undergraduate ",
+        "name": "Linear Models",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2831.html",
+        "uoc": "6"
+    },
+    "MATH2859": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014; Exclusion: MATH2089; MATH2099; MATH2801; MATH2901; BEES2041; BIOS2041;CVEN2002. ",
+        "equivalent": [],
+        "excluded": [
+            "BEES2041",
+            "BIOS2041",
+            "MATH2089",
+            "MATH2099",
+            "MATH2901"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2859.html",
+        "level": "Undergraduate ",
+        "name": "Probability, Statistics and Information",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2859.html",
+        "uoc": "3"
+    },
+    "MATH2871": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1041 or ECON1203 or ECON2292 or PSYC2001 or MATH1231 or DPST1014 or MATH1241 or MATH1251 or equivalent. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2871.html",
+        "level": "Undergraduate ",
+        "name": "Data Management for Statistical Analysis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2871.html",
+        "uoc": "6"
+    },
+    "MATH2901": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1231 or MATH1241 or MATH1251 or DPST1014; Exclusion: MATH2089; MATH2099; MATH2801; MATH2901; BEES2041; BIOS2041;CVEN2002. ",
+        "equivalent": [],
+        "excluded": [
+            "BEES2041",
+            "BIOS2041",
+            "MATH2089",
+            "MATH2099",
+            "MATH2859"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2901.html",
+        "level": "Undergraduate ",
+        "name": "Higher Theory of Statistics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2901.html",
+        "uoc": "6"
+    },
+    "MATH2931": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2901 or MATH2801(DN) ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2831"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH2931.html",
+        "level": "Undergraduate ",
+        "name": "Higher Linear Models",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH2931.html",
+        "uoc": "6"
+    },
+    "MATH3000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Maths courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3000.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics/Statistics Project",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3000.html",
+        "uoc": "3"
+    },
+    "MATH3001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Maths courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3001.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics/Statistics Project",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3001.html",
+        "uoc": "6"
+    },
+    "MATH3002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Maths courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3002.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics/Statistics Project",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3002.html",
+        "uoc": "12"
+    },
+    "MATH3041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Maths courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3041.html",
+        "level": "Undergraduate ",
+        "name": "Mathematical Modelling for Real World Systems",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3041.html",
+        "uoc": "6"
+    },
+    "MATH3101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses including (MATH2011 or MATH2111 and MATH2120 or MATH2130 or MATH2121 or MATH2221), or (both MATH2019 (DN) and MATH2089), or (both MATH2069 (CR) and MATH2099) ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3301",
+            "MATH5305"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3101.html",
+        "level": "Undergraduate ",
+        "name": "Computational Mathematics for Science and Engineering",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3101.html",
+        "uoc": "6"
+    },
+    "MATH3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses including (MATH2011 or MATH2111) and (MATH2120 or MATH2130 or MATH2121 or MATH2221), or (both MATH2019 (DN) and MATH2089), or (both MATH2069 (DN) and MATH2099) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3121.html",
+        "level": "Undergraduate ",
+        "name": "Mathematical Methods and Partial Differential Equations",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3121.html",
+        "uoc": "6"
+    },
+    "MATH3161": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Mathematics courses including MATH2011 or MATH2111 or MATH2510, and MATH2501 or MATH2601, or both MATH2019(DN) and MATH2089, or both MATH2069(CR) and MATH2099. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3181",
+            "MATH5165"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3161.html",
+        "level": "Undergraduate ",
+        "name": "Optimization",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3161.html",
+        "uoc": "6"
+    },
+    "MATH3201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Mathematics courses including (MATH2120 or MATH2130 or MATH2121 or MATH2221) and (MATH2501 or MATH2601), or (both MATH2019 (DN) and MATH2089), or (both MATH2069 (CR) and MATH2099) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3201.html",
+        "level": "Undergraduate ",
+        "name": "Dynamical Systems and Chaos",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3201.html",
+        "uoc": "6"
+    },
+    "MATH3261": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses including (MATH2011 or MATH2111) and (MATH2120 or MATH2130 or MATH2121 or MATH2221), or (both MATH2019 (DN) and MATH2089), or (both MATH2069 (DN) and MATH2099) ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3241",
+            "MATH5285"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3261.html",
+        "level": "Undergraduate ",
+        "name": "Fluids, Oceans and Climate",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3261.html",
+        "uoc": "6"
+    },
+    "MATH3311": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH2120 or MATH2130 or MATH2121 or MATH2221 or MATH2111) and (MATH2501 or MATH2601) and (MATH2801 or MATH2901 or MATH2871) ",
+        "equivalent": [],
+        "excluded": [
+            "MATH5335"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3311.html",
+        "level": "Undergraduate ",
+        "name": "Computational Mathematics for Finance",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3311.html",
+        "uoc": "6"
+    },
+    "MATH3361": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2011 or MATH2111 or MATH2018 (DN) or MATH2019(DN) or MATH2069(DN) and MATH2801 or MATH2901 or MATH2089(DN) or MATH2099(DN) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3361.html",
+        "level": "Undergraduate ",
+        "name": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3361.html",
+        "uoc": "6"
+    },
+    "MATH3411": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: MATH1081 or MATH1231(CR) or DPST1014 (CR) or MATH1241(CR) or MATH1251(CR) or MATH2099. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3411.html",
+        "level": "Undergraduate ",
+        "name": "Information, Codes and Ciphers",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3411.html",
+        "uoc": "6"
+    },
+    "MATH3511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3511.html",
+        "level": "Undergraduate ",
+        "name": "Transformations, Groups and Geometry",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3511.html",
+        "uoc": "6"
+    },
+    "MATH3521": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3710",
+            "MATH3711",
+            "MATH3720",
+            "MATH3740"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3521.html",
+        "level": "Undergraduate ",
+        "name": "Algebraic Techniques in Number Theory",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3521.html",
+        "uoc": "6"
+    },
+    "MATH3560": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 6 units of credit in Level 2 Math courses. ",
+        "equivalent": [],
+        "excluded": [
+            "GENS2005"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3560.html",
+        "level": "Undergraduate ",
+        "name": "History of Mathematics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3560.html",
+        "uoc": "3"
+    },
+    "MATH3570": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 units of credit in Level 2 Math courses. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3610",
+            "MATH3611",
+            "MATH3620",
+            "MATH5645",
+            "MATH5705"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3570.html",
+        "level": "Undergraduate ",
+        "name": "Foundations of Calculus",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3570.html",
+        "uoc": "3"
+    },
+    "MATH3611": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2111 or MATH2011 (CR) or MATH2510 (CR), or permission from the Head of Department. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3570",
+            "MATH3610",
+            "MATH3620",
+            "MATH5645",
+            "MATH5705"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3611.html",
+        "level": "Undergraduate ",
+        "name": "Higher Analysis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3611.html",
+        "uoc": "6"
+    },
+    "MATH3701": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2111 or MATH2011 (CR) or MATH2510 (CR) and MATH2601 or MATH2501 (CR), or permission from Head of Department. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3531",
+            "MATH3700",
+            "MATH3760"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3701.html",
+        "level": "Undergraduate ",
+        "name": "Higher Topology and Differential Geometry",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3701.html",
+        "uoc": "6"
+    },
+    "MATH3711": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 12 UOC of Level 2 Mathematics with an average mark of at least 70, including MATH2601 or MATH2501 (CR), or permission from the Head of Department. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3521",
+            "MATH3710",
+            "MATH3720",
+            "MATH3740"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3711.html",
+        "level": "Undergraduate ",
+        "name": "Higher Algebra",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3711.html",
+        "uoc": "6"
+    },
+    "MATH3801": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2501 or MATH2601 and MATH2011 or MATH2111 or MATH2510 or MATH2610 and MATH2801 or MATH2901. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3901"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3801.html",
+        "level": "Undergraduate ",
+        "name": "Probability and Stochastic Processes",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3801.html",
+        "uoc": "6"
+    },
+    "MATH3811": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2831 or MATH2931. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3911",
+            "MATH5905"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3811.html",
+        "level": "Undergraduate ",
+        "name": "Statistical Inference",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3811.html",
+        "uoc": "6"
+    },
+    "MATH3821": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2831 or MATH2931 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3821.html",
+        "level": "Undergraduate ",
+        "name": "Statistical Modelling and Computing",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3821.html",
+        "uoc": "6"
+    },
+    "MATH3831": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2801 or MATH2901. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3931"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3831.html",
+        "level": "Undergraduate ",
+        "name": "Statistical Methods in Social and Market Research",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3831.html",
+        "uoc": "6"
+    },
+    "MATH3851": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2801 OR MATH2901 AND MATH2831 OR MATH2931. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2810",
+            "MATH2910",
+            "MATH3830",
+            "MATH3930"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3851.html",
+        "level": "Undergraduate ",
+        "name": "Experimental Design and Categorical Data",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3851.html",
+        "uoc": "6"
+    },
+    "MATH3871": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2801 or MATH2901 ",
+        "equivalent": [
+            "MATH5960",
+            "ZZSC5960"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3871.html",
+        "level": "Undergraduate ",
+        "name": "Bayesian Inference and Computation",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3871.html",
+        "uoc": "6"
+    },
+    "MATH3901": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2901 or MATH2801(DN) and MATH2501 or MATH2601 and MATH2011 or MATH2111 or MATH2510 or MATH2610. ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3801"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3901.html",
+        "level": "Undergraduate ",
+        "name": "Higher Probability and Stochastic Processes",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3901.html",
+        "uoc": "6"
+    },
+    "MATH3911": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2931 or MATH2831(DN). ",
+        "equivalent": [],
+        "excluded": [
+            "MATH3811",
+            "MATH5905"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH3911.html",
+        "level": "Undergraduate ",
+        "name": "Higher Statistical Inference",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH3911.html",
+        "uoc": "6"
+    },
+    "MATH4001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in MATH Honours stream ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH4001.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics and Statistics Honours Thesis",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH4001.html",
+        "uoc": "6"
+    },
+    "MATH6781": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 12 units of credit in Level 2 Mathematics courses including (MATH2120 or MATH2130 or MATH2121 or MATH2221), or both MATH2019 and MATH2089, or both MATH2069 and MATH2099 ",
+        "equivalent": [],
+        "excluded": [
+            "MATH2280"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATH6781.html",
+        "level": "Undergraduate ",
+        "name": "Biomathematics",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATH6781.html",
+        "uoc": "6"
+    }
+}

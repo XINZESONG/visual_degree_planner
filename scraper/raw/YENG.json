@@ -1,0 +1,76 @@
+{
+    "YENG5581": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/YENG5581.html",
+        "level": "Postgraduate ",
+        "name": "Advanced Earth Systems Engineering and Management",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": null,
+        "timetable": "http://timetable.unsw.edu.au/2021/YENG5581.html",
+        "uoc": "6"
+    },
+    "YENG5582": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/YENG5582.html",
+        "level": "Postgraduate ",
+        "name": "Industrial Ecology, Sustainable Engineering, and Corporate Responsibility",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/YENG5582.html",
+        "uoc": "6"
+    },
+    "YENG5598": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/YENG5598.html",
+        "level": "Postgraduate ",
+        "name": "Introduction to Sustainability of Energy Systems",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/YENG5598.html",
+        "uoc": "6"
+    },
+    "YENG9741": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ENGG9741"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/YENG9741.html",
+        "level": "Postgraduate ",
+        "name": "Nuclear Power Engineering",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/YENG9741.html",
+        "uoc": "6"
+    },
+    "YENG9742": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ENGG9741 OR YENG9741 ",
+        "equivalent": [],
+        "excluded": [
+            "ENGG9742"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/YENG9742.html",
+        "level": "Postgraduate ",
+        "name": "Nuclear Reactor Theory and Design",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/YENG9742.html",
+        "uoc": "6"
+    }
+}

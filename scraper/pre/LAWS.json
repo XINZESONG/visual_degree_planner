@@ -1,0 +1,1885 @@
+{
+    "LAWS1021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LAWS1052 or LAWS1051; JURD7152 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7101",
+            "JURD7121",
+            "LAWS1001"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1021.html",
+        "level": "Undergraduate ",
+        "name": "Crime and the Criminal Process",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1021.html",
+        "uoc": "6"
+    },
+    "LAWS1022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LAWS1021 or JURD7121 or LAWS1001 or  JURD7101 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7111",
+            "JURD7122",
+            "LAWS1011"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1022.html",
+        "level": "Undergraduate ",
+        "name": "Criminal Laws",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1022.html",
+        "uoc": "6"
+    },
+    "LAWS1052": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment This course is strictly for students undertaking Law programs only. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1052.html",
+        "level": "Undergraduate ",
+        "name": "Introducing Law and Justice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1052.html",
+        "uoc": "6"
+    },
+    "LAWS1061": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Prerequisite: LAWS1052 or LAWS1051; JURD7152 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7161"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1061.html",
+        "level": "Undergraduate ",
+        "name": "Torts",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1061.html",
+        "uoc": "6"
+    },
+    "LAWS1075": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Principles of Private Law (any one of LAWS1071, LAWS1150, JURD7150, or JURD7171) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7172",
+            "JURD7175",
+            "LAWS1072"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1075.html",
+        "level": "Undergraduate ",
+        "name": "Contracts",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1075.html",
+        "uoc": "6"
+    },
+    "LAWS1091": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150 /JURD7150), Contracts (LAWS1075/JURD7175) and Equity and Trusts (LAWS2385/JURD7285). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7224",
+            "LAWS2010"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1091.html",
+        "level": "Undergraduate ",
+        "name": "Business Associations",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1091.html",
+        "uoc": "6"
+    },
+    "LAWS1121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic program must be 7016, Humanities Pathway Program. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1121.html",
+        "level": "Undergraduate ",
+        "name": "Legal System and Skills A",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1121.html",
+        "uoc": "6"
+    },
+    "LAWS1122": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic program must be 7016, Humanities Pathway Program. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1122.html",
+        "level": "Undergraduate ",
+        "name": "Legal System and Skills B",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1122.html",
+        "uoc": "6"
+    },
+    "LAWS1123": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic program must be 7016, Humanities Pathway Program. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1123.html",
+        "level": "Undergraduate ",
+        "name": "Conceptual Foundations of the Legal System",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1123.html",
+        "uoc": "6"
+    },
+    "LAWS1124": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic program must be 7016, Humanities Pathway Program. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1124.html",
+        "level": "Undergraduate ",
+        "name": "Lawyers and Society",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1124.html",
+        "uoc": "6"
+    },
+    "LAWS1141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses including LAWS1052 or 24 UOC completed in Juris Doctor courses. ",
+        "equivalent": [
+            "JURD7140"
+        ],
+        "excluded": [
+            "JURD7140",
+            "JURD7141",
+            "LAWS1140"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1141.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Public Law",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1141.html",
+        "uoc": "6"
+    },
+    "LAWS1150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LAWS1052 or LAWS1051; JURD7152 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7150",
+            "JURD7171",
+            "LAWS1071"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1150.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Private Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1150.html",
+        "uoc": "6"
+    },
+    "LAWS1160": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Principles of Public Law (LAWS1141/JURD7141) or Public Law (LAWS1140/JURD7140) ",
+        "equivalent": [
+            "JURD7160"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1160.html",
+        "level": "Undergraduate ",
+        "name": "Administrative Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1160.html",
+        "uoc": "6"
+    },
+    "LAWS1213": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1213.html",
+        "level": "Undergraduate ",
+        "name": "Foundations Enrichment 1",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1213.html",
+        "uoc": "3"
+    },
+    "LAWS1214": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1214.html",
+        "level": "Undergraduate ",
+        "name": "Foundations Enrichment 2",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1214.html",
+        "uoc": "3"
+    },
+    "LAWS1230": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses including LAWS1052 or 24 UOC completed in Juris Doctor courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7110",
+            "JURD7130",
+            "LAWS1210"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS1230.html",
+        "level": "Undergraduate ",
+        "name": "Lawyers, Ethics and Justice",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS1230.html",
+        "uoc": "6"
+    },
+    "LAWS2150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principle of Public Law (LAWS1141/JURD7141) and Administrative Law (LAWS1160/JURD7160) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7250"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2150.html",
+        "level": "Undergraduate ",
+        "name": "Federal Constitutional Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2150.html",
+        "uoc": "6"
+    },
+    "LAWS2270": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:Completion of 78 UOC in LAWS courses including Equity and Trusts (LAWS2385). This course is open ONLY to the students who commenced their program from 2013. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7270",
+            "JURD7571",
+            "LAWS3271"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2270.html",
+        "level": "Undergraduate ",
+        "name": "Law in the Global Context",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2270.html",
+        "uoc": "6"
+    },
+    "LAWS2320": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7223",
+            "JURD7431",
+            "LAWS3331"
+        ],
+        "excluded": [
+            "LAWS2326",
+            "LAWS2384",
+            "LAWS2820"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2320.html",
+        "level": "Undergraduate ",
+        "name": "Legal Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2320.html",
+        "uoc": "6"
+    },
+    "LAWS2326": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7236",
+            "JURD7336",
+            "LAWS3326"
+        ],
+        "excluded": [
+            "LAWS2320",
+            "LAWS2384",
+            "LAWS2820"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2326.html",
+        "level": "Undergraduate ",
+        "name": "Theories of Law and Justice",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2326.html",
+        "uoc": "6"
+    },
+    "LAWS2351": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Crime and Criminal Process (LAWS1021/JURD7121) and Criminal Laws (LAWS1022/JURD7122). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7221",
+            "JURD7251",
+            "LAWS2321"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2351.html",
+        "level": "Undergraduate ",
+        "name": "Court Process, Evidence and Proof",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2351.html",
+        "uoc": "6"
+    },
+    "LAWS2371": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150/JURD7150) and Contracts (LAWS1075/ JURD7175) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7211",
+            "JURD7271",
+            "LAWS2311"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2371.html",
+        "level": "Undergraduate ",
+        "name": "Resolving Civil Disputes",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2371.html",
+        "uoc": "6"
+    },
+    "LAWS2383": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150 /JURD7150), Contracts (LAWS1075/JURD7175) and Equity and Trusts (LAWS2385/JURD7285). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7282",
+            "JURD7283",
+            "LAWS2382"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2383.html",
+        "level": "Undergraduate ",
+        "name": "Land Law",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2383.html",
+        "uoc": "6"
+    },
+    "LAWS2384": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7284",
+            "JURD7784",
+            "LAWS3384"
+        ],
+        "excluded": [
+            "LAWS2320",
+            "LAWS2326",
+            "LAWS2820"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2384.html",
+        "level": "Undergraduate ",
+        "name": "Legal Experimentalism",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2384.html",
+        "uoc": "6"
+    },
+    "LAWS2385": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Principles of Private Law (LAWS1150/JURD7150) and Contracts (LAWS1075/ JURD7175) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7281",
+            "JURD7285",
+            "LAWS2381"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2385.html",
+        "level": "Undergraduate ",
+        "name": "Equity and Trusts",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2385.html",
+        "uoc": "6"
+    },
+    "LAWS2820": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: 24 UOC completed in LLB courses or 24 UOC completed in Juris Doctor courses. Juris Doctor students who commenced prior to 2013 need no pre-requisites. ",
+        "equivalent": [
+            "JURD7222",
+            "JURD7632",
+            "LAWS3332"
+        ],
+        "excluded": [
+            "LAWS2320",
+            "LAWS2326",
+            "LAWS2384"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS2820.html",
+        "level": "Undergraduate ",
+        "name": "Law and Social Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS2820.html",
+        "uoc": "6"
+    },
+    "LAWS3014": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Business Associations (LAWS1091). ",
+        "equivalent": [
+            "JURD7414"
+        ],
+        "excluded": [
+            "JURD7414",
+            "JURD7695",
+            "LAWS8095"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3014.html",
+        "level": "Undergraduate ",
+        "name": "Insolvency Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3014.html",
+        "uoc": "6"
+    },
+    "LAWS3017": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including either Legal Theory (LAWS2320), Law and Social Theory (LAWS2820) or Theories of Law and Justice (LAWS2326). ",
+        "equivalent": [
+            "JURD7417"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3017.html",
+        "level": "Undergraduate ",
+        "name": "The Politics of Human Rights: Theory and Critique",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3017.html",
+        "uoc": "6"
+    },
+    "LAWS3018": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS coursesCo-requisite: Business Associations (LAWS1091) and Land Law (LAWS2383) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7318"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3018.html",
+        "level": "Undergraduate ",
+        "name": "Commercial Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3018.html",
+        "uoc": "6"
+    },
+    "LAWS3021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Exclusion: LAWS3046/JURD7446, LAWS3248/JURD7448, LAWS3523/GENL2323 and LAWS8017/JURD7617 ",
+        "equivalent": [
+            "JURD7321"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3021.html",
+        "level": "Undergraduate ",
+        "name": "Foundations of Intellectual Property Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3021.html",
+        "uoc": "6"
+    },
+    "LAWS3022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7522"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3022.html",
+        "level": "Undergraduate ",
+        "name": "Competition Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3022.html",
+        "uoc": "6"
+    },
+    "LAWS3023": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Business Associations (LAWS1091). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7623"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3023.html",
+        "level": "Undergraduate ",
+        "name": "Commercial and Charitable Trusts",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3023.html",
+        "uoc": "6"
+    },
+    "LAWS3028": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7328"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3028.html",
+        "level": "Undergraduate ",
+        "name": "Employment Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3028.html",
+        "uoc": "6"
+    },
+    "LAWS3040": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3040.html",
+        "level": "Undergraduate ",
+        "name": "Regulation for Cyber Security",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3040.html",
+        "uoc": "6"
+    },
+    "LAWS3046": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Exclusion: LAWS3021/JURD7321, LAWS3523/GENL2323, LAWS8017/JURD7617 ",
+        "equivalent": [
+            "JURD7446"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3046.html",
+        "level": "Undergraduate ",
+        "name": "Intellectual Property 1: Copyright and Designs",
+        "school": null,
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3046.html",
+        "uoc": "6"
+    },
+    "LAWS3057": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Co-requisite: Foundations of Intellectual Property Law (LAWS3021/JURD7321) or Intellectual Property Law (LAWS8017/JURD7617). ",
+        "equivalent": [
+            "JURD7357"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3057.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Intellectual Property Policy and Practice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3057.html",
+        "uoc": "6"
+    },
+    "LAWS3064": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7564"
+        ],
+        "excluded": [
+            "JURD7345",
+            "JURD7441",
+            "JURD7564",
+            "LAWS3441"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3064.html",
+        "level": "Undergraduate ",
+        "name": "UNSW Law Journal (Executive Editor)",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3064.html",
+        "uoc": "6"
+    },
+    "LAWS3065": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7565"
+        ],
+        "excluded": [
+            "JURD7565"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3065.html",
+        "level": "Undergraduate ",
+        "name": "UNSW Law Journal Editor",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3065.html",
+        "uoc": "6"
+    },
+    "LAWS3070": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3070.html",
+        "level": "Undergraduate ",
+        "name": "International Investment Law and Policy",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3070.html",
+        "uoc": "6"
+    },
+    "LAWS3073": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Land Law (LAWS2383). ",
+        "equivalent": [
+            "JURD7773"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3073.html",
+        "level": "Undergraduate ",
+        "name": "Cities, Planning, Law and Justice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3073.html",
+        "uoc": "6"
+    },
+    "LAWS3079": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7379"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3079.html",
+        "level": "Undergraduate ",
+        "name": "Restitution",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3079.html",
+        "uoc": "6"
+    },
+    "LAWS3080": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3080.html",
+        "level": "Undergraduate ",
+        "name": "Insurance in Australia",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3080.html",
+        "uoc": "6"
+    },
+    "LAWS3084": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7484"
+        ],
+        "excluded": [
+            "JURD7472",
+            "JURD7484",
+            "LAWS8972"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3084.html",
+        "level": "Undergraduate ",
+        "name": "International Trade Law: The Law and Policy of the World Trade Organisation (WTO)",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3084.html",
+        "uoc": "6"
+    },
+    "LAWS3086": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7486"
+        ],
+        "excluded": [
+            "JURD7486",
+            "JURD7610",
+            "LAWS3510"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3086.html",
+        "level": "Undergraduate ",
+        "name": "International Law Competitive Moot",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3086.html",
+        "uoc": "6"
+    },
+    "LAWS3087": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7787"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3087.html",
+        "level": "Undergraduate ",
+        "name": "US Legal Systems (Berkeley)",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3087.html",
+        "uoc": "6"
+    },
+    "LAWS3115": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Land Law (LAWS2383). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7515"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3115.html",
+        "level": "Undergraduate ",
+        "name": "People, Land and Community",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3115.html",
+        "uoc": "6"
+    },
+    "LAWS3123": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7323",
+            "LAWS8135"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3123.html",
+        "level": "Undergraduate ",
+        "name": "Chinese Legal System (SJTU)",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3123.html",
+        "uoc": "6"
+    },
+    "LAWS3131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7331"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3131.html",
+        "level": "Undergraduate ",
+        "name": "Information Technology Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3131.html",
+        "uoc": "6"
+    },
+    "LAWS3133": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7333"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3133.html",
+        "level": "Undergraduate ",
+        "name": "Law of Banking",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3133.html",
+        "uoc": "6"
+    },
+    "LAWS3146": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7346",
+            "LAWS8146"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3146.html",
+        "level": "Undergraduate ",
+        "name": "Human Rights Law (New York)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3146.html",
+        "uoc": "6"
+    },
+    "LAWS3149": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7449"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3149.html",
+        "level": "Undergraduate ",
+        "name": "Theories of Law and Biology",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3149.html",
+        "uoc": "6"
+    },
+    "LAWS3150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:Completion of 78 UOC in LAWS courses including Federal Constitutional Law (LAWS2150). ",
+        "equivalent": [
+            "JURD7450"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3150.html",
+        "level": "Undergraduate ",
+        "name": " Contemporary Constitutional Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3150.html",
+        "uoc": "6"
+    },
+    "LAWS3167": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7567"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3167.html",
+        "level": "Undergraduate ",
+        "name": "The Rule of Law in Southeast Asia",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3167.html",
+        "uoc": "6"
+    },
+    "LAWS3170": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Resolving Civil Disputes (LAWS2371) and Lawyers, Ethics and Justice (LAWS1230)Co-requisite: Court Process, Evidence and Proof (LAWS2351) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7370"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3170.html",
+        "level": "Undergraduate ",
+        "name": "The Essential Advocate: An Introduction to Advocacy",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3170.html",
+        "uoc": "6"
+    },
+    "LAWS3181": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7381"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3181.html",
+        "level": "Undergraduate ",
+        "name": "International Humanitarian Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3181.html",
+        "uoc": "6"
+    },
+    "LAWS3182": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7582"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3182.html",
+        "level": "Undergraduate ",
+        "name": "International Human Rights Law and Advocacy",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3182.html",
+        "uoc": "6"
+    },
+    "LAWS3183": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7383"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3183.html",
+        "level": "Undergraduate ",
+        "name": "Australian Journal of Human Rights",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3183.html",
+        "uoc": "6"
+    },
+    "LAWS3185": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7485"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3185.html",
+        "level": "Undergraduate ",
+        "name": "Public Interest Litigation: Origins and Strategies",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3185.html",
+        "uoc": "6"
+    },
+    "LAWS3186": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7386"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3186.html",
+        "level": "Undergraduate ",
+        "name": "Human Rights Defender",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3186.html",
+        "uoc": "6"
+    },
+    "LAWS3187": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7387"
+        ],
+        "excluded": [
+            "JURD7387",
+            "JURD7490",
+            "LAWS8190"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3187.html",
+        "level": "Undergraduate ",
+        "name": "Forced Migration and Human Rights in International Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3187.html",
+        "uoc": "6"
+    },
+    "LAWS3192": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Business Associations (LAWS1091). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7392",
+            "JURD7791",
+            "LAWS8091"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3192.html",
+        "level": "Undergraduate ",
+        "name": "Takeovers and Capital Markets Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3192.html",
+        "uoc": "6"
+    },
+    "LAWS3196": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7596"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3196.html",
+        "level": "Undergraduate ",
+        "name": "Designing Technology Solutions for Access to Justice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3196.html",
+        "uoc": "6"
+    },
+    "LAWS3216": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7716"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3216.html",
+        "level": "Undergraduate ",
+        "name": "Food Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3216.html",
+        "uoc": "6"
+    },
+    "LAWS3221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7421"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3221.html",
+        "level": "Undergraduate ",
+        "name": "Media Law: General Principles",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3221.html",
+        "uoc": "6"
+    },
+    "LAWS3240": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Lawyers, Ethics and Justice (LAWS1230). ",
+        "equivalent": [
+            "JURD7540"
+        ],
+        "excluded": [
+            "JURD7540"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3240.html",
+        "level": "Undergraduate ",
+        "name": "Kingsford Legal Centre Family Law Community Education Clinic (Non-Intensive)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3240.html",
+        "uoc": "6"
+    },
+    "LAWS3248": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Exclusion: LAWS3021/JURD7321, LAWS3523/GENL2323, LAWS8017/JURD7617 ",
+        "equivalent": [
+            "JURD7448"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3248.html",
+        "level": "Undergraduate ",
+        "name": "Intellectual Property 2: Trade Marks and Patents",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3248.html",
+        "uoc": "6"
+    },
+    "LAWS3272": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:Completion of 78 UOC in LAWS courses including Federal Constitutional Law (LAWS2150). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7372"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3272.html",
+        "level": "Undergraduate ",
+        "name": "Australian Immigration Law and Practice",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3272.html",
+        "uoc": "6"
+    },
+    "LAWS3276": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:Completion of 78 UOC in LAWS courses including Federal Constitutional Law (LAWS2150). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7476"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3276.html",
+        "level": "Undergraduate ",
+        "name": "Sir Anthony Mason Research Project in Constitutional Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3276.html",
+        "uoc": "6"
+    },
+    "LAWS3281": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: Completion of 78 UOC in LAWS courses including Administrative Law (LAWS1160). Co-requisite: Resolving Civil Disputes (LAWS2371) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7581"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3281.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Statutory Interpretation",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3281.html",
+        "uoc": "6"
+    },
+    "LAWS3282": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Administrative Law (LAWS1160). ",
+        "equivalent": [
+            "JURD7382"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3282.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Administrative Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3282.html",
+        "uoc": "6"
+    },
+    "LAWS3301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7701"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3301.html",
+        "level": "Undergraduate ",
+        "name": "Remedies",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3301.html",
+        "uoc": "6"
+    },
+    "LAWS3302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Administrative Law (LAWS1160) and Equity and Trusts (LAWS2385). ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3302.html",
+        "level": "Undergraduate ",
+        "name": "Land and Environment Court Clinic",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3302.html",
+        "uoc": "6"
+    },
+    "LAWS3303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Lawyers, Ethics and Justice (LAWS1230/1210) and Resolving Civil Disputes (LAWS2371/2311) ",
+        "equivalent": [
+            "JURD7303"
+        ],
+        "excluded": [
+            "JURD7303",
+            "JURD7304",
+            "LAWS3304"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3303.html",
+        "level": "Undergraduate ",
+        "name": "Kingsford Legal Centre Community Law Clinic (Intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3303.html",
+        "uoc": "12"
+    },
+    "LAWS3304": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Lawyers, Ethics and Justice (LAWS1230/1210) and Resolving Civil Disputes (LAWS2371/2311) ",
+        "equivalent": [
+            "JURD7304"
+        ],
+        "excluded": [
+            "JURD7303",
+            "JURD7304",
+            "LAWS3303"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3304.html",
+        "level": "Undergraduate ",
+        "name": "Kingsford Legal Centre Community Law Clinic (Non-intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3304.html",
+        "uoc": "6"
+    },
+    "LAWS3305": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Lawyers, Ethics and Justice (LAWS1230/1210) and Resolving Civil Disputes (LAWS2371/2311) ",
+        "equivalent": [
+            "JURD7305"
+        ],
+        "excluded": [
+            "JURD7305"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3305.html",
+        "level": "Undergraduate ",
+        "name": "Kingsford Legal Centre Employment Law Clinic (Intensive)",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3305.html",
+        "uoc": "12"
+    },
+    "LAWS3314": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses including Resolving Civil Disputes (LAWS2371). ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7314",
+            "LAWS8314"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3314.html",
+        "level": "Undergraduate ",
+        "name": "Alternative Dispute Resolution in Practice",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3314.html",
+        "uoc": "6"
+    },
+    "LAWS3319": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7819"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3319.html",
+        "level": "Undergraduate ",
+        "name": "Police Powers Clinic",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3319.html",
+        "uoc": "6"
+    },
+    "LAWS3321": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Restricted to students enrolled in Legal Studies. Academic Program must be either 4055 or 3408 or 4054 or 4053 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3321.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to the Australian Legal System",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3321.html",
+        "uoc": "6"
+    },
+    "LAWS3326": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7236",
+            "JURD7336",
+            "LAWS2326"
+        ],
+        "excluded": [
+            "JURD7336"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3326.html",
+        "level": "Undergraduate ",
+        "name": "Theories of Law and Justice",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3326.html",
+        "uoc": "6"
+    },
+    "LAWS3327": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7627"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3327.html",
+        "level": "Undergraduate ",
+        "name": "Law Schools Global League Summer School",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3327.html",
+        "uoc": "12"
+    },
+    "LAWS3331": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7223",
+            "JURD7431",
+            "LAWS2320"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3331.html",
+        "level": "Undergraduate ",
+        "name": "Legal Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3331.html",
+        "uoc": "6"
+    },
+    "LAWS3332": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7222",
+            "JURD7632",
+            "LAWS2820"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3332.html",
+        "level": "Undergraduate ",
+        "name": "Law and Social Theory",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3332.html",
+        "uoc": "6"
+    },
+    "LAWS3335": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7335"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3335.html",
+        "level": "Undergraduate ",
+        "name": "Economic Analysis of Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3335.html",
+        "uoc": "6"
+    },
+    "LAWS3345": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7645"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3345.html",
+        "level": "Undergraduate ",
+        "name": "CIBEL Elective (Tsinghua)",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3345.html",
+        "uoc": "6"
+    },
+    "LAWS3348": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7648",
+            "LAWS8348"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3348.html",
+        "level": "Undergraduate ",
+        "name": "Transitional Justice (South America)",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3348.html",
+        "uoc": "6"
+    },
+    "LAWS3350": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Restricted to students enrolled in Legal Studies:Prerequisite: Academic Program must be either 4055 or 3408 or 4054. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3350.html",
+        "level": "Undergraduate ",
+        "name": "Sport, Law and Society in Australia 1",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3350.html",
+        "uoc": "6"
+    },
+    "LAWS3352": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Restricted to students enrolled in Legal Studies:Prerequisite: Academic Program must be either 4055 or 3408 or 4054. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3352.html",
+        "level": "Undergraduate ",
+        "name": "International Relations and Sport",
+        "school": null,
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3352.html",
+        "uoc": "6"
+    },
+    "LAWS3361": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7361"
+        ],
+        "excluded": [
+            "JURD7361",
+            "LAWS9801"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3361.html",
+        "level": "Undergraduate ",
+        "name": "Environmental Law",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3361.html",
+        "uoc": "6"
+    },
+    "LAWS3368": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Program must be either 6001 or 6021. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3368.html",
+        "level": "Undergraduate ",
+        "name": "The Australian Legal System in Comparative Perspective",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3368.html",
+        "uoc": "6"
+    },
+    "LAWS3381": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Students enrolled after 2013 must have also completed Law in the Global Context (LAWS2270) before enrolling in this course. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7481"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3381.html",
+        "level": "Undergraduate ",
+        "name": "Public International Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3381.html",
+        "uoc": "6"
+    },
+    "LAWS3382": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7482"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3382.html",
+        "level": "Undergraduate ",
+        "name": "Conflict of Laws",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3382.html",
+        "uoc": "6"
+    },
+    "LAWS3384": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7284",
+            "JURD7784",
+            "LAWS2384"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3384.html",
+        "level": "Undergraduate ",
+        "name": "Legal Experimentalism",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3384.html",
+        "uoc": "6"
+    },
+    "LAWS3391": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7491"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3391.html",
+        "level": "Undergraduate ",
+        "name": "Family Law",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3391.html",
+        "uoc": "6"
+    },
+    "LAWS3392": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7492"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3392.html",
+        "level": "Undergraduate ",
+        "name": "Children and the Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3392.html",
+        "uoc": "6"
+    },
+    "LAWS3396": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Family Law (LAWS3391) and completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7496"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3396.html",
+        "level": "Undergraduate ",
+        "name": "Family Law Advocacy and Practice",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3396.html",
+        "uoc": "6"
+    },
+    "LAWS3401": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7301"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3401.html",
+        "level": "Undergraduate ",
+        "name": "Health and Medical Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3401.html",
+        "uoc": "6"
+    },
+    "LAWS3412": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7412"
+        ],
+        "excluded": [
+            "JURD7412",
+            "JURD7691",
+            "JURD7792",
+            "LAWS8391",
+            "LAWS8392"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3412.html",
+        "level": "Undergraduate ",
+        "name": "Discrimination and the Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3412.html",
+        "uoc": "6"
+    },
+    "LAWS3413": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7413"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3413.html",
+        "level": "Undergraduate ",
+        "name": "Housing Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3413.html",
+        "uoc": "6"
+    },
+    "LAWS3423": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3423.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3423.html",
+        "uoc": "6"
+    },
+    "LAWS3427": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "CRIM3024",
+            "JURD7527"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3427.html",
+        "level": "Undergraduate ",
+        "name": "Drug Law and Policy",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3427.html",
+        "uoc": "6"
+    },
+    "LAWS3431": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Restricted to students enrolled in Legal Studies. Academic Program must be either 4055 or 3408 or 4054 or 4053 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3431.html",
+        "level": "Undergraduate ",
+        "name": "Law in the Digital Age",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3431.html",
+        "uoc": "6"
+    },
+    "LAWS3434": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7434",
+            "LAWS8422"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3434.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis: Extended",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3434.html",
+        "uoc": "6"
+    },
+    "LAWS3441": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7441"
+        ],
+        "excluded": [
+            "JURD7345",
+            "JURD7441",
+            "JURD7564",
+            "LAWS3064"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3441.html",
+        "level": "Undergraduate ",
+        "name": "Law Journal (Issue Editor)",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3441.html",
+        "uoc": "6"
+    },
+    "LAWS3442": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7942"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3442.html",
+        "level": "Undergraduate ",
+        "name": "The Will of the People",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3442.html",
+        "uoc": "6"
+    },
+    "LAWS3510": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7610"
+        ],
+        "excluded": [
+            "JURD7486",
+            "JURD7610",
+            "LAWS3086"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3510.html",
+        "level": "Undergraduate ",
+        "name": "International Commercial Mediation Competition",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3510.html",
+        "uoc": "6"
+    },
+    "LAWS3512": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3512.html",
+        "level": "Undergraduate ",
+        "name": "Native Title Law Policy and Practice",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3512.html",
+        "uoc": "6"
+    },
+    "LAWS3513": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7813",
+            "LAWS8123"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3513.html",
+        "level": "Undergraduate ",
+        "name": "Indigenous Children and the Law",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3513.html",
+        "uoc": "6"
+    },
+    "LAWS3532": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Restricted to students enrolled in Legal Studies. Academic Program must be either 4055 or 3408 or 4054 or 4053 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3532.html",
+        "level": "Undergraduate ",
+        "name": "Cyberspace Law 2.0",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3532.html",
+        "uoc": "6"
+    },
+    "LAWS3555": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. ",
+        "equivalent": [
+            "JURD7555"
+        ],
+        "excluded": [
+            "JURD7308",
+            "LAWS3308",
+            "LAWS8052",
+            "LAWS8173"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3555.html",
+        "level": "Undergraduate ",
+        "name": "UNSW Law Internships",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3555.html",
+        "uoc": "6"
+    },
+    "LAWS3751": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 78 UOC in LAWS courses. Exclusion: TABL2751 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7351",
+            "JURD7458",
+            "JURD7751",
+            "LAWS3058",
+            "LAWS3147"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3751.html",
+        "level": "Undergraduate ",
+        "name": "Business Taxation",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3751.html",
+        "uoc": "6"
+    },
+    "LAWS3901": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment This course is strictly for students undertaking Law (Honours) programs only. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS3901.html",
+        "level": "Undergraduate ",
+        "name": "Honours Research Thesis",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS3901.html",
+        "uoc": "6"
+    },
+    "LAWS9801": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Academic Program must be Environmental Science program (3988, 3932, 3965 or 3943) ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7361",
+            "LAWS3361"
+        ],
+        "faculty": " Faculty of Law",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/LAWS9801.html",
+        "level": "Undergraduate ",
+        "name": "Aspects of Environmental Policy and Law",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LAWS9801.html",
+        "uoc": "6"
+    }
+}

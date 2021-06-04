@@ -1,0 +1,26 @@
+[
+    {
+        "link": "http://timetable.unsw.edu.au/2021/COMPKENS.html",
+        "code": "COMP",
+        "name": "Computer Science",
+        "offerer": "School of Computer Sci & Eng"
+    },
+    {
+        "link": "http://timetable.unsw.edu.au/2021/MATHKENS.html",
+        "code": "MATH",
+        "name": "Mathematics",
+        "offerer": "Sch Mathematics & Statistics"
+    },
+    {
+        "link": "http://timetable.unsw.edu.au/2021/PHYSKENS.html",
+        "code": "PHYS",
+        "name": "Physics",
+        "offerer": "School of Physics"
+    },
+    {
+        "link": "http://timetable.unsw.edu.au/2021/SENGKENS.html",
+        "code": "SENG",
+        "name": "Software Engineering",
+        "offerer": "School of Computer Sci & Eng"
+    }
+]

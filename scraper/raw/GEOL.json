@@ -1,0 +1,30 @@
+{
+    "GEOL0005": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/GEOL0005.html",
+        "level": "Research ",
+        "name": "Thesis Research Applied Geology Full-Time",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GEOL0005.html",
+        "uoc": "12"
+    },
+    "GEOL0006": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/GEOL0006.html",
+        "level": "Research ",
+        "name": "Research Thesis Applied Geology Part-Time",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GEOL0006.html",
+        "uoc": "6"
+    }
+}

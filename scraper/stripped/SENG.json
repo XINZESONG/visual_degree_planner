@@ -1,0 +1,211 @@
+{
+    "SENG2011": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "MATH1081"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [
+            "SENG2010"
+        ],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2011.html",
+        "level": "Undergraduate",
+        "name": "Workshop on Reasoning about Programs",
+        "other": [],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            3
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2011.html",
+        "uoc": 6
+    },
+    "SENG2021": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "SENG1031",
+                "COMP1531"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [
+            "SENG2020"
+        ],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2021.html",
+        "level": "Undergraduate",
+        "name": "Requirements and Design Workshop",
+        "other": [
+            "Enrolment in a BE or BE(Hons) Software Engineering major"
+        ],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            1
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2021.html",
+        "uoc": 6
+    },
+    "SENG2991": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "COMP1511"
+            ],
+            [
+                "COMP1531"
+            ],
+            [
+                "COMP2521"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG2991.html",
+        "level": "Undergraduate",
+        "name": "Software Workplace Practice 1",
+        "other": [
+            "Currently enrolled in a Program 3707 in the SENGAH stream",
+            "In an approved workplace arrangement"
+        ],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            1
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG2991.html",
+        "uoc": 6
+    },
+    "SENG3011": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "SENG2021"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [
+            "SENG3010"
+        ],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3011.html",
+        "level": "Undergraduate",
+        "name": "Software Engineering Workshop 3",
+        "other": [],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            1
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3011.html",
+        "uoc": 6
+    },
+    "SENG3991": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "SENG2011"
+            ],
+            [
+                "SENG2021"
+            ],
+            [
+                "DESN2000"
+            ],
+            [
+                "COMP2511"
+            ],
+            [
+                "COMP2041"
+            ],
+            [
+                "SENG2991"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3991.html",
+        "level": "Undergraduate",
+        "name": "Software Workplace Practice 2",
+        "other": [
+            "Currently enrolled in Program 3707 in the SENGAH stream",
+            "In the Co-Op program",
+            "Attanded the IT Reflection Workshop (facilitated by the Co-Op program)"
+        ],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            1,
+            2
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3991.html",
+        "uoc": 12
+    },
+    "SENG3992": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "SENG3011"
+            ],
+            [
+                "SENG2991"
+            ],
+            [
+                "SENG3991"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG3992.html",
+        "level": "Undergraduate",
+        "name": "Software Workplace Practice 3",
+        "other": [
+            "Currently enrolled in Program 3707 in the SENGAH stream",
+            "In the Co-Op program"
+        ],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            2,
+            3
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG3992.html",
+        "uoc": 12
+    },
+    "SENG4920": {
+        "campus": "Sydney",
+        "conditions": [
+            [
+                "SENG3011"
+            ]
+        ],
+        "corequisite": [],
+        "equivalent": [],
+        "excluded": [
+            "COMP4920",
+            "SENG4921",
+            "COMP2920",
+            "BINF4920"
+        ],
+        "faculty": "Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/SENG4920.html",
+        "level": "Undergraduate",
+        "name": "Ethics and Management",
+        "other": [
+            "Completion of 144 UOC of SENGAH"
+        ],
+        "school": "School of Computer Science and Engineering",
+        "terms": [
+            3
+        ],
+        "timetable": "http://timetable.unsw.edu.au/2021/SENG4920.html",
+        "uoc": 6
+    }
+}

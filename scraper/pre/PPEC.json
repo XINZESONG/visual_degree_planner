@@ -1,0 +1,30 @@
+{
+    "PPEC1001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a Politics, Philosophy and Economics program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PPEC1001.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Politics, Philosophy and Economics",
+        "school": null,
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PPEC1001.html",
+        "uoc": "6"
+    },
+    "PPEC2001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 24 units of credit overall, including PPEC1001, and enrolment in a Politics, Philosophy and Economics program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PPEC2001.html",
+        "level": "Undergraduate ",
+        "name": "Politics and the Market",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PPEC2001.html",
+        "uoc": "6"
+    }
+}

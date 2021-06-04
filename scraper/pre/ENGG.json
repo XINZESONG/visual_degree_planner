@@ -1,0 +1,308 @@
+{
+    "ENGG0360": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG0360.html",
+        "level": "Undergraduate ",
+        "name": "Communicating in Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG0360.html",
+        "uoc": "6"
+    },
+    "ENGG1000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPST1071"
+        ],
+        "excluded": [
+            "DPST1071"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1000.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Engineering Design and Innovation",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1000.html",
+        "uoc": "6"
+    },
+    "ENGG1100": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1100.html",
+        "level": "Undergraduate ",
+        "name": "Grand Challenges for Engineering",
+        "school": null,
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1100.html",
+        "uoc": "6"
+    },
+    "ENGG1200": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1200.html",
+        "level": "Undergraduate ",
+        "name": "Undergraduate Special Projects",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1200.html",
+        "uoc": "6"
+    },
+    "ENGG1300": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (MATH1131 OR DPST1013 OR MATH1141) AND (PHYS1121 OR PHYS1131 OR PHYS1141 OR DPST1023) ",
+        "equivalent": [
+            "CVEN1300",
+            "DPST1072",
+            "MECH0330",
+            "MECH1300",
+            "MINE1300",
+            "MMAN1300"
+        ],
+        "excluded": [
+            "DPST1072"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1300.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Mechanics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1300.html",
+        "uoc": "6"
+    },
+    "ENGG1400": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1400.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Infrastructure Systems",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1400.html",
+        "uoc": "6"
+    },
+    "ENGG1811": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a non-CSE major (no BINF, COMP, or SENG) ",
+        "equivalent": [],
+        "excluded": [
+            "COMP1010"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG1811.html",
+        "level": "Undergraduate ",
+        "name": "Computing for Engineers",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG1811.html",
+        "uoc": "6"
+    },
+    "ENGG2400": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ENGG1300 OR DPST1072 OR CVEN1300 OR MMAN1300 ",
+        "equivalent": [
+            "CVEN2301",
+            "MMAN2400"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2400.html",
+        "level": "Undergraduate ",
+        "name": "Mechanics of Solids 1",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG2400.html",
+        "uoc": "6"
+    },
+    "ENGG2500": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (MATH1131 OR DPST1013 OR MATH1141) AND (PHYS1121 OR PHYS1131 OR PHYS1141 OR DPST1023) ",
+        "equivalent": [
+            "CVEN2501",
+            "MECH2612",
+            "MMAN2600"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2500.html",
+        "level": "Undergraduate ",
+        "name": "Fluid Mechanics for Engineers",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG2500.html",
+        "uoc": "6"
+    },
+    "ENGG2600": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Please refer to the course overview section for information on prerequisite requirements. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2600.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Vertically Integrated Project",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG2600.html",
+        "uoc": "2"
+    },
+    "ENGG2997": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Successful completion of 72 UOC and enrolled in program 3778 or 3061 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG2997.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Work Integrated Learning",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG2997.html",
+        "uoc": "6"
+    },
+    "ENGG3001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 96UOC ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG3001.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Humanitarian Engineering",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG3001.html",
+        "uoc": "6"
+    },
+    "ENGG3060": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: Completion of 66 UOC from an engineering degree ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG3060.html",
+        "level": "Undergraduate ",
+        "name": "Maker Games",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG3060.html",
+        "uoc": "3"
+    },
+    "ENGG3600": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Please refer to the course overview section for information on prerequisite requirements. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG3600.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Vertically Integrated Project",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG3600.html",
+        "uoc": "2"
+    },
+    "ENGG4060": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite 96 UOC ",
+        "equivalent": [],
+        "excluded": [
+            "ENGG4102"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4060.html",
+        "level": "Undergraduate ",
+        "name": "Student Initiated Project",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4060.html",
+        "uoc": "6"
+    },
+    "ENGG4102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ENGG3001 ",
+        "equivalent": [],
+        "excluded": [
+            "ENGG4060"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4102.html",
+        "level": "Undergraduate ",
+        "name": "Humanitarian Engineering Project",
+        "school": " School of Civil and Environmental Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4102.html",
+        "uoc": "6"
+    },
+    "ENGG4600": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Please refer to the course overview section for information on prerequisite requirements. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4600.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Vertically Integrated Project",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4600.html",
+        "uoc": "2"
+    },
+    "ENGG4908": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4908.html",
+        "level": "Undergraduate ",
+        "name": "Co-op Internship",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4908.html",
+        "uoc": "6"
+    },
+    "ENGG4909": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4909.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Co-op IT 1",
+        "school": null,
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4909.html",
+        "uoc": "12"
+    },
+    "ENGG4999": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ENGG4999.html",
+        "level": "Undergraduate ",
+        "name": "Industrial Training",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ENGG4999.html",
+        "uoc": "0"
+    }
+}

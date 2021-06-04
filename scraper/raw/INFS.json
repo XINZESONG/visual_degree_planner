@@ -1,0 +1,859 @@
+{
+    "INFS1602": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPBS1602",
+            "INFS2602"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS1602.html",
+        "level": "Undergraduate ",
+        "name": "Digital Transformation in Business",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS1602.html",
+        "uoc": "6"
+    },
+    "INFS1603": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPBS1603"
+        ],
+        "excluded": [
+            "COMM1822"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS1603.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Business Databases",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS1603.html",
+        "uoc": "6"
+    },
+    "INFS1609": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Students completing Computer Science degrees or majors (including BINF, COMP, or SENG) are excluded from this course. ",
+        "equivalent": [
+            "DPBS1609"
+        ],
+        "excluded": [
+            "COMP1400",
+            "INFS2609"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS1609.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Business Programming",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS1609.html",
+        "uoc": "6"
+    },
+    "INFS2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in plan (INFSCH3964 OR INFSCH3971) AND (INFS1609 OR INFS2609) AND INFS 2603; OR Enrolled in plan (INFSB13554) AND INFS2603 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2101.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 1",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2101.html",
+        "uoc": "12"
+    },
+    "INFS2602": null,
+    "INFS2603": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (INFS1602 or INFS2602) AND INFS1603 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2603.html",
+        "level": "Undergraduate ",
+        "name": "Business Analysis",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2603.html",
+        "uoc": "6"
+    },
+    "INFS2605": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS1603 AND (INFS2609 or INFS1609).Students completing Computer Science degrees or majors (including BINF, COMP, or SENG) are excluded from this course. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2605.html",
+        "level": "Undergraduate ",
+        "name": "Intermediate Business Programming",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2605.html",
+        "uoc": "6"
+    },
+    "INFS2608": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS1603 ",
+        "equivalent": [],
+        "excluded": [
+            "INFS3608",
+            "INFS5926"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2608.html",
+        "level": "Undergraduate ",
+        "name": "Database Management and Big Data Infrastructures",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2608.html",
+        "uoc": "6"
+    },
+    "INFS2621": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (INFS1602 OR INFS2602) AND (INFS1603 OR COMM1822) ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5621"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2621.html",
+        "level": "Undergraduate ",
+        "name": "Enterprise Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2621.html",
+        "uoc": "6"
+    },
+    "INFS2631": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prer-equisite: INFS1602 OR INFS2602 ",
+        "equivalent": [],
+        "excluded": [
+            "INFS3631"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2631.html",
+        "level": "Undergraduate ",
+        "name": "Innovation and Technology Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2631.html",
+        "uoc": "6"
+    },
+    "INFS2822": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS1603 OR COMM1822 OR INFS1609 OR INFS2609 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2822.html",
+        "level": "Undergraduate ",
+        "name": "Programming for Data Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2822.html",
+        "uoc": "6"
+    },
+    "INFS2848": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS1602 ",
+        "equivalent": [
+            "COMP3711",
+            "INFS5848"
+        ],
+        "excluded": [
+            "INFS4858",
+            "INFS5848"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS2848.html",
+        "level": "Undergraduate ",
+        "name": "Information Systems Project Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS2848.html",
+        "uoc": "6"
+    },
+    "INFS3202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS2101 AND in Plan (INFSB13554 OR INFSCH3971 OR INFSCH3964) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3202.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 2",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3202.html",
+        "uoc": "6"
+    },
+    "INFS3303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS3202 and in (Plan INFSB13554 or INFSCH3964 or INFSCH3971) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3303.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 3",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3303.html",
+        "uoc": "6"
+    },
+    "INFS3603": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS1602 OR INFS2602 OR ((in program 3959 or completing Business Analytics major (COMMJ1)) AND completed 48 UOC) ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5700",
+            "INFS5991"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3603.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Business Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3603.html",
+        "uoc": "6"
+    },
+    "INFS3604": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS2603 ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5604"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3604.html",
+        "level": "Undergraduate ",
+        "name": "Business Process Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3604.html",
+        "uoc": "6"
+    },
+    "INFS3605": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS3634 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3605.html",
+        "level": "Undergraduate ",
+        "name": "Information Systems Innovation and Transformation",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3605.html",
+        "uoc": "6"
+    },
+    "INFS3617": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prer-equisite: INFS1602 OR INFS2602 ",
+        "equivalent": [],
+        "excluded": [
+            "INFS2607"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3617.html",
+        "level": "Undergraduate ",
+        "name": "Networking & Cyber Security",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3617.html",
+        "uoc": "6"
+    },
+    "INFS3632": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prer-equisite: INFS1602 OR INFS2602 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3632.html",
+        "level": "Undergraduate ",
+        "name": "Service and Quality Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3632.html",
+        "uoc": "6"
+    },
+    "INFS3634": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS2605 and INFS2608. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3634.html",
+        "level": "Undergraduate ",
+        "name": "Mobile Applications Development",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3634.html",
+        "uoc": "6"
+    },
+    "INFS3830": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS3603 or (COMM2501 and in Business Analytics major (COMMJ)).Note: Students wishing to meet SAS certification must complete INFS3603. Completion of COMM2501 in lieu of INFS3603 will not be considered equivalent for the certificate. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS4830",
+            "INFS5930"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3830.html",
+        "level": "Undergraduate ",
+        "name": "Social Media and Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3830.html",
+        "uoc": "6"
+    },
+    "INFS3873": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS3603 or (COMM2501 and in Business Analytics major (COMMJ)).Note: Students wishing to meet SAS certification must complete INFS3603. Completion of COMM2501 in lieu of INFS3603 will not be considered equivalent for the certificate. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5720",
+            "INFS5873"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS3873.html",
+        "level": "Undergraduate ",
+        "name": "Business Analytics Methods",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS3873.html",
+        "uoc": "6"
+    },
+    "INFS4800": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4800.html",
+        "level": "Undergraduate ",
+        "name": "Thesis A",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4800.html",
+        "uoc": "6"
+    },
+    "INFS4801": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4801.html",
+        "level": "Undergraduate ",
+        "name": "Thesis B",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4801.html",
+        "uoc": "6"
+    },
+    "INFS4802": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4802.html",
+        "level": "Undergraduate ",
+        "name": "Thesis C",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4802.html",
+        "uoc": "12"
+    },
+    "INFS4831": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Honours majoring in Information Systems. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5831"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4831.html",
+        "level": "Undergraduate ",
+        "name": "Information Systems Consulting",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4831.html",
+        "uoc": "6"
+    },
+    "INFS4854": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Honours majoring in Information Systems. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS4853"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4854.html",
+        "level": "Undergraduate ",
+        "name": "Information Systems Strategy and Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4854.html",
+        "uoc": "6"
+    },
+    "INFS4858": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolment in Streams: Enrolled in an Honours Program majoring in Information Systems (INFSAH OR INFSBH OR INFSCH) ",
+        "equivalent": [],
+        "excluded": [
+            "INFS2848",
+            "INFS5848"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4858.html",
+        "level": "Undergraduate ",
+        "name": "Managing Complex Projects",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4858.html",
+        "uoc": "6"
+    },
+    "INFS4886": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Honours majoring in Information Systems. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4886.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Research Design",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4886.html",
+        "uoc": "6"
+    },
+    "INFS4887": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS4886 AND enrolled in Honours majoring in Information Systems. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4887.html",
+        "level": "Undergraduate ",
+        "name": "Business Research Methods",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4887.html",
+        "uoc": "6"
+    },
+    "INFS4907": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolment in Streams: Enrolled in an Honours Program majoring in Information Systems (INFSAH OR INFSBH OR INFSCH) ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5907"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INFS4907.html",
+        "level": "Undergraduate ",
+        "name": "Managing Security and Ethics in Cyberspace",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS4907.html",
+        "uoc": "6"
+    },
+    "INFS5000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/INFS5000.html",
+        "level": "Research ",
+        "name": "Full-Time Research Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5000.html",
+        "uoc": "12"
+    },
+    "INFS5001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/INFS5001.html",
+        "level": "Research ",
+        "name": "Part-Time Research Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5001.html",
+        "uoc": "6"
+    },
+    "INFS5604": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS5885 or INFS5978 OR in program 8425, 8425, 8446 or 8435 OR in stream RISKMS8404, RISKMS8417, INFSIS8404 or INFSIS8417. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS3604"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5604.html",
+        "level": "Postgraduate ",
+        "name": "Business Process Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5604.html",
+        "uoc": "6"
+    },
+    "INFS5621": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (INFS5885 or INFS5978) OR in Program (8425 or 8426 or 8435 or 8446). ",
+        "equivalent": [],
+        "excluded": [
+            "INFS2621"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5621.html",
+        "level": "Postgraduate ",
+        "name": "Enterprise Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5621.html",
+        "uoc": "6"
+    },
+    "INFS5700": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM5011 OR COMM5005 OR ECON5248 OR enrolment in Programs (8411 OR 8416 OR 8425 OR 8426 OR 8435 OR 8446) OR enrolment in Specialisation INFSKS. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS3603",
+            "INFS5991"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5700.html",
+        "level": "Postgraduate ",
+        "name": "Introduction to Business Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5700.html",
+        "uoc": "6"
+    },
+    "INFS5710": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM5011 OR COMM5005 OR ECON5248 OR enrolment in Programs (8411 OR 8416 OR 8425 OR 8426 OR 8435 OR 8446) OR enrolment in Specialisation INFSKS. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5710.html",
+        "level": "Postgraduate ",
+        "name": "Information Technology Infrastructure for Business Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5710.html",
+        "uoc": "6"
+    },
+    "INFS5715": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment INFS5710 - Information Technology Infrastructure for Business Analytics (PG) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5715.html",
+        "level": "Postgraduate ",
+        "name": "Programming for Data Analytics",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5715.html",
+        "uoc": "6"
+    },
+    "INFS5720": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM5011 OR COMM5005 OR ECON5248 OR enrolment in Programs (8411 OR 8416 OR 8425 OR 8426 OR 8435 OR 8446) OR enrolment in Specialisation INFSKS. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS3873",
+            "INFS5873"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5720.html",
+        "level": "Postgraduate ",
+        "name": "Business Analytics Methods",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5720.html",
+        "uoc": "6"
+    },
+    "INFS5730": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: COMM5011 OR COMM5005 OR ECON5248 OR enrolment in Programs (8411 OR 8416 OR 8425 OR 8426 OR 8435 OR 8446) OR enrolment in Specialisation INFSKS. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5730.html",
+        "level": "Postgraduate ",
+        "name": "Social Media and Enterprise 2.0",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5730.html",
+        "uoc": "6"
+    },
+    "INFS5731": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment (In program 8407 or 8435 or 8425 or 8426 or 8446) OR (in the Enterprise Systems and Business Design Specialisation (INFSMS) and completion of 36 UOC) ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5953"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5731.html",
+        "level": "Postgraduate ",
+        "name": "Information Systems Strategy and Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5731.html",
+        "uoc": "6"
+    },
+    "INFS5740": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment (In program 8425 OR 8435 OR 8426 OR 8446 OR Head of School approval) AND completion of 48 UOC within program. ",
+        "equivalent": [],
+        "excluded": [
+            "INFS5993"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5740.html",
+        "level": "Postgraduate ",
+        "name": "Business Systems Project",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5740.html",
+        "uoc": "6"
+    },
+    "INFS5831": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (INFS5885 or INFS5978) OR in Program (8425 or 8426 or 8435 or 8446). ",
+        "equivalent": [],
+        "excluded": [
+            "INFS4831"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5831.html",
+        "level": "Postgraduate ",
+        "name": "Information Systems Consulting",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5831.html",
+        "uoc": "6"
+    },
+    "INFS5848": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "COMP3711",
+            "INFS2848"
+        ],
+        "excluded": [
+            "INFS2848",
+            "INFS4858"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5848.html",
+        "level": "Postgraduate ",
+        "name": "Managing Complex Projects",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5848.html",
+        "uoc": "6"
+    },
+    "INFS5870": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "OPMG5820"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5870.html",
+        "level": "Postgraduate ",
+        "name": "Operations Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5870.html",
+        "uoc": "6"
+    },
+    "INFS5871": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "OPMG5810"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5871.html",
+        "level": "Postgraduate ",
+        "name": "Supply Chains and Logistics Design",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5871.html",
+        "uoc": "6"
+    },
+    "INFS5872": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5872.html",
+        "level": "Postgraduate ",
+        "name": "Service and Quality Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5872.html",
+        "uoc": "6"
+    },
+    "INFS5885": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "COMM0033",
+            "INFS4885"
+        ],
+        "excluded": [
+            "INFS5985"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5885.html",
+        "level": "Postgraduate ",
+        "name": "e-Business",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5885.html",
+        "uoc": "6"
+    },
+    "INFS5907": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: INFS5885 or INFS5978 or enrolment in Program 8425 or 8435 or 8426 or 8446 ",
+        "equivalent": [],
+        "excluded": [
+            "INFS4907"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5907.html",
+        "level": "Postgraduate ",
+        "name": "Managing Security and Ethics in Cyberspace",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5907.html",
+        "uoc": "6"
+    },
+    "INFS5929": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INFS5885 OR INFS5978 OR enrolment in Program (8425 OR 8426 OR 8435 OR 8446) OR enrolment in Stream (RISKMS8404 and RISKMS8417) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5929.html",
+        "level": "Postgraduate ",
+        "name": "Managing Information Systems / Information Technology Risk",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5929.html",
+        "uoc": "6"
+    },
+    "INFS5978": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or Corequisite: ACCT5930 ",
+        "equivalent": [],
+        "excluded": [
+            "COMM0024"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5978.html",
+        "level": "Postgraduate ",
+        "name": "Accounting Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5978.html",
+        "uoc": "6"
+    },
+    "INFS5987": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled into one of the following Research Programs: 1521, 1545, 1561, 1535, 2585, 1540, 1525, 1550, 1605, 1532 or 1745 or 8409 or 8415 or stream ACCTYS8404 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5987.html",
+        "level": "Postgraduate ",
+        "name": "Theoretical Foundations of Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5987.html",
+        "uoc": "6"
+    },
+    "INFS5993": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "INFS4893"
+        ],
+        "excluded": [
+            "INFS5740"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5993.html",
+        "level": "Postgraduate ",
+        "name": "Special Topic in Information Systems and Technology Management",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5993.html",
+        "uoc": "6"
+    },
+    "INFS5994": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/INFS5994.html",
+        "level": "Research ",
+        "name": "F/T Masters Research Thesis Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5994.html",
+        "uoc": "12"
+    },
+    "INFS5997": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: enrolment in final semester of programs 8404, 8417 and WAM equal to or greater than 75 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/INFS5997.html",
+        "level": "Postgraduate ",
+        "name": "Enterprise Systems and Business Design Practicum",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS5997.html",
+        "uoc": "6"
+    },
+    "INFS6001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/INFS6001.html",
+        "level": "Research ",
+        "name": "Part-Time Masters Research Thesis Information Systems",
+        "school": " School of Information Systems and Technology Management",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INFS6001.html",
+        "uoc": "6"
+    }
+}

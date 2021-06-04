@@ -1,0 +1,55 @@
+{
+    "GENY0001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "GENY0003",
+            "HUMS0001",
+            "REGZ0001"
+        ],
+        "excluded": [],
+        "faculty": " DVC (Academic) Board of Studies ",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENY0001.html",
+        "level": "Undergraduate ",
+        "name": "Academic Skills Plus",
+        "school": " Student Academic and Career Success",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENY0001.html",
+        "uoc": "6"
+    },
+    "GENY0002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "HUMS0002",
+            "REGZ0002"
+        ],
+        "excluded": [],
+        "faculty": " DVC (Academic) Board of Studies ",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENY0002.html",
+        "level": "Undergraduate ",
+        "name": "Academic Skills Plus",
+        "school": " Student Academic and Career Success",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENY0002.html",
+        "uoc": "6"
+    },
+    "GENY0003": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "GENY0001",
+            "HUMS0001",
+            "REGZ0001"
+        ],
+        "excluded": [],
+        "faculty": " DVC (Academic) Board of Studies ",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENY0003.html",
+        "level": "Undergraduate ",
+        "name": "Academic Skills Plus",
+        "school": " Student Academic and Career Success",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENY0003.html",
+        "uoc": "6"
+    }
+}

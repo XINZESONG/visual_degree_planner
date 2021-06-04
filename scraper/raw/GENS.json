@@ -1,0 +1,109 @@
+{
+    "GENS0401": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: All SCI Undergraduate Programs ",
+        "equivalent": [
+            "CLIM1001"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS0401.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Climate Change",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS0401.html",
+        "uoc": "6"
+    },
+    "GENS1111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: All SCI Undergraduate Programs ",
+        "equivalent": [],
+        "excluded": [
+            "BABS1111",
+            "BABS1201",
+            "DPST1051"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS1111.html",
+        "level": "Undergraduate ",
+        "name": "Big Fat Myths",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS1111.html",
+        "uoc": "6"
+    },
+    "GENS1112": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS1112.html",
+        "level": "Undergraduate ",
+        "name": "Genetics and Society",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS1112.html",
+        "uoc": "6"
+    },
+    "GENS2025": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS2025.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Airborne Drone Management",
+        "school": " School of Aviation",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS2025.html",
+        "uoc": "6"
+    },
+    "GENS4008": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: All SCI Undergraduate Programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS4008.html",
+        "level": "Undergraduate ",
+        "name": "Nuclear Arms, Peace and Global Governance",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS4008.html",
+        "uoc": "6"
+    },
+    "GENS4015": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: All SCI Undergraduate Programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS4015.html",
+        "level": "Undergraduate ",
+        "name": "Brave New World: Science Fiction, Science Fact and the Future",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS4015.html",
+        "uoc": "6"
+    },
+    "GENS5013": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: All SCI Undergraduate Programs ",
+        "equivalent": [],
+        "excluded": [
+            "GENS8003",
+            "GENS8005"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENS5013.html",
+        "level": "Undergraduate ",
+        "name": "Workplace Safety",
+        "school": " School of Aviation",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENS5013.html",
+        "uoc": "6"
+    }
+}

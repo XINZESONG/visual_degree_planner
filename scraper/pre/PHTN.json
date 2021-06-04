@@ -1,0 +1,30 @@
+{
+    "PHTN4661": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3115 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHTN4661.html",
+        "level": "Undergraduate ",
+        "name": "Optical Circuits and Fibres",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHTN4661.html",
+        "uoc": "6"
+    },
+    "PHTN4662": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: TELE3113 or ELEC3115 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHTN4662.html",
+        "level": "Undergraduate ",
+        "name": "Photonic Networks",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHTN4662.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "MSCI0501": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: GENS4625, MSCI2001,GENB5001Not available to students in Science Programs ",
+        "equivalent": [
+            "GENS0501"
+        ],
+        "excluded": [
+            "GENS0501",
+            "MSCI1001"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MSCI0501.html",
+        "level": "Undergraduate ",
+        "name": "The Marine Environment",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI0501.html",
+        "uoc": "6"
+    },
+    "MSCI1001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "GENS0501",
+            "MSCI0501"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MSCI1001.html",
+        "level": "Undergraduate ",
+        "name": "Introductory Marine Science",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI1001.html",
+        "uoc": "6"
+    },
+    "MSCI2060": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MSCI2060.html",
+        "level": "Undergraduate ",
+        "name": "Coral Reefs in a Changing Climate",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI2060.html",
+        "uoc": "6"
+    },
+    "MSCI3001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MSCI5004"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MSCI3001.html",
+        "level": "Undergraduate ",
+        "name": "Physical Oceanography",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI3001.html",
+        "uoc": "6"
+    },
+    "MSCI5004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MSCI3001"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MSCI5004.html",
+        "level": "Postgraduate ",
+        "name": "Oceanographic Processes",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI5004.html",
+        "uoc": "6"
+    },
+    "MSCI5005": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MSCI5005.html",
+        "level": "Postgraduate ",
+        "name": "Topics in Marine Biology and Ecology",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI5005.html",
+        "uoc": "6"
+    },
+    "MSCI6681": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MSCI6681.html",
+        "level": "Undergraduate ",
+        "name": "Topics in Australian Marine Science",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI6681.html",
+        "uoc": "6"
+    },
+    "MSCI9001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "BIOS2091"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MSCI9001.html",
+        "level": "Postgraduate ",
+        "name": "Conservation in Aquatic Ecosystems",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MSCI9001.html",
+        "uoc": "6"
+    }
+}

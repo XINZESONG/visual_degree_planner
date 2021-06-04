@@ -1,0 +1,30 @@
+{
+    "CDEV1112": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " DVC (Academic) Board of Studies ",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CDEV1112.html",
+        "level": "Undergraduate ",
+        "name": "Creating Your Career: Employability for the Future",
+        "school": null,
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CDEV1112.html",
+        "uoc": "6"
+    },
+    "CDEV3000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " DVC (Academic) Board of Studies ",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CDEV3000.html",
+        "level": "Undergraduate ",
+        "name": "Practice of Work",
+        "school": null,
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CDEV3000.html",
+        "uoc": "6"
+    }
+}

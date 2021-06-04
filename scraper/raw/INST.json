@@ -1,0 +1,58 @@
+{
+    "INST1005": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in an International Studies single or double degree ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INST1005.html",
+        "level": "Undergraduate ",
+        "name": "Key Debates in International Studies",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INST1005.html",
+        "uoc": "6"
+    },
+    "INST1006": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: INST1005 and enrolment in an International Studies  single or double degree(2017 onwards) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INST1006.html",
+        "level": "Undergraduate ",
+        "name": "The World in Transition",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INST1006.html",
+        "uoc": "6"
+    },
+    "INST2003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in an International Studies program (pre 2017). Or INST1005 and INST1006 and enrolment in an International Studies program (2017+). Or ARTS1250 and enrolment in a Geographical Studies major or minor ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INST2003.html",
+        "level": "Undergraduate ",
+        "name": "Research Methods in International Studies",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INST2003.html",
+        "uoc": "6"
+    },
+    "INST3900": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 units of credit and enrolment in an International Studies single or double degree program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/INST3900.html",
+        "level": "Undergraduate ",
+        "name": "International Studies Advanced Seminar",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/INST3900.html",
+        "uoc": "6"
+    }
+}

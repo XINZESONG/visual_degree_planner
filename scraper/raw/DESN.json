@@ -1,0 +1,21 @@
+{
+    "DESN2000": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Please refer to the course overview section for information on prerequisite requirements. ",
+        "equivalent": [
+            "CVEN3031",
+            "ELEC2142",
+            "MMAN2100",
+            "SOLA2052"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DESN2000.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Design and Professional Practice",
+        "school": null,
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DESN2000.html",
+        "uoc": "6"
+    }
+}

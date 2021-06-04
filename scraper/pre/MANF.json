@@ -1,0 +1,82 @@
+{
+    "MANF3510": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MMAN1130 or MMAN2130 ",
+        "equivalent": [],
+        "excluded": [
+            "MANF4500"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MANF3510.html",
+        "level": "Undergraduate ",
+        "name": "Process Technology and Automation",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MANF3510.html",
+        "uoc": "6"
+    },
+    "MANF4100": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ENGG1000 OR DPST1071) AND (MMAN1130 OR MMAN2130) ",
+        "equivalent": [
+            "MANF4300"
+        ],
+        "excluded": [
+            "MANF4300"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MANF4100.html",
+        "level": "Undergraduate ",
+        "name": "Design and Analysis of Product-Process Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MANF4100.html",
+        "uoc": "6"
+    },
+    "MANF4150": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MANF3510 and MANF4100 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MANF4150.html",
+        "level": "Undergraduate ",
+        "name": "Design of Intelligent Manufacturing Systems",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MANF4150.html",
+        "uoc": "6"
+    },
+    "MANF4430": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment pre-requisite MATH2089 ",
+        "equivalent": [
+            "GSOE9840"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MANF4430.html",
+        "level": "Undergraduate ",
+        "name": "Reliability and Maintenance Engineering",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MANF4430.html",
+        "uoc": "6"
+    },
+    "MANF4611": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2089 ",
+        "equivalent": [],
+        "excluded": [
+            "MANF3610"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MANF4611.html",
+        "level": "Undergraduate ",
+        "name": "Process Modelling and Simulation",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MANF4611.html",
+        "uoc": "6"
+    }
+}

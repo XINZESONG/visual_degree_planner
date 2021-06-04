@@ -1,0 +1,212 @@
+{
+    "MMAN1130": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "MANF1130",
+            "MMAN2130"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN1130.html",
+        "level": "Undergraduate ",
+        "name": "Design and Manufacturing",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN1130.html",
+        "uoc": "6"
+    },
+    "MMAN2300": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (CVEN1300 or MINE1300 or MMAN1300 or ENGG1300 or DPST1072) AND MATH2019 or MATH2018 or MATH2111 and MATH2221 or MATH2011 and MATH2121 or MATH2069 and MATH2121; Exclusion: MECH2300, MECH3300 ",
+        "equivalent": [],
+        "excluded": [
+            "MMAN3300"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN2300.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Mechanics 2",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN2300.html",
+        "uoc": "6"
+    },
+    "MMAN2700": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH1131 or DPST1013 or MATH1141) and (PHYS1121 or PHYS1131 or DPST1023 or PHYS1141) ",
+        "equivalent": [
+            "MECH2712"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN2700.html",
+        "level": "Undergraduate ",
+        "name": "Thermodynamics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN2700.html",
+        "uoc": "6"
+    },
+    "MMAN3000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MMAN4000"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN3000.html",
+        "level": "Undergraduate ",
+        "name": "Professional Engineering and Communication",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN3000.html",
+        "uoc": "6"
+    },
+    "MMAN3200": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH2019 or MATH2018 AND (MMAN1300 or CVEN1300 or ENGG1300 or DPST1072)  Exclusion: MECH3211, MTRN3212 ",
+        "equivalent": [
+            "ELEC3014",
+            "ELEC3114"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN3200.html",
+        "level": "Undergraduate ",
+        "name": "Linear Systems and Control",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN3200.html",
+        "uoc": "6"
+    },
+    "MMAN3400": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH2019 OR MATH2018) AND (ENGG2400 OR MMAN2400) ",
+        "equivalent": [
+            "MECH3400"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN3400.html",
+        "level": "Undergraduate ",
+        "name": "Mechanics of Solids 2",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN3400.html",
+        "uoc": "6"
+    },
+    "MMAN4010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 132 Units of Credits ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4010.html",
+        "level": "Undergraduate ",
+        "name": "Thesis A",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4010.html",
+        "uoc": "6"
+    },
+    "MMAN4020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MMAN4010 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4020.html",
+        "level": "Undergraduate ",
+        "name": "Thesis B",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4020.html",
+        "uoc": "6"
+    },
+    "MMAN4200": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4200.html",
+        "level": "Undergraduate ",
+        "name": "Additive Manufacturing",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4200.html",
+        "uoc": "6"
+    },
+    "MMAN4400": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4400.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Management",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4400.html",
+        "uoc": "6"
+    },
+    "MMAN4410": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment pre-requisite MMAN2400 or ENGG2400 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4410.html",
+        "level": "Undergraduate ",
+        "name": "Finite Element Methods",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4410.html",
+        "uoc": "6"
+    },
+    "MMAN4951": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 126 UOC and completion of 3rd year core ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4951.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis A",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4951.html",
+        "uoc": "4"
+    },
+    "MMAN4952": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis A (4951) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4952.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis B",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4952.html",
+        "uoc": "4"
+    },
+    "MMAN4953": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis B (4952) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MMAN4953.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis C",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MMAN4953.html",
+        "uoc": "4"
+    }
+}

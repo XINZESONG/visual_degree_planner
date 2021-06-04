@@ -1,0 +1,205 @@
+{
+    "BENV0021": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV0021.html",
+        "level": "Undergraduate ",
+        "name": "3D spatial information for Sustainable Urbanism",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV0021.html",
+        "uoc": "6"
+    },
+    "BENV1010": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ARCH1142",
+            "IDES1261",
+            "INTA1001",
+            "LAND1141",
+            "PLAN1005"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV1010.html",
+        "level": "Undergraduate ",
+        "name": "Communication in the Built Environment",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV1010.html",
+        "uoc": "6"
+    },
+    "BENV1012": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "CODE1150"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV1012.html",
+        "level": "Undergraduate ",
+        "name": "Parametric Design and Digital Fabrication",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV1012.html",
+        "uoc": "6"
+    },
+    "BENV1015": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ARCH1121",
+            "IDES1122",
+            "INTA3001"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV1015.html",
+        "level": "Undergraduate ",
+        "name": "History of Design Thinking",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV1015.html",
+        "uoc": "6"
+    },
+    "BENV1043": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "BENV7141"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV1043.html",
+        "level": "Undergraduate ",
+        "name": "Multimedia in Design Presentation",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV1043.html",
+        "uoc": "6"
+    },
+    "BENV2001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2001.html",
+        "level": "Undergraduate ",
+        "name": "Emerging Digital Technologies",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2001.html",
+        "uoc": "6"
+    },
+    "BENV2112": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "BENV1221"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2112.html",
+        "level": "Undergraduate ",
+        "name": "Landscape Design for Well Being",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2112.html",
+        "uoc": "6"
+    },
+    "BENV2708": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2708.html",
+        "level": "Undergraduate ",
+        "name": "Interior Detailing",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2708.html",
+        "uoc": "6"
+    },
+    "BENV2930": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2930.html",
+        "level": "Undergraduate ",
+        "name": "Living Architecture: Green Roofs and Green Walls",
+        "school": " School of Built Environment",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2930.html",
+        "uoc": "6"
+    },
+    "BENV2938": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2938.html",
+        "level": "Undergraduate ",
+        "name": "Transport Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2938.html",
+        "uoc": "6"
+    },
+    "BENV2942": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV2942.html",
+        "level": "Undergraduate ",
+        "name": "Rural Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV2942.html",
+        "uoc": "6"
+    },
+    "BENV4000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ARCH1482",
+            "BLDG4501",
+            "LAND1421",
+            "PLAN1006"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV4000.html",
+        "level": "Undergraduate ",
+        "name": "Research Methods in the Built Environment",
+        "school": null,
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV4000.html",
+        "uoc": "6"
+    },
+    "BENV6800": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BENV6800.html",
+        "level": "Undergraduate ",
+        "name": "Professional Placement",
+        "school": " School of Built Environment",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BENV6800.html",
+        "uoc": "6"
+    }
+}

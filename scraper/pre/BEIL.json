@@ -1,0 +1,266 @@
+{
+    "BEIL0001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0001.html",
+        "level": "Undergraduate ",
+        "name": "Graphic Design for the Built Environment",
+        "school": " School of Built Environment",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0001.html",
+        "uoc": "6"
+    },
+    "BEIL0005": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV1221"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0005.html",
+        "level": "Undergraduate ",
+        "name": "People, Place and Design",
+        "school": " School of Built Environment",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0005.html",
+        "uoc": "6"
+    },
+    "BEIL0007": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0007.html",
+        "level": "Undergraduate ",
+        "name": "Sustainable Design Thinking",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0007.html",
+        "uoc": "6"
+    },
+    "BEIL0008": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 units of credit completed in Built Environment ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0008.html",
+        "level": "Undergraduate ",
+        "name": "Design Project Management - Vision to Reality",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0008.html",
+        "uoc": "6"
+    },
+    "BEIL0009": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "IDES4321"
+        ],
+        "excluded": [
+            "IDES4321"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0009.html",
+        "level": "Undergraduate ",
+        "name": "Exhibition Design: Transforming Temporary Space",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0009.html",
+        "uoc": "6"
+    },
+    "BEIL0010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0010.html",
+        "level": "Undergraduate ",
+        "name": "Creating Value for Built Environment Clients",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0010.html",
+        "uoc": "6"
+    },
+    "BEIL0011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV2949"
+        ],
+        "excluded": [
+            "BENV2949"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0011.html",
+        "level": "Undergraduate ",
+        "name": "Healthy Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0011.html",
+        "uoc": "6"
+    },
+    "BEIL0014": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0014.html",
+        "level": "Undergraduate ",
+        "name": "Digital Making",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0014.html",
+        "uoc": "6"
+    },
+    "BEIL0017": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0017.html",
+        "level": "Undergraduate ",
+        "name": "Business Start Up",
+        "school": " School of Built Environment",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0017.html",
+        "uoc": "6"
+    },
+    "BEIL0018": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL0018.html",
+        "level": "Undergraduate ",
+        "name": "Kirigami Architectural Principles And Creative Paper Engineering",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL0018.html",
+        "uoc": "6"
+    },
+    "BEIL6001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV6701"
+        ],
+        "excluded": [
+            "BENV6701"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6001.html",
+        "level": "Undergraduate ",
+        "name": "International Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6001.html",
+        "uoc": "6"
+    },
+    "BEIL6002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV6732"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6002.html",
+        "level": "Undergraduate ",
+        "name": "Urban and Regional Design",
+        "school": " School of Built Environment",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6002.html",
+        "uoc": "6"
+    },
+    "BEIL6003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 units of credit completed in Built Environment ",
+        "equivalent": [
+            "BENV6722"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6003.html",
+        "level": "Undergraduate ",
+        "name": "Cinematic Space",
+        "school": " School of Built Environment",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6003.html",
+        "uoc": "6"
+    },
+    "BEIL6005": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV6726"
+        ],
+        "excluded": [
+            "BENV6726"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6005.html",
+        "level": "Undergraduate ",
+        "name": "Researching Art, Architecture and Design",
+        "school": " School of Built Environment",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6005.html",
+        "uoc": "6"
+    },
+    "BEIL6006": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [
+            "BENV2943"
+        ],
+        "excluded": [
+            "BENV2943"
+        ],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6006.html",
+        "level": "Undergraduate ",
+        "name": "Heritage Planning",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6006.html",
+        "uoc": "6"
+    },
+    "BEIL6009": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 96 unit of credits completed ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6009.html",
+        "level": "Undergraduate ",
+        "name": "Integrated Building Design Case Studies",
+        "school": " School of Built Environment",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6009.html",
+        "uoc": "6"
+    },
+    "BEIL6010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment 96 UOC and enrolment in FBE  Design program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BEIL6010.html",
+        "level": "Undergraduate ",
+        "name": "Sydney Urban Lab",
+        "school": " School of Built Environment",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BEIL6010.html",
+        "uoc": "6"
+    }
+}

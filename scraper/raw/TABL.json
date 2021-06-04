@@ -1,0 +1,1294 @@
+{
+    "TABL1710": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must not be enrolled in Law single and dual programs and completion of 18UOC ",
+        "equivalent": [
+            "DPBS1710"
+        ],
+        "excluded": [
+            "TABL2710"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL1710.html",
+        "level": "Undergraduate ",
+        "name": "Business and the Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL1710.html",
+        "uoc": "6"
+    },
+    "TABL2710": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Must not be enrolled in Law single and dual programs and completion of 18UOC ",
+        "equivalent": [],
+        "excluded": [
+            "TABL1710"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2710.html",
+        "level": "Undergraduate ",
+        "name": "Business and the Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2710.html",
+        "uoc": "6"
+    },
+    "TABL2712": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:LEGT1710 or TABL1710 or TABL 2710 or 12 UOC offered by the UNSW Business School. ",
+        "equivalent": [],
+        "excluded": [
+            "COMM2050",
+            "TABL3016",
+            "TABL5916"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2712.html",
+        "level": "Undergraduate ",
+        "name": "Business Ethics and the Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2712.html",
+        "uoc": "6"
+    },
+    "TABL2721": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710  ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT7721"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2721.html",
+        "level": "Undergraduate ",
+        "name": "Business Law in Action",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2721.html",
+        "uoc": "6"
+    },
+    "TABL2731": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:LEGT1710 or TABL1710 or TABL2710 or 12 UOC offered by the UNSW Business School. ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT1731"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2731.html",
+        "level": "Undergraduate ",
+        "name": "Competition and Consumer Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2731.html",
+        "uoc": "6"
+    },
+    "TABL2741": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (LEGT1710 or TABL1710 or TABL2710 ) and must not be enrolled in Law single and dual programs ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT7741"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2741.html",
+        "level": "Undergraduate ",
+        "name": "Business Entities",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2741.html",
+        "uoc": "6"
+    },
+    "TABL2751": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL1710 or TABL2710 or LAWS1052 or JURD7152.Excluded: LAWS3147, LAWS3751 ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT3751",
+            "LEGT7751"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2751.html",
+        "level": "Undergraduate ",
+        "name": "Business Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2751.html",
+        "uoc": "6"
+    },
+    "TABL2756": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or  TABL2710 or LAWS1052 or JURD7152 ",
+        "equivalent": [
+            "TABL5583"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2756.html",
+        "level": "Undergraduate ",
+        "name": "International Business Tax",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2756.html",
+        "uoc": "6"
+    },
+    "TABL2790": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710  ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2790.html",
+        "level": "Undergraduate ",
+        "name": "Legal Environment of Asian Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2790.html",
+        "uoc": "6"
+    },
+    "TABL2793": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL2793.html",
+        "level": "Undergraduate ",
+        "name": "People and the Environmental Challenge",
+        "school": " School of Taxation and Business Law",
+        "terms": "Summer Term ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL2793.html",
+        "uoc": "6"
+    },
+    "TABL3003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [
+            "ATAX0303"
+        ],
+        "excluded": [
+            "ATAX0503",
+            "TABL5503"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3003.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Corporations",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3003.html",
+        "uoc": "6"
+    },
+    "TABL3005": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0305",
+            "ATAX0505",
+            "TABL5505"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3005.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Trusts",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3005.html",
+        "uoc": "6"
+    },
+    "TABL3006": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0306",
+            "ATAX0506",
+            "TABL5506"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3006.html",
+        "level": "Undergraduate ",
+        "name": "Tax Litigation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3006.html",
+        "uoc": "6"
+    },
+    "TABL3010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 UOC completed in program 4620 ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0310",
+            "ATAX0510",
+            "TABL5510"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3010.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Superannuation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3010.html",
+        "uoc": "6"
+    },
+    "TABL3016": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "COMM2050",
+            "TABL2712",
+            "TABL5916"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3016.html",
+        "level": "Undergraduate ",
+        "name": "Critical Perspectives and Ethics",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3016.html",
+        "uoc": "6"
+    },
+    "TABL3020": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [
+            "ATAX0020"
+        ],
+        "excluded": [
+            "ATAX0320",
+            "ATAX0520",
+            "TABL5520"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3020.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Australian International Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3020.html",
+        "uoc": "6"
+    },
+    "TABL3022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0322",
+            "ATAX0522",
+            "TABL5522"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3022.html",
+        "level": "Undergraduate ",
+        "name": "GST: Design and Structure",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3022.html",
+        "uoc": "6"
+    },
+    "TABL3023": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ATAX0001 or LEGT2751 or TABL2751 or TABL1001 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0323",
+            "ATAX0523",
+            "TABL5523"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3023.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Goods and Services Tax Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3023.html",
+        "uoc": "6"
+    },
+    "TABL3025": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0325",
+            "ATAX0525",
+            "TABL5525"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3025.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Employee Remuneration",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3025.html",
+        "uoc": "6"
+    },
+    "TABL3028": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0328",
+            "ATAX0528",
+            "TABL5528"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3028.html",
+        "level": "Undergraduate ",
+        "name": "International Tax: Design and Structure",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3028.html",
+        "uoc": "6"
+    },
+    "TABL3033": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: TABL2751, COMM6000 CA:Essentials, 65+ WAM and Good Standing.Note: This course is by application only. Visit Career Accelerator page on Business School website for more information. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3033.html",
+        "level": "Undergraduate ",
+        "name": "Tax Clinic",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3033.html",
+        "uoc": "6"
+    },
+    "TABL3040": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3040.html",
+        "level": "Undergraduate ",
+        "name": "Self Managed Superannuation Funds Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3040.html",
+        "uoc": "6"
+    },
+    "TABL3044": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL2751 or LEGT2751 or 48 units of credit completed in BTax. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0341",
+            "TABL5544"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3044.html",
+        "level": "Undergraduate ",
+        "name": "Comparative Tax Systems",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3044.html",
+        "uoc": "6"
+    },
+    "TABL3055": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment (ATAX0611 or TABL3015 or TABL3752) and (ATAX0623 or TABL3023) and (completion of 48 uoc) ",
+        "equivalent": [
+            "ATAX0055"
+        ],
+        "excluded": [
+            "ATAX0055"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3055.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Property Transactions",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3055.html",
+        "uoc": "6"
+    },
+    "TABL3732": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710  ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3732.html",
+        "level": "Undergraduate ",
+        "name": "International Franchise Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3732.html",
+        "uoc": "6"
+    },
+    "TABL3741": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710  ",
+        "equivalent": [
+            "TABL5741"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3741.html",
+        "level": "Undergraduate ",
+        "name": "Insolvency Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3741.html",
+        "uoc": "6"
+    },
+    "TABL3752": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT2751 or TABL2751 or LAWS3147 ",
+        "equivalent": [
+            "TABL5552"
+        ],
+        "excluded": [
+            "LEGT7753"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3752.html",
+        "level": "Undergraduate ",
+        "name": "Capital Gains Tax",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3752.html",
+        "uoc": "6"
+    },
+    "TABL3755": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT2751 or TABL2751 or LAWS3147 ",
+        "equivalent": [
+            "TABL5582"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3755.html",
+        "level": "Undergraduate ",
+        "name": "Taxation of Business Entities",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3755.html",
+        "uoc": "6"
+    },
+    "TABL3757": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT2751 or TABL2751 or LAWS3147 ",
+        "equivalent": [
+            "TABL5557"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3757.html",
+        "level": "Undergraduate ",
+        "name": "Corporate Tax Strategy",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3757.html",
+        "uoc": "6"
+    },
+    "TABL3761": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:LEGT1710 or TABL1710 or TABL2710 or 12 UOC offered by the UNSW Business School. ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT1761",
+            "LEGT2761"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3761.html",
+        "level": "Undergraduate ",
+        "name": "Law of Banking and Finance",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3761.html",
+        "uoc": "6"
+    },
+    "TABL3781": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710 Excluded: TABL3771 ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7617",
+            "LAWS8017",
+            "TABL5517"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3781.html",
+        "level": "Undergraduate ",
+        "name": "Intellectual Property for Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3781.html",
+        "uoc": "6"
+    },
+    "TABL3791": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:LEGT1710 or TABL1710 or TABL2710  or 12 UOC offered by the UNSW Business School. ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT1715",
+            "LEGT1791",
+            "LEGT2791"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL3791.html",
+        "level": "Undergraduate ",
+        "name": "International Business Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL3791.html",
+        "uoc": "6"
+    },
+    "TABL4600": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL4600.html",
+        "level": "Undergraduate ",
+        "name": "Thesis A",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL4600.html",
+        "uoc": "6"
+    },
+    "TABL4601": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL4601.html",
+        "level": "Undergraduate ",
+        "name": "Thesis B",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL4601.html",
+        "uoc": "6"
+    },
+    "TABL4602": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL4602.html",
+        "level": "Undergraduate ",
+        "name": "Thesis C",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL4602.html",
+        "uoc": "12"
+    },
+    "TABL4721": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or TABL2710  ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT7821"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL4721.html",
+        "level": "Undergraduate ",
+        "name": "Special Topic in Business Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL4721.html",
+        "uoc": "6"
+    },
+    "TABL4722": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT2751 or TABL2751 or LAWS3147 ",
+        "equivalent": [],
+        "excluded": [
+            "LEGT7822"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/TABL4722.html",
+        "level": "Undergraduate ",
+        "name": "Special Topic in Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL4722.html",
+        "uoc": "6"
+    },
+    "TABL5503": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0503",
+            "TABL3003"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5503.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Corporations",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5503.html",
+        "uoc": "6"
+    },
+    "TABL5505": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0305",
+            "ATAX0505",
+            "TABL3005"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5505.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Trusts",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5505.html",
+        "uoc": "6"
+    },
+    "TABL5506": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257 or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250, TABLIS9250, TABLES9250 or TABLFS9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0306",
+            "ATAX0506",
+            "TABL3006"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5506.html",
+        "level": "Postgraduate ",
+        "name": "Tax Litigation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5506.html",
+        "uoc": "6"
+    },
+    "TABL5508": null,
+    "TABL5510": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0310",
+            "ATAX0510",
+            "TABL3010"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5510.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Superannuation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5510.html",
+        "uoc": "6"
+    },
+    "TABL5511": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "TABL5512"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5511.html",
+        "level": "Postgraduate ",
+        "name": "Legal Foundations of Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5511.html",
+        "uoc": "6"
+    },
+    "TABL5512": null,
+    "TABL5515": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0311",
+            "ATAX0511"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5515.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Capital Gains",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5515.html",
+        "uoc": "6"
+    },
+    "TABL5517": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL5511 or LEGT5511 or permission from the Head of School. ",
+        "equivalent": [],
+        "excluded": [
+            "JURD7617",
+            "LAWS8017",
+            "TABL3781"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5517.html",
+        "level": "Postgraduate ",
+        "name": "Intellectual Property for Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5517.html",
+        "uoc": "6"
+    },
+    "TABL5520": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 7231, 9255, 9257, 9260; OR in streams TABLBS9250, TABLDS9250, TABLIS9250, or TABLFS9250. ",
+        "equivalent": [
+            "ATAX0320"
+        ],
+        "excluded": [
+            "ATAX0320",
+            "ATAX0520",
+            "TABL3020"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5520.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Australian International Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5520.html",
+        "uoc": "6"
+    },
+    "TABL5522": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257, or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0322",
+            "ATAX0522",
+            "TABL3022"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5522.html",
+        "level": "Postgraduate ",
+        "name": "Goods and Services Tax: Design and Structure",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5522.html",
+        "uoc": "6"
+    },
+    "TABL5523": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL55901 or equivalent; OR programs 5540, 7321, 9255, 9257, 9260; OR streams TABLBS9250, TABLDS9250, TABLIS9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0323",
+            "ATAX0523",
+            "TABL3023"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5523.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Goods and Services Tax Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5523.html",
+        "uoc": "6"
+    },
+    "TABL5524": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT1710 or TABL1710 or LEGT5511 or TABL5511 or LEGT5512 or TABL5512 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5524.html",
+        "level": "Postgraduate ",
+        "name": "Legal Environment of Asian Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5524.html",
+        "uoc": "6"
+    },
+    "TABL5525": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0325",
+            "ATAX0525",
+            "TABL3025"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5525.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Employee Remuneration",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5525.html",
+        "uoc": "6"
+    },
+    "TABL5527": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 9200, 9201, 9210, 9231 and 8428 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5257, 5540, 7273. 8428, 9255, 9257, 9260 and 9273; OR in streams TABLBS9250, TABLDS9250, TABLIS9250, TABLFS9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0327",
+            "ATAX0527"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5527.html",
+        "level": "Postgraduate ",
+        "name": "Taxation Strategies in Financial Planning",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5527.html",
+        "uoc": "6"
+    },
+    "TABL5528": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257, or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0328",
+            "ATAX0528",
+            "TABL3028"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5528.html",
+        "level": "Postgraduate ",
+        "name": "International Tax: Design and Structure",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5528.html",
+        "uoc": "6"
+    },
+    "TABL5537": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257, or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0337",
+            "ATAX0537"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5537.html",
+        "level": "Postgraduate ",
+        "name": "Double Tax Agreements",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5537.html",
+        "uoc": "6"
+    },
+    "TABL5538": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257 or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250, TABLIS9250, TABLES9250 or TABLFS9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0338",
+            "ATAX0538"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5538.html",
+        "level": "Postgraduate ",
+        "name": "Tax Planning and Anti Avoidance Provisions",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5538.html",
+        "uoc": "6"
+    },
+    "TABL5540": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR in streams TABLBS9250, TABLDS9250, TABLFS9250; OR in programs 5273, 5740, 7270, 7273, 9255, 9257, 9260, 9270, 9273. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5540.html",
+        "level": "Postgraduate ",
+        "name": "Self Managed Superannuation Funds Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5540.html",
+        "uoc": "6"
+    },
+    "TABL5541": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or Corequisite: LEGT5511 or TABL5511 or LEGT5512 or TABL5512 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5541.html",
+        "level": "Postgraduate ",
+        "name": "Corporations and Business Associations Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5541.html",
+        "uoc": "6"
+    },
+    "TABL5544": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR in programs 5245, 5272, 5540, 7545, 9230, 9245, 9250, 9255, 9257, 9260, 9270. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0341",
+            "TABL3044"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5544.html",
+        "level": "Postgraduate ",
+        "name": "Comparative Tax Systems",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5544.html",
+        "uoc": "6"
+    },
+    "TABL5545": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "TABL3545"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5545.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Regulation, Compliance and Enforcement",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5545.html",
+        "uoc": "6"
+    },
+    "TABL5546": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "TABL3546"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5546.html",
+        "level": "Postgraduate ",
+        "name": "Introduction to RegTech in Compliance and Enforcement",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5546.html",
+        "uoc": "6"
+    },
+    "TABL5547": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "TABL3547"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5547.html",
+        "level": "Postgraduate ",
+        "name": "Building Effective Compliance Systems",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5547.html",
+        "uoc": "6"
+    },
+    "TABL5548": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "TABL3548"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5548.html",
+        "level": "Postgraduate ",
+        "name": "Regulatory Investigations and Enforcement",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5548.html",
+        "uoc": "6"
+    },
+    "TABL5550": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR in streams TABLBS9250, TABLDS9250, TABLES9250; OR in programs 5540, 9255, 9257, 9260. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0350"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5550.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Tax Transfer Pricing",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5550.html",
+        "uoc": "6"
+    },
+    "TABL5551": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite or Corequisite: LEGT5511 or TABL5511 or LEGT5512 or TABL5512 ",
+        "equivalent": [],
+        "excluded": [
+            "TABL1001",
+            "TABL5901"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5551.html",
+        "level": "Postgraduate ",
+        "name": "Taxation Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Summer Term, Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5551.html",
+        "uoc": "6"
+    },
+    "TABL5552": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT5551 or TABL5551 ",
+        "equivalent": [
+            "TABL3752"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5552.html",
+        "level": "Postgraduate ",
+        "name": "Capital Gains Tax",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5552.html",
+        "uoc": "6"
+    },
+    "TABL5555": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5540, 7321, 9255, 9257, 9260, 9273; OR in streams TABLBS9250, TABLDS9250, TABLFS9250, TABLIS9250; OR in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent before enrolling. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0355",
+            "ATAX0555"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5555.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Property Transactions",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5555.html",
+        "uoc": "6"
+    },
+    "TABL5557": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:(LEGT5551 or TABL5551) and (LEGT5541 or TABL5541) ",
+        "equivalent": [
+            "TABL3757"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5557.html",
+        "level": "Postgraduate ",
+        "name": "Corporate Tax Strategy",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5557.html",
+        "uoc": "6"
+    },
+    "TABL5562": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "JURD7593",
+            "JURD7710",
+            "LAWS8210"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5562.html",
+        "level": "Postgraduate ",
+        "name": "Business Law in a Global Economy",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5562.html",
+        "uoc": "6"
+    },
+    "TABL5571": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5571.html",
+        "level": "Postgraduate ",
+        "name": "Franchising",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5571.html",
+        "uoc": "6"
+    },
+    "TABL5575": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 8428, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR enrolled in programs 5540, 9255, 9257 or 9260; OR in streams TABLBS9250, TABLDS9250, TABLES9250, TABLIS9250, TABLES9250 or TABLFS9250. ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0301",
+            "ATAX0501"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5575.html",
+        "level": "Postgraduate ",
+        "name": "Tax Policy",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5575.html",
+        "uoc": "6"
+    },
+    "TABL5580": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in programs 5231, 5740, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent; OR in streams TABLBS9250 or TABLDS9250; OR in programs 9250 or 9255 ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0516"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5580.html",
+        "level": "Postgraduate ",
+        "name": "Current Research Problems in Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5580.html",
+        "uoc": "6"
+    },
+    "TABL5581": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Completion of TABL5520 and (in programs 5231, 5740, 9200, 9201, 9210, 9231 and completed TABL5551 or TABL5901 or equivalent) OR (in streams TABLBS9250 or TABLDS9250) OR (in programs 9230, 9245 or 9255) ",
+        "equivalent": [],
+        "excluded": [
+            "ATAX0529"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5581.html",
+        "level": "Postgraduate ",
+        "name": "International Tax Research",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5581.html",
+        "uoc": "6"
+    },
+    "TABL5582": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT5551 or TABL5551 ",
+        "equivalent": [
+            "TABL3755"
+        ],
+        "excluded": [
+            "LEGT7752"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5582.html",
+        "level": "Postgraduate ",
+        "name": "Taxation of Business Entities",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5582.html",
+        "uoc": "6"
+    },
+    "TABL5583": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LEGT5551 or TABL5551 ",
+        "equivalent": [
+            "TABL2756"
+        ],
+        "excluded": [
+            "LEGT7791"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5583.html",
+        "level": "Postgraduate ",
+        "name": "International Business Taxation",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5583.html",
+        "uoc": "6"
+    },
+    "TABL5584": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5584.html",
+        "level": "Postgraduate ",
+        "name": "Special Topic in Business Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5584.html",
+        "uoc": "6"
+    },
+    "TABL5741": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: TABL5512 ",
+        "equivalent": [
+            "TABL3741"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5741.html",
+        "level": "Postgraduate ",
+        "name": "Insolvency Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5741.html",
+        "uoc": "6"
+    },
+    "TABL5805": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Restricted to students enrolled in Program 9245, 9255, 9257 or Stream TABLBS9250, TABLDS9250, TABLAH4501 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5805.html",
+        "level": "Postgraduate ",
+        "name": "Research Methods in Taxation and Business Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5805.html",
+        "uoc": "6"
+    },
+    "TABL5810": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/TABL5810.html",
+        "level": "Research ",
+        "name": "Dissertation Proposal",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5810.html",
+        "uoc": "6"
+    },
+    "TABL5901": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Students in the Graduate Certificate or Masters of Taxation are not permitted to take this course. ",
+        "equivalent": [],
+        "excluded": [
+            "TABL1001",
+            "TABL5551"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5901.html",
+        "level": "Postgraduate ",
+        "name": "Principles of Australian Taxation Law",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5901.html",
+        "uoc": "6"
+    },
+    "TABL5933": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: TABL5551, COMM6000 CA:Essentials, completed 48 UOC, 65+ WAM, Good Standing, in 8415 program.Note: This course is by application only. Visit Career Accelerator page on Business School website for more information. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/TABL5933.html",
+        "level": "Postgraduate ",
+        "name": "Tax Clinic",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/TABL5933.html",
+        "uoc": "6"
+    }
+}

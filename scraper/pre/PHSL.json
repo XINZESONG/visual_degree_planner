@@ -1,0 +1,132 @@
+{
+    "PHSL2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 6 UOC of level 1 Biology (BABS1201/DPST1051 pref); and 6 UOC of Level 1 CHEM; and 6 UOC Level 1 MATH. ",
+        "equivalent": [
+            "PHSL2121",
+            "PHSL2501"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2101.html",
+        "level": "Undergraduate ",
+        "name": "Physiology 1A",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2101.html",
+        "uoc": "6"
+    },
+    "PHSL2121": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "PHSL2101",
+            "PHSL2501"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2121.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Physiology A",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2121.html",
+        "uoc": "6"
+    },
+    "PHSL2201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite PHSL2101 ",
+        "equivalent": [
+            "PHSL2221",
+            "PHSL2502"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2201.html",
+        "level": "Undergraduate ",
+        "name": "Physiology 1B",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2201.html",
+        "uoc": "6"
+    },
+    "PHSL2221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHSL2121 ",
+        "equivalent": [
+            "PHSL2201",
+            "PHSL2502"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2221.html",
+        "level": "Undergraduate ",
+        "name": "Principles of Physiology B",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2221.html",
+        "uoc": "6"
+    },
+    "PHSL2501": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: BABS1201 AND CHEM1831 AND MATH1041. ",
+        "equivalent": [
+            "PHSL2101",
+            "PHSL2121"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2501.html",
+        "level": "Undergraduate ",
+        "name": "Human Physiology A",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2501.html",
+        "uoc": "6"
+    },
+    "PHSL2502": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHSL2501. ",
+        "equivalent": [
+            "PHSL2201",
+            "PHSL2221"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL2502.html",
+        "level": "Undergraduate ",
+        "name": "Human Physiology B",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL2502.html",
+        "uoc": "6"
+    },
+    "PHSL3211": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHSL2101 or PHSL2121 or PHSL 2501 AND PHSL2201 or PHSL2221 or PHSL2502 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL3211.html",
+        "level": "Undergraduate ",
+        "name": "Cardiovascular Physiology and Pathophysiology",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL3211.html",
+        "uoc": "6"
+    },
+    "PHSL3221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: PHSL2101 or PHSL2121 or PHSL2501 AND PHSL2201 or PHSL2221 or PHSL2502 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHSL3221.html",
+        "level": "Undergraduate ",
+        "name": "Endocrine, Reproductive and Developmental Physiology",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHSL3221.html",
+        "uoc": "6"
+    }
+}

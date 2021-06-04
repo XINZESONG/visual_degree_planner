@@ -1,0 +1,537 @@
+{
+    "ELEC0390": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC0390.html",
+        "level": "Undergraduate ",
+        "name": "Energy Tomorrow",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC0390.html",
+        "uoc": "6"
+    },
+    "ELEC1111": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPST1081"
+        ],
+        "excluded": [
+            "DPST1081",
+            "ELEC1112"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC1111.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Circuit Fundamentals",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Summer Term, Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC1111.html",
+        "uoc": "6"
+    },
+    "ELEC2117": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-Requisite:(ELEC1111 OR DPST1081 OR ELEC1112) AND (ELEC2141 OR ELEC1041) AND (COMP1511 OR DPST1091 OR COMP1911 OR COMP1917) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC2117.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Systems Design",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC2117.html",
+        "uoc": "6"
+    },
+    "ELEC2133": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ELEC2134 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC2133.html",
+        "level": "Undergraduate ",
+        "name": "Analogue Electronics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Summer Term, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC2133.html",
+        "uoc": "6"
+    },
+    "ELEC2134": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Co-Requisite: ELEC1111 OR DPST1081 OR ELEC1112 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC2134.html",
+        "level": "Undergraduate ",
+        "name": "Circuits and Signals",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC2134.html",
+        "uoc": "6"
+    },
+    "ELEC2141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Co-requisite: ELEC1111 OR DPST1081 OR ELEC1112 ",
+        "equivalent": [],
+        "excluded": [
+            "COMP3222"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC2141.html",
+        "level": "Undergraduate ",
+        "name": "Digital Circuit Design",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC2141.html",
+        "uoc": "6"
+    },
+    "ELEC3104": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ELEC2134 ",
+        "equivalent": [
+            "ELEC3004"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3104.html",
+        "level": "Undergraduate ",
+        "name": "Digital Signal Processing",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3104.html",
+        "uoc": "6"
+    },
+    "ELEC3105": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite/s: ELEC2134 and ELEC3115 ",
+        "equivalent": [
+            "ELEC3005"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3105.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Energy",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3105.html",
+        "uoc": "6"
+    },
+    "ELEC3106": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite/s: ELEC2133 and ELEC2141 ",
+        "equivalent": [
+            "ELEC3006"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3106.html",
+        "level": "Undergraduate ",
+        "name": "Electronics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3106.html",
+        "uoc": "6"
+    },
+    "ELEC3111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ELEC2134 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3111.html",
+        "level": "Undergraduate ",
+        "name": "Distributed Energy Generation",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3111.html",
+        "uoc": "6"
+    },
+    "ELEC3114": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ELEC2134 and MATH2099 ",
+        "equivalent": [
+            "ELEC3014",
+            "MMAN3200"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3114.html",
+        "level": "Undergraduate ",
+        "name": "Control Systems",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3114.html",
+        "uoc": "6"
+    },
+    "ELEC3115": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: MATH2069 AND (PHY1231 OR DPST1024) ",
+        "equivalent": [
+            "ELEC2015"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3115.html",
+        "level": "Undergraduate ",
+        "name": "Electromagnetic Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3115.html",
+        "uoc": "6"
+    },
+    "ELEC3117": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC2133 ",
+        "equivalent": [
+            "ELEC3017",
+            "PHTN3117",
+            "TELE3117"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3117.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Engineering Design",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3117.html",
+        "uoc": "6"
+    },
+    "ELEC3145": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-req:(comp1911 or comp1917) and (elec2141 or mtrn3200 or comp3222) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3145.html",
+        "level": "Undergraduate ",
+        "name": "Real Time Instrumentation",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3145.html",
+        "uoc": "6"
+    },
+    "ELEC3705": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite : MATH2099 AND (PHYS1231 OR DPST1024 OR PHYS1221) ",
+        "equivalent": [],
+        "excluded": [
+            "ELEC9705"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC3705.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Quantum Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC3705.html",
+        "uoc": "6"
+    },
+    "ELEC4122": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 120 units of credit ",
+        "equivalent": [
+            "ELEC4011"
+        ],
+        "excluded": [
+            "GSOE9510"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4122.html",
+        "level": "Undergraduate ",
+        "name": "Strategic Leadership and Ethics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4122.html",
+        "uoc": "6"
+    },
+    "ELEC4123": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4123.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Design Proficiency",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4123.html",
+        "uoc": "6"
+    },
+    "ELEC4445": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: 132 units of credit. ",
+        "equivalent": [
+            "ELEC4444"
+        ],
+        "excluded": [
+            "GSOE9445"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4445.html",
+        "level": "Undergraduate ",
+        "name": "Entrepreneurial Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4445.html",
+        "uoc": "6"
+    },
+    "ELEC4602": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3106 ",
+        "equivalent": [
+            "ELEC4522"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4602.html",
+        "level": "Undergraduate ",
+        "name": "Microelectronic Design and Technology",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4602.html",
+        "uoc": "6"
+    },
+    "ELEC4603": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC2133 ",
+        "equivalent": [
+            "ELEC3016"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4603.html",
+        "level": "Undergraduate ",
+        "name": "Solid State Electronics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4603.html",
+        "uoc": "6"
+    },
+    "ELEC4604": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3106 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4604.html",
+        "level": "Undergraduate ",
+        "name": "Radio Frequency Electronics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4604.html",
+        "uoc": "6"
+    },
+    "ELEC4605": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-Requisite: Elec3705 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4605.html",
+        "level": "Undergraduate ",
+        "name": "Quantum Devices and Computers",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4605.html",
+        "uoc": "6"
+    },
+    "ELEC4611": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3105 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4611.html",
+        "level": "Undergraduate ",
+        "name": "Power System Equipment",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4611.html",
+        "uoc": "6"
+    },
+    "ELEC4612": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3105 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4612.html",
+        "level": "Undergraduate ",
+        "name": "Power System Analysis",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4612.html",
+        "uoc": "6"
+    },
+    "ELEC4613": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3105 ",
+        "equivalent": [
+            "ELEC4216"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4613.html",
+        "level": "Undergraduate ",
+        "name": "Electrical Drive Systems",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4613.html",
+        "uoc": "6"
+    },
+    "ELEC4614": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC2133 ",
+        "equivalent": [
+            "ELEC4240"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4614.html",
+        "level": "Undergraduate ",
+        "name": "Power Electronics",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4614.html",
+        "uoc": "6"
+    },
+    "ELEC4617": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-Requisite: elec4612 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4617.html",
+        "level": "Undergraduate ",
+        "name": "Power System Protection",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4617.html",
+        "uoc": "6"
+    },
+    "ELEC4621": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3104 ",
+        "equivalent": [
+            "ELEC4042",
+            "ELEC9342"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4621.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Digital Signal Processing",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4621.html",
+        "uoc": "6"
+    },
+    "ELEC4622": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3104 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4622.html",
+        "level": "Undergraduate ",
+        "name": "Multimedia Signal Processing",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4622.html",
+        "uoc": "6"
+    },
+    "ELEC4631": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3114 ",
+        "equivalent": [
+            "ELEC4412"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4631.html",
+        "level": "Undergraduate ",
+        "name": "Continuous - Time Control System Design",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4631.html",
+        "uoc": "6"
+    },
+    "ELEC4632": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3114 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4632.html",
+        "level": "Undergraduate ",
+        "name": "Computer Control Systems",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4632.html",
+        "uoc": "6"
+    },
+    "ELEC4633": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prereq: ELEC3114 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4633.html",
+        "level": "Undergraduate ",
+        "name": "Real-Time Engineering",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4633.html",
+        "uoc": "6"
+    },
+    "ELEC4951": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of 126 UOC and completion of 3rd year core ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4951.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis A",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4951.html",
+        "uoc": "4"
+    },
+    "ELEC4952": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis A (4951) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4952.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis B",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4952.html",
+        "uoc": "4"
+    },
+    "ELEC4953": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Completion of Research Thesis B (4952) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ELEC4953.html",
+        "level": "Undergraduate ",
+        "name": "Research Thesis C",
+        "school": " School of Electrical Engineering & Telecommunications",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ELEC4953.html",
+        "uoc": "4"
+    }
+}

@@ -1,0 +1,199 @@
+{
+    "LING5001": null,
+    "LING5003": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5003.html",
+        "level": "Postgraduate ",
+        "name": "Language Technology",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5003.html",
+        "uoc": "6"
+    },
+    "LING5005": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "ARTS3692",
+            "ENGL5502",
+            "LING2604",
+            "LING2800"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5005.html",
+        "level": "Postgraduate ",
+        "name": "The Grammar of English",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5005.html",
+        "uoc": "6"
+    },
+    "LING5006": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguistics, Education (TESOL), Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5006.html",
+        "level": "Postgraduate ",
+        "name": "Current Issues in Bilingualism",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5006.html",
+        "uoc": "6"
+    },
+    "LING5015": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguistics, Education (TESOL), Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5015.html",
+        "level": "Postgraduate ",
+        "name": "Discourse Analysis",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5015.html",
+        "uoc": "6"
+    },
+    "LING5022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguistics, Education (TESOL), Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [
+            "MODL2000"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5022.html",
+        "level": "Postgraduate ",
+        "name": "Cross-cultural Pragmatics",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5022.html",
+        "uoc": "6"
+    },
+    "LING5024": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguistics, Education (TESOL), Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5024.html",
+        "level": "Postgraduate ",
+        "name": "The Sound System of English",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5024.html",
+        "uoc": "6"
+    },
+    "LING5026": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguistics, Education (TESOL), Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [
+            "ARTS1690",
+            "LING1000"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5026.html",
+        "level": "Postgraduate ",
+        "name": "The Structure of Language",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5026.html",
+        "uoc": "6"
+    },
+    "LING5027": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguisitics, Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5027.html",
+        "level": "Postgraduate ",
+        "name": "Research Methods in Linguistics",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5027.html",
+        "uoc": "6"
+    },
+    "LING5029": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5029.html",
+        "level": "Postgraduate ",
+        "name": "The Psychology of Language",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5029.html",
+        "uoc": "6"
+    },
+    "LING5032": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LING5027, and enrolment in a postgraduate Applied Linguistics, Interpreting, Translation, or Translation & Interpreting program. School consent required. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5032.html",
+        "level": "Postgraduate ",
+        "name": "Thesis Writing 1",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5032.html",
+        "uoc": "6"
+    },
+    "LING5033": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: LING5032,  and enrolment in a postgraduate Applied Linguistics, Interpreting, Translation, or Translation & Interpreting program. School consent required. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5033.html",
+        "level": "Postgraduate ",
+        "name": "Thesis Writing 2",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5033.html",
+        "uoc": "6"
+    },
+    "LING5035": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in a postgraduate Applied Linguisitics, Interpreting, Translation, or Translation and Interpreting program ",
+        "equivalent": [],
+        "excluded": [
+            "ARTS2690"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5035.html",
+        "level": "Postgraduate ",
+        "name": "Semantics and Pragmatics",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5035.html",
+        "uoc": "6"
+    },
+    "LING5037": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in the Master of Applied Linguistics ",
+        "equivalent": [],
+        "excluded": [
+            "ARTS1691"
+        ],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/LING5037.html",
+        "level": "Postgraduate ",
+        "name": "The Use of Language",
+        "school": " School of Humanities and Languages",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/LING5037.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "AVIG5911": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: A pass in flight screening, AVEN1920, AVIA1321, PHYS1149, AVIA1401, AVIA1901, MATH1041, PHYS1211 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIG5911.html",
+        "level": "Postgraduate ",
+        "name": "Flying Operations 1",
+        "school": " School of Aviation",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIG5911.html",
+        "uoc": "12"
+    },
+    "AVIG5912": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: AVIG5911 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIG5912.html",
+        "level": "Postgraduate ",
+        "name": "Flying Operations 2",
+        "school": " School of Aviation",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIG5912.html",
+        "uoc": "12"
+    },
+    "AVIG5913": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: AVIG5912 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIG5913.html",
+        "level": "Postgraduate ",
+        "name": "Flying Operations 3",
+        "school": " School of Aviation",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIG5913.html",
+        "uoc": "12"
+    },
+    "AVIG5914": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: AVIG5913 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIG5914.html",
+        "level": "Postgraduate ",
+        "name": "Flying Operations 4",
+        "school": " School of Aviation",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIG5914.html",
+        "uoc": "12"
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "RISK2001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ECON1101 and ACCT1501 ",
+        "equivalent": [
+            "COMM0032",
+            "RISK5001"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/RISK2001.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Risk and Risk Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK2001.html",
+        "uoc": "6"
+    },
+    "RISK3003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACCT1501 and (ECON1203 or RISK2001) ",
+        "equivalent": [
+            "RISK5003"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/RISK3003.html",
+        "level": "Undergraduate ",
+        "name": "Risk Decision Analytics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK3003.html",
+        "uoc": "6"
+    },
+    "RISK5001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: In program 8404 or 8417 or 8411 or 8416 ",
+        "equivalent": [
+            "COMM0032",
+            "RISK2001"
+        ],
+        "excluded": [
+            "ACTL6001"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/RISK5001.html",
+        "level": "Postgraduate ",
+        "name": "Fundamentals of Risk and Risk Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK5001.html",
+        "uoc": "6"
+    },
+    "RISK5002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: In program 8404 or 8417 or 8411 or 8416 ",
+        "equivalent": [
+            "RISK2002"
+        ],
+        "excluded": [
+            "ACTL6002"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/RISK5002.html",
+        "level": "Postgraduate ",
+        "name": "Risk Analytics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK5002.html",
+        "uoc": "6"
+    },
+    "RISK5003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: In program 8404 or 8417 or 8411 or 8416 ",
+        "equivalent": [
+            "RISK3003"
+        ],
+        "excluded": [
+            "ACTL6003"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/RISK5003.html",
+        "level": "Postgraduate ",
+        "name": "Risk Decision Analytics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/RISK5003.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,174 @@
+.Graph {
+  height: calc(100vh * 0.63);
+  width: 100%;
+}
+
+.GraphFlow {
+  width: 100%;
+  height: 100%;
+}
+
+/* Increase the width of the edges */
+path.react-flow__edge-path {
+  stroke-width: 2;
+}
+
+/* Add custom styling for selected nodes (use `div` to increase specificity) */
+div [class*="react-flow__node-"] {
+  border-color: #1a192b;
+  font-size: 18px;
+}
+div [class*="react-flow__node-"] .react-flow__handle {
+  background: #1a192b;
+}
+div [class*="react-flow__node-"].selected {
+  box-shadow: 0 0 5px 1px #1a192b;
+  background: #073b4c;
+  color: white;
+  font-weight: bold;
+}
+div [class*="react-flow__node-"].selected .react-flow__handle {
+  background: #073b4c;
+}
+div .node-highlight {
+  box-shadow: 0 0 3px 0.3px #1a192b;
+}
+div [class*="react-flow__node-"].selectable:hover {
+  box-shadow: 0 0 5px 1px #1a192b;
+}
+div [class*="react-flow__node-"].selected:hover {
+  box-shadow: 0 0 8px 3px #1a192b;
+}
+
+
+div .course-fork-0 {
+  border-color: #54478c;
+  box-shadow: 0 0 5px 3px #54478c;
+}
+div .course-fork-0 .react-flow__handle {
+  background: #54478c;
+}
+div .course-fork-0.selectable:hover {
+  box-shadow: 0 0 8px 4px #54478c;
+}
+div .course-fork-1 {
+  border-color: #2c699a;
+  box-shadow: 0 0 5px 3px #2c699a;
+}
+div .course-fork-1 .react-flow__handle {
+  background: #2c699a;
+}
+div .course-fork-1.selectable:hover {
+  box-shadow: 0 0 8px 4px #2c699a;
+}
+div .course-fork-2 {
+  border-color: #05a3c7;
+  box-shadow: 0 0 5px 3px #05a3c7;
+}
+div .course-fork-2 .react-flow__handle {
+  background: #05a3c7;
+}
+div .course-fork-2.selectable:hover {
+  box-shadow: 0 0 8px 4px #05a3c7;
+}
+div .course-fork-3 {
+  border-color: #0db39e;
+  box-shadow: 0 0 5px 3px #0db39e;
+}
+div .course-fork-3 .react-flow__handle {
+  background: #0db39e;
+}
+div .course-fork-3.selectable:hover {
+  box-shadow: 0 0 8px 4px #0db39e;
+}
+div .course-fork-4 {
+  border-color: #83e377;
+  box-shadow: 0 0 5px 3px #83e377;
+}
+div .course-fork-4 .react-flow__handle {
+  background: #83e377;
+}
+div .course-fork-4.selectable:hover {
+  box-shadow: 0 0 8px 4px #83e377;
+}
+div .course-fork-5 {
+  border-color: #efea5a;
+  box-shadow: 0 0 5px 3px #efea5a;
+}
+div .course-fork-5 .react-flow__handle {
+  background: #efea5a;
+}
+div .course-fork-5.selectable:hover {
+  box-shadow: 0 0 8px 4px #efea5a;
+}
+div .course-fork-6 {
+  border-color: #f1c453;
+  box-shadow: 0 0 5px 3px #f1c453;
+}
+div .course-fork-6 .react-flow__handle {
+  background: #f1c453;
+}
+div .course-fork-6.selectable:hover {
+  box-shadow: 0 0 8px 4px #f1c453;
+}
+div .course-fork-7 {
+  border-color: #f29e4c;
+  box-shadow: 0 0 5px 3px #f29e4c;
+}
+div .course-fork-7 .react-flow__handle {
+  background: #f29e4c;
+}
+div .course-fork-7.selectable:hover {
+  box-shadow: 0 0 8px 4px #f29e4c;
+}
+div .course-fork-8 {
+  border-color: #ef476f;
+  box-shadow: 0 0 5px 3px #ef476f;
+}
+div .course-fork-8 .react-flow__handle {
+  background: #ef476f;
+}
+div .course-fork-8.selectable:hover {
+  box-shadow: 0 0 8px 4px #ef476f;
+}
+/* Default class if we run out of classes*/
+div .course-fork {
+  border-color: #ef476f;
+  box-shadow: 0 0 5px 3px #ef476f;
+}
+div .course-fork .react-flow__handle {
+  background: #ef476f;
+}
+div .course-fork.selectable:hover {
+  box-shadow: 0 0 8px 4px #ef476f;
+}
+
+div .course-exclusion {
+  color: black;
+  font-weight: 600;
+  border-color: black;
+  pointer-events: auto !important;  /* Override 'none' from node.selectable = false */
+  cursor: not-allowed;
+  background: repeating-linear-gradient(
+      45deg,
+      white,
+      white 20px,
+      #dcdcdc 20px,
+      #dcdcdc 40px
+  );
+}
+div .course-exclusion .react-flow__handle {
+  background: #a1a5ab;
+}
+
+div .course-unscheduled {
+  color: #606367;
+  font-weight: 600;
+  background: #dcdcdc;
+  border-color: #b8b8b8;
+  pointer-events: auto !important;  /* Override 'none' from node.selectable = false */
+  cursor: not-allowed;
+}
+div .course-unscheduled .react-flow__handle {
+  background: #a1a5ab;
+}

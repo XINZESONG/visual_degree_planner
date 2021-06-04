@@ -1,0 +1,658 @@
+{
+    "ACTL1101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1151 AND in Actuarial Studies programs. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL1101.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Actuarial Studies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL1101.html",
+        "uoc": "6"
+    },
+    "ACTL2101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite:Enrolment in Program 3587 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL2101.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 1",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL2101.html",
+        "uoc": "12"
+    },
+    "ACTL2102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: (ACTL2131 or MATH2901) and in Actuarial single or dual degrees. ",
+        "equivalent": [
+            "ACTL5103"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL2102.html",
+        "level": "Undergraduate ",
+        "name": "Foundations of Actuarial Models",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL2102.html",
+        "uoc": "6"
+    },
+    "ACTL2111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requsite: MATH1251 AND (ACTL1101 OR in MATHE1, MATHM1 or MATHT1 majors) ",
+        "equivalent": [
+            "ACTL5102"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL2111.html",
+        "level": "Undergraduate ",
+        "name": "Financial Mathematics for Actuaries",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL2111.html",
+        "uoc": "6"
+    },
+    "ACTL2131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL1101 AND (MATH1251 or MATH1241 ) ",
+        "equivalent": [
+            "ACTL5101"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL2131.html",
+        "level": "Undergraduate ",
+        "name": "Probability and Mathematical Statistics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL2131.html",
+        "uoc": "6"
+    },
+    "ACTL3141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ACTL2131 or MATH2901) and ACTL2102 ",
+        "equivalent": [
+            "ACTL5104"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3141.html",
+        "level": "Undergraduate ",
+        "name": "Actuarial Models and Statistics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3141.html",
+        "uoc": "6"
+    },
+    "ACTL3142": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL2131 OR (MATH2931 and in B. Data Science and Decisions (3959)) OR (MATH2901 and MATH2931) ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL5110",
+            "COMM3501"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3142.html",
+        "level": "Undergraduate ",
+        "name": "Actuarial Data and Analysis",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3142.html",
+        "uoc": "6"
+    },
+    "ACTL3151": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL2111 and ACTL2102 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL5105"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3151.html",
+        "level": "Undergraduate ",
+        "name": "Life Contingencies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3151.html",
+        "uoc": "6"
+    },
+    "ACTL3162": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL2102 or (MATH2901 AND MATHE1, MATHM1 or MATHT1 major) ",
+        "equivalent": [
+            "ACTL5106"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3162.html",
+        "level": "Undergraduate ",
+        "name": "General Insurance Techniques",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3162.html",
+        "uoc": "6"
+    },
+    "ACTL3182": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL2111 and ACTL2102 ",
+        "equivalent": [
+            "ACTL5109"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3182.html",
+        "level": "Undergraduate ",
+        "name": "Asset-Liability and Derivative Models",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3182.html",
+        "uoc": "6"
+    },
+    "ACTL3191": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: ACTL2111 or ACTL2131 or (MATH2901 and MATH2931) ",
+        "equivalent": [
+            "ACTL3005",
+            "ECON3114"
+        ],
+        "excluded": [
+            "ACTL5002",
+            "ACTL5401",
+            "ECON3114",
+            "ECON5114"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3191.html",
+        "level": "Undergraduate ",
+        "name": "Superannuation and Retirement Benefits",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3191.html",
+        "uoc": "6"
+    },
+    "ACTL3192": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: ACTL2111 or ACTL2131 or (MATH2901 and MATH2931) ",
+        "equivalent": [
+            "ECON3117"
+        ],
+        "excluded": [
+            "ACTL5306",
+            "ECON3117",
+            "ECON5136"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3192.html",
+        "level": "Undergraduate ",
+        "name": "Retirement Saving and Spending Over the Lifecycle",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3192.html",
+        "uoc": "6"
+    },
+    "ACTL3202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL2101 and enrolment in program 3587 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3202.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 2",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3202.html",
+        "uoc": "6"
+    },
+    "ACTL3303": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL3202 and enrolment in program 3587 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL3303.html",
+        "level": "Undergraduate ",
+        "name": "Industry Placement 3",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL3303.html",
+        "uoc": "6"
+    },
+    "ACTL4001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACCT1511, ACTL3141, ACTL3182, FINS1613, ACTL3162, ACTL3151, ECON1102, 60+ WAM.Note: Students in 3587 may complete ACTL3141 as a co-requisite ",
+        "equivalent": [
+            "ACTL5100"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4001.html",
+        "level": "Undergraduate ",
+        "name": "Actuarial Theory and Practice A",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4001.html",
+        "uoc": "6"
+    },
+    "ACTL4002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL4001 ",
+        "equivalent": [
+            "ACTL5200"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4002.html",
+        "level": "Undergraduate ",
+        "name": "Actuarial Theory and Practice B",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4002.html",
+        "uoc": "6"
+    },
+    "ACTL4003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Students must be in Actuarial Studies (Honours). ",
+        "equivalent": [
+            "ACTL5003"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4003.html",
+        "level": "Undergraduate ",
+        "name": "Research Methods in Risk and Actuarial Studies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4003.html",
+        "uoc": "6"
+    },
+    "ACTL4010": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4010.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Actuarial Studies) A",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4010.html",
+        "uoc": "6"
+    },
+    "ACTL4011": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4011.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Actuarial Studies) B",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4011.html",
+        "uoc": "6"
+    },
+    "ACTL4012": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4012.html",
+        "level": "Undergraduate ",
+        "name": "Thesis (Actuarial Studies) C",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4012.html",
+        "uoc": "12"
+    },
+    "ACTL4301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: ACTL2102 and ACTL3162. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4301.html",
+        "level": "Undergraduate ",
+        "name": "Models for Risk Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4301.html",
+        "uoc": "6"
+    },
+    "ACTL4302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Completed at least two of the following courses ACTL3141, ACTL3162 & ACTL3182. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4302.html",
+        "level": "Undergraduate ",
+        "name": "Risk and Capital Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4302.html",
+        "uoc": "6"
+    },
+    "ACTL4305": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL3142 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL5305"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ACTL4305.html",
+        "level": "Undergraduate ",
+        "name": "Actuarial Data Analytic Applications",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL4305.html",
+        "uoc": "6"
+    },
+    "ACTL5000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ACTL5000.html",
+        "level": "Research ",
+        "name": "Thesis (Actuarial Studies)",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5000.html",
+        "uoc": "12"
+    },
+    "ACTL5001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ACTL5001.html",
+        "level": "Research ",
+        "name": "Thesis (Part-Time) - Actuarial Studies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5001.html",
+        "uoc": "6"
+    },
+    "ACTL5003": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "ACTL4003"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/ACTL5003.html",
+        "level": "Research ",
+        "name": "Research Methods in Risk and Actuarial Studies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5003.html",
+        "uoc": "6"
+    },
+    "ACTL5004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5004.html",
+        "level": "Postgraduate ",
+        "name": "Project Report - Actuarial Studies",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5004.html",
+        "uoc": "12"
+    },
+    "ACTL5100": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment (Pre-requisite: ECON5103, ACTL5108, ACTL5109, ACTL5106, 60+ WAM) AND(Pre- or Co-requisite: ACTL5104, ACTL5105) ",
+        "equivalent": [
+            "ACTL4001"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5100.html",
+        "level": "Postgraduate ",
+        "name": "Actuarial Theory and Practice  A",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5100.html",
+        "uoc": "6"
+    },
+    "ACTL5101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in program 8411 or 8416 ",
+        "equivalent": [
+            "ACTL2131"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5101.html",
+        "level": "Postgraduate ",
+        "name": "Probability and Statistics for Actuaries",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5101.html",
+        "uoc": "6"
+    },
+    "ACTL5102": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in program 8411 or 8416 ",
+        "equivalent": [
+            "ACTL2111"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5102.html",
+        "level": "Postgraduate ",
+        "name": "Financial Mathematics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5102.html",
+        "uoc": "6"
+    },
+    "ACTL5103": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101 and enrolment in program 8411 or 8416 ",
+        "equivalent": [
+            "ACTL2102"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5103.html",
+        "level": "Postgraduate ",
+        "name": "Stochastic Modelling for Actuaries",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5103.html",
+        "uoc": "6"
+    },
+    "ACTL5104": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101 and enrolment in program 8411 or 8416 ",
+        "equivalent": [
+            "ACTL3141"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5104.html",
+        "level": "Postgraduate ",
+        "name": "Actuarial Statistics",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5104.html",
+        "uoc": "6"
+    },
+    "ACTL5105": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101, ACTL5102 and enrolment in program 8411 or 8416 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL3151"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5105.html",
+        "level": "Postgraduate ",
+        "name": "Life Insurance and Superannuation",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5105.html",
+        "uoc": "6"
+    },
+    "ACTL5106": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101, ACTL5103 and enrolment in program 8411 or 8416. ",
+        "equivalent": [
+            "ACTL3162"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5106.html",
+        "level": "Postgraduate ",
+        "name": "Insurance Risk Models",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5106.html",
+        "uoc": "6"
+    },
+    "ACTL5108": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: In Masters of Actuarial Studies (8411 or 8416) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5108.html",
+        "level": "Postgraduate ",
+        "name": "Finance and Financial Reporting for Actuaries",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5108.html",
+        "uoc": "6"
+    },
+    "ACTL5109": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101 and ACTL5102 and in program (8411 or 8416) and Corequisite: ACTL5103 ",
+        "equivalent": [
+            "ACTL3182"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5109.html",
+        "level": "Postgraduate ",
+        "name": "Financial Economics for Insurance and Superannuation",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5109.html",
+        "uoc": "6"
+    },
+    "ACTL5110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ACTL5101 and ACTL5102 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL3142",
+            "COMM3501"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5110.html",
+        "level": "Postgraduate ",
+        "name": "Actuarial Data and Analysis",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5110.html",
+        "uoc": "6"
+    },
+    "ACTL5200": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL5100 and 60+ WAM ",
+        "equivalent": [
+            "ACTL4002"
+        ],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5200.html",
+        "level": "Postgraduate ",
+        "name": "Actuarial Theory and Practice B",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5200.html",
+        "uoc": "6"
+    },
+    "ACTL5301": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisites: ACTL5103 AND ACTL5106 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5301.html",
+        "level": "Postgraduate ",
+        "name": "Models for Risk Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5301.html",
+        "uoc": "6"
+    },
+    "ACTL5302": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Completed at least  two of the following courses: ACTL5105, ACTL5106 and ACTL5109 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5302.html",
+        "level": "Postgraduate ",
+        "name": "Risk and Capital Management",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5302.html",
+        "uoc": "6"
+    },
+    "ACTL5305": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: ACTL5110 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL4305"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5305.html",
+        "level": "Postgraduate ",
+        "name": "Actuarial Data Analytic Applications",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5305.html",
+        "uoc": "6"
+    },
+    "ACTL5306": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Restricted to students in programs 8411, 8416 and 8412 ",
+        "equivalent": [],
+        "excluded": [
+            "ACTL3192",
+            "ECON3117",
+            "ECON5136"
+        ],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/ACTL5306.html",
+        "level": "Postgraduate ",
+        "name": "Retirement Saving and Spending over the Lifecycle",
+        "school": " School of Risk and Actuarial Studies",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ACTL5306.html",
+        "uoc": "6"
+    }
+}

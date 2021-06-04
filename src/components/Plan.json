@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "TERM": "TERM_1",
+        "course_code": "comp1531"
+    },
+    {
+        "id": 1,
+        "TERM": "TERM_2",
+        "course_code": "comp2521"
+    },
+    {
+        "id": 12,
+        "TERM": "TERM_2",
+        "course_code": "comp2521"
+    },
+    {
+        "id": 3,
+        "TERM": "TERM_2",
+        "course_code": "comp2041"
+    },
+    {
+        "id": 4,
+        "TERM": "TERM_3",
+        "course_code": "comp3511"
+    }
+]

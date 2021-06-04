@@ -1,0 +1,221 @@
+{
+    "MECH3110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: (MMAN2400 or ENGG2400) and (MMAN2100 or DESN2000) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH3110.html",
+        "level": "Undergraduate ",
+        "name": "Mechanical Design 1",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH3110.html",
+        "uoc": "6"
+    },
+    "MECH3610": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ENGG2500 OR MMAN2600) AND MMAN2700 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH3610.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Thermofluids",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH3610.html",
+        "uoc": "6"
+    },
+    "MECH4100": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MECH3110 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH4100.html",
+        "level": "Undergraduate ",
+        "name": "Mechanical Design 2",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH4100.html",
+        "uoc": "6"
+    },
+    "MECH4305": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH2019 OR MATH2018) AND (MMAN3300 or MMAN2300) ",
+        "equivalent": [],
+        "excluded": [
+            "MECH2310",
+            "MECH3310",
+            "MECH3330",
+            "MECH8311",
+            "MECH9305",
+            "MECH9311"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH4305.html",
+        "level": "Undergraduate ",
+        "name": "Fundamental and Advanced Vibration Analysis",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH4305.html",
+        "uoc": "6"
+    },
+    "MECH4320": null,
+    "MECH4620": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MECH9620"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MECH4620.html",
+        "level": "Postgraduate ",
+        "name": "Computational Fluid Dynamics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH4620.html",
+        "uoc": "6"
+    },
+    "MECH4880": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (ENGG2500 OR MMAN2600) AND MMAN2700 ",
+        "equivalent": [],
+        "excluded": [
+            "MECH9751"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH4880.html",
+        "level": "Undergraduate ",
+        "name": "Refrigeration and Air Conditioning 1",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH4880.html",
+        "uoc": "6"
+    },
+    "MECH4900": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MECH3400 or MMAN3400 ",
+        "equivalent": [],
+        "excluded": [
+            "MECH9400"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH4900.html",
+        "level": "Undergraduate ",
+        "name": "Mechanics of Fracture and Fatigue",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH4900.html",
+        "uoc": "6"
+    },
+    "MECH9000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/MECH9000.html",
+        "level": "Research ",
+        "name": "Research Thesis Mechanical Engineering  (Full-Time)",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9000.html",
+        "uoc": "12"
+    },
+    "MECH9001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/MECH9001.html",
+        "level": "Research ",
+        "name": "Research Thesis Mechanical Engineering  (Part-Time)",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9001.html",
+        "uoc": "6"
+    },
+    "MECH9325": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment None ",
+        "equivalent": [
+            "MECH8325"
+        ],
+        "excluded": [
+            "MECH4321",
+            "MECH8325"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MECH9325.html",
+        "level": "Postgraduate ",
+        "name": "Fundamentals of Acoustics and Noise",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9325.html",
+        "uoc": "6"
+    },
+    "MECH9420": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MECH9420.html",
+        "level": "Postgraduate ",
+        "name": "Composite Materials and Mechanics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9420.html",
+        "uoc": "6"
+    },
+    "MECH9650": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MECH9650.html",
+        "level": "Postgraduate ",
+        "name": "Micro and Biofluidics",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9650.html",
+        "uoc": "6"
+    },
+    "MECH9720": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Successful completion of 96 UOC ",
+        "equivalent": [
+            "MECH4720"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MECH9720.html",
+        "level": "Undergraduate ",
+        "name": "Solar Thermal Energy Design",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9720.html",
+        "uoc": "6"
+    },
+    "MECH9761": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment None ",
+        "equivalent": [],
+        "excluded": [
+            "MECH4700"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/MECH9761.html",
+        "level": "Postgraduate ",
+        "name": "Automobile Engine Technology",
+        "school": " School of Mechanical and Manufacturing Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MECH9761.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,7 @@
+.graph-search {
+  position: absolute;
+  z-index: 4;
+  bottom: 108px;
+  left: 50px;
+  width: 150px;
+}

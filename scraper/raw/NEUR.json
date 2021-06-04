@@ -1,0 +1,151 @@
+{
+    "NEUR2201": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: 36 UOC, which must include 12 UOC of BABS / BIOS courses OR 12 UOC of PSYC courses ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR2201.html",
+        "level": "Undergraduate ",
+        "name": "Neuroscience Fundamentals",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR2201.html",
+        "uoc": "6"
+    },
+    "NEUR3101": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: PHSL2101 or PHSL2121 or PHSL2501 or NEUR2201 ",
+        "equivalent": [],
+        "excluded": [
+            "HESC3571",
+            "PHPH3502"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR3101.html",
+        "level": "Undergraduate ",
+        "name": "Muscle and Motor Control",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR3101.html",
+        "uoc": "6"
+    },
+    "NEUR3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHSL2101 or PHSL2121 or PHSL2501 ",
+        "equivalent": [
+            "PHPH3121"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR3121.html",
+        "level": "Undergraduate ",
+        "name": "Molecular and Cellular Neuroscience",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR3121.html",
+        "uoc": "6"
+    },
+    "NEUR3211": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT3411 or NEUR3121 ",
+        "equivalent": [
+            "ANAT3421"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR3211.html",
+        "level": "Undergraduate ",
+        "name": "Neuroscience Research Seminars",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR3211.html",
+        "uoc": "6"
+    },
+    "NEUR3221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHSL2101 or PHSL2121 or PHSL2501 ",
+        "equivalent": [
+            "PHPH3131"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR3221.html",
+        "level": "Undergraduate ",
+        "name": "Neurophysiology",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR3221.html",
+        "uoc": "6"
+    },
+    "NEUR4411": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Neuroscience Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR4411.html",
+        "level": "Undergraduate ",
+        "name": "Behavioural Perspectives in Neuroscience",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR4411.html",
+        "uoc": "6"
+    },
+    "NEUR4421": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Neuroscience Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR4421.html",
+        "level": "Undergraduate ",
+        "name": "Biomedical Perspectives in Neuroscience",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR4421.html",
+        "uoc": "6"
+    },
+    "NEUR4441": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in Neuroscience Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR4441.html",
+        "level": "Undergraduate ",
+        "name": "Neuroscience Research",
+        "school": " School of Medical Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR4441.html",
+        "uoc": "6"
+    },
+    "NEUR4442": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Enrolled in Neuroscience Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR4442.html",
+        "level": "Undergraduate ",
+        "name": "Neuroscience Research",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR4442.html",
+        "uoc": "12"
+    },
+    "NEUR4443": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Neuroscience Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/NEUR4443.html",
+        "level": "Undergraduate ",
+        "name": "Neuroscience Research 18 Units of Credit",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/NEUR4443.html",
+        "uoc": "18"
+    }
+}

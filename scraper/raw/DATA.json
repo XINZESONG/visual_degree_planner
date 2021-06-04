@@ -1,0 +1,47 @@
+{
+    "DATA1001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DATA1001.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Data Science and Decisions",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DATA1001.html",
+        "uoc": "6"
+    },
+    "DATA2299": null,
+    "DATA3001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in 3959 Data Science program ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DATA3001.html",
+        "level": "Undergraduate ",
+        "name": "Data Science and Decisions in Practice",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DATA3001.html",
+        "uoc": "6"
+    },
+    "DATA3199": null,
+    "DATA3299": null,
+    "DATA9001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/DATA9001.html",
+        "level": "Postgraduate ",
+        "name": "Fundamentals of Data Science",
+        "school": " School of Mathematics & Statistics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DATA9001.html",
+        "uoc": "6"
+    }
+}

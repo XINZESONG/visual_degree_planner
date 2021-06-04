@@ -1,0 +1,7 @@
+.search {
+
+    display: flex;
+    flex-direction: column;
+    height: calc(100vh * 0.6);
+    width: calc(100vh * 0.3);
+}

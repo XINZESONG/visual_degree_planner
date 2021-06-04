@@ -1,0 +1,67 @@
+{
+    "CLIM0001": null,
+    "CLIM0002": null,
+    "CLIM1001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "GENS0401"
+        ],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CLIM1001.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Climate Change",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CLIM1001.html",
+        "uoc": "6"
+    },
+    "CLIM2001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment PHYS1111 or PHYS1121 or PHYS1131 or DPST1023 or PHYS1141 or PHYS1211 and MATH1011 or MATH1031 or MATH1131 or DPST1013 or MATH1141 or MATH1151 ",
+        "equivalent": [
+            "PHYS2801"
+        ],
+        "excluded": [
+            "PHYS2801",
+            "PHYS2810"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CLIM2001.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Atmospheric Science",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CLIM2001.html",
+        "uoc": "6"
+    },
+    "CLIM2002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CLIM2002.html",
+        "level": "Undergraduate ",
+        "name": "Risks and Impacts of a Changing Climate",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CLIM2002.html",
+        "uoc": "6"
+    },
+    "CLIM3001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: CLIM2001 or PHYS2801 or GEOS2711 or MATH2241 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/CLIM3001.html",
+        "level": "Undergraduate ",
+        "name": "Climate Systems Science",
+        "school": " School of Biological, Earth and Environmental Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/CLIM3001.html",
+        "uoc": "6"
+    }
+}

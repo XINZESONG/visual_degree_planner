@@ -1,0 +1,60 @@
+{
+    "BINF2010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 OR DPST1051 ",
+        "equivalent": [],
+        "excluded": [
+            "BINF1001"
+        ],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BINF2010.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Bioinformatics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BINF2010.html",
+        "uoc": "6"
+    },
+    "BINF3010": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS2204 OR BABS2264 OR BIOC2201. ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BINF3010.html",
+        "level": "Undergraduate ",
+        "name": "Applied Bioinformatics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BINF3010.html",
+        "uoc": "6"
+    },
+    "BINF3020": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BINF3020.html",
+        "level": "Undergraduate ",
+        "name": "Computational Bioinformatics",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BINF3020.html",
+        "uoc": "6"
+    },
+    "BINF6112": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: COMP1531 or COMP2041 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Engineering",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BINF6112.html",
+        "level": "Undergraduate ",
+        "name": "Computational Biology Engineering Design Workshop",
+        "school": " School of Computer Science and Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BINF6112.html",
+        "uoc": "6"
+    }
+}

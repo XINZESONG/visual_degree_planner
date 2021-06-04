@@ -1,0 +1,58 @@
+{
+    "COMD5000": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMD5000.html",
+        "level": "Postgraduate ",
+        "name": "NGOs, Civil Society and Development",
+        "school": " School of Social Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMD5000.html",
+        "uoc": "6"
+    },
+    "COMD5001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMD5001.html",
+        "level": "Postgraduate ",
+        "name": "International Development Policy",
+        "school": " School of Social Sciences",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMD5001.html",
+        "uoc": "6"
+    },
+    "COMD5002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMD5002.html",
+        "level": "Postgraduate ",
+        "name": "Development, Human Rights and Global Health",
+        "school": " School of Social Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMD5002.html",
+        "uoc": "6"
+    },
+    "COMD5004": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in the Master of Development Studies, Public Policy and Governance or Environmental Management (stream B or C). Or enrolment in the Graduate Certificate or Diploma of Environmental Management ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/COMD5004.html",
+        "level": "Postgraduate ",
+        "name": "Climate Change Adaptation and Development",
+        "school": " School of Social Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/COMD5004.html",
+        "uoc": "6"
+    }
+}

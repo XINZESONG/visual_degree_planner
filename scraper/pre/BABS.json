@@ -1,0 +1,346 @@
+{
+    "BABS1111": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "BABS1201",
+            "DPST1051",
+            "GENS1111"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS1111.html",
+        "level": "Undergraduate ",
+        "name": "Big Fat Myths",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS1111.html",
+        "uoc": "6"
+    },
+    "BABS1112": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS1112.html",
+        "level": "Undergraduate ",
+        "name": "Genetics and Society",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS1112.html",
+        "uoc": "6"
+    },
+    "BABS1201": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "BIOS1201",
+            "DPST1051"
+        ],
+        "excluded": [
+            "BABS1111",
+            "DPST1051",
+            "GENS1111"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS1201.html",
+        "level": "Undergraduate ",
+        "name": "Molecules, Cells and Genes",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS1201.html",
+        "uoc": "6"
+    },
+    "BABS1202": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPST1052"
+        ],
+        "excluded": [
+            "DPST1052"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS1202.html",
+        "level": "Undergraduate ",
+        "name": "Applied Biomolecular Sciences",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS1202.html",
+        "uoc": "6"
+    },
+    "BABS2011": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 or BABS1202 or DPST1052 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS2011.html",
+        "level": "Undergraduate ",
+        "name": "Current Trends in Biotechnology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS2011.html",
+        "uoc": "6"
+    },
+    "BABS2202": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-requisite: BABS1201 or DPST1051 and CHEM1011 or CHEM1031 or DPST1031 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS2202.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Cell Biology 1",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS2202.html",
+        "uoc": "6"
+    },
+    "BABS2204": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 ",
+        "equivalent": [],
+        "excluded": [
+            "BABS2264"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS2204.html",
+        "level": "Undergraduate ",
+        "name": "Genetics",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS2204.html",
+        "uoc": "6"
+    },
+    "BABS2264": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 ",
+        "equivalent": [],
+        "excluded": [
+            "BABS2204"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS2264.html",
+        "level": "Undergraduate ",
+        "name": "Genetics (Advanced Level)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS2264.html",
+        "uoc": "6"
+    },
+    "BABS3021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre-req: 12 UoC from MICR2011 or BIOS2021/BABS2204 or BIOS2621/BABS2264 or BIOC2201 ",
+        "equivalent": [],
+        "excluded": [
+            "MICR3621"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3021.html",
+        "level": "Undergraduate ",
+        "name": "Microbial Genetics",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3021.html",
+        "uoc": "6"
+    },
+    "BABS3031": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: completion of at least 48 UoC ",
+        "equivalent": [],
+        "excluded": [
+            "BABS3631",
+            "BIOT3021",
+            "BIOT3621"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3031.html",
+        "level": "Undergraduate ",
+        "name": "Biotechnology and Bioengineering",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3031.html",
+        "uoc": "6"
+    },
+    "BABS3041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2101 or (BIOC2181and MICR2011) or (BIOC2181 and BABS2202) ",
+        "equivalent": [],
+        "excluded": [
+            "MICR3042",
+            "MICR3641"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3041.html",
+        "level": "Undergraduate ",
+        "name": "Immunology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3041.html",
+        "uoc": "6"
+    },
+    "BABS3061": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: BIOC2101 or LIFE2101, BIOC2201 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3061.html",
+        "level": "Undergraduate ",
+        "name": "Medical Biotechnology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3061.html",
+        "uoc": "6"
+    },
+    "BABS3071": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "INOV3121"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3071.html",
+        "level": "Undergraduate ",
+        "name": "Commercial Biotechnology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3071.html",
+        "uoc": "6"
+    },
+    "BABS3081": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051 and MICR2011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3081.html",
+        "level": "Undergraduate ",
+        "name": "Bacteria and Disease",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3081.html",
+        "uoc": "6"
+    },
+    "BABS3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2201, BIOC2101 or BABS2204 or BABS2264 or BABS2202 or MICR2011 ",
+        "equivalent": [],
+        "excluded": [
+            "BABS3621"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3121.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Biology of Nucleic Acids",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3121.html",
+        "uoc": "6"
+    },
+    "BABS3151": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS2204 or BABS2264 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3151.html",
+        "level": "Undergraduate ",
+        "name": "Human Molecular Genetics and Disease",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3151.html",
+        "uoc": "6"
+    },
+    "BABS3200": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2201 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3200.html",
+        "level": "Undergraduate ",
+        "name": "Synthetic Biology",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3200.html",
+        "uoc": "6"
+    },
+    "BABS3281": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BIOC2201 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3281.html",
+        "level": "Undergraduate ",
+        "name": "Molecular Frontiers",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3281.html",
+        "uoc": "6"
+    },
+    "BABS3291": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS2204 or BABS2264 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3291.html",
+        "level": "Undergraduate ",
+        "name": "Genes, Genomes and Evolution",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3291.html",
+        "uoc": "6"
+    },
+    "BABS3301": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3301.html",
+        "level": "Undergraduate ",
+        "name": "Biomolecular Science Laboratory Project (Advanced)",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3301.html",
+        "uoc": "6"
+    },
+    "BABS3631": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: completion of at least 48 UoC ",
+        "equivalent": [],
+        "excluded": [
+            "BABS3031",
+            "BIOT3021",
+            "BIOT3621"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS3631.html",
+        "level": "Undergraduate ",
+        "name": "Biotechnology & Bioengineering Advanced",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS3631.html",
+        "uoc": "6"
+    },
+    "BABS4516": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Pre: Enrolled in BABS Honours plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/BABS4516.html",
+        "level": "Undergraduate ",
+        "name": "Biotechnology and Biomolecular Sciences Honours",
+        "school": " School of Biotechnology and Biomolecular Sciences",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/BABS4516.html",
+        "uoc": "16"
+    }
+}

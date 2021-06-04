@@ -1,0 +1,473 @@
+{
+    "MATS1101": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "DPST1061",
+            "MATS1192"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS1101.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Materials and Chemistry",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS1101.html",
+        "uoc": "6"
+    },
+    "MATS1110": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS1110.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Materials for Engineering Applications",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS1110.html",
+        "uoc": "6"
+    },
+    "MATS1192": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "DPST1061"
+        ],
+        "excluded": [
+            "DPST1061",
+            "MATS1101"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS1192.html",
+        "level": "Undergraduate ",
+        "name": "Design and Application of Materials in Science and Engineering",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS1192.html",
+        "uoc": "6"
+    },
+    "MATS2001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATH1131 or DPST1013 or MATH1141 and MATH1231 or DPST1014 or MATH1241 and PHYS1121 or PHYS1131 or DPST1023 and CHEM1011 or CHEM1031 or DPST1031 or CHEM1811 ",
+        "equivalent": [],
+        "excluded": [
+            "MATS1172"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2001.html",
+        "level": "Undergraduate ",
+        "name": "Physical Properties of Materials",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2001.html",
+        "uoc": "6"
+    },
+    "MATS2003": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS1002",
+            "MATS1142"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2003.html",
+        "level": "Undergraduate ",
+        "name": "Materials Characterisation",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2003.html",
+        "uoc": "6"
+    },
+    "MATS2004": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS1101 or MATS1192 or DPST1061 ",
+        "equivalent": [],
+        "excluded": [
+            "MATS1262"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2004.html",
+        "level": "Undergraduate ",
+        "name": "Mechanical Behaviour of Materials",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2004.html",
+        "uoc": "6"
+    },
+    "MATS2005": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS1152",
+            "MATS1232"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2005.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Fluid Flow and Heat Transfer",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2005.html",
+        "uoc": "6"
+    },
+    "MATS2006": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS1013"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2006.html",
+        "level": "Undergraduate ",
+        "name": "Diffusion and Kinetics",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2006.html",
+        "uoc": "6"
+    },
+    "MATS2007": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2007.html",
+        "level": "Undergraduate ",
+        "name": "Sustainable Materials Processing",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2007.html",
+        "uoc": "6"
+    },
+    "MATS2008": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: CHEM1011 or CHEM1031 or CHEM1811 or MATS1101 or DPST1031 ",
+        "equivalent": [],
+        "excluded": [
+            "MATS1112",
+            "MATS1282"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS2008.html",
+        "level": "Undergraduate ",
+        "name": "Thermodynamics and Phase Equilibria",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS2008.html",
+        "uoc": "6"
+    },
+    "MATS3001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS2003 and MATS2004 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3001.html",
+        "level": "Undergraduate ",
+        "name": "Micromechanisms of Mechanical Behaviour of Metals",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3001.html",
+        "uoc": "6"
+    },
+    "MATS3002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS2003 and MATS2008 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3002.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Ceramic Processing",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3002.html",
+        "uoc": "6"
+    },
+    "MATS3003": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3003.html",
+        "level": "Undergraduate ",
+        "name": "Engineering in Process Metallurgy",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3003.html",
+        "uoc": "6"
+    },
+    "MATS3004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS3564"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3004.html",
+        "level": "Undergraduate ",
+        "name": "Polymer Science and Engineering 1",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3004.html",
+        "uoc": "6"
+    },
+    "MATS3005": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS2003 and MATS2006 and MATS2008 ",
+        "equivalent": [],
+        "excluded": [
+            "MATS4023"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3005.html",
+        "level": "Undergraduate ",
+        "name": "Phase Transformations",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3005.html",
+        "uoc": "6"
+    },
+    "MATS3006": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3006.html",
+        "level": "Undergraduate ",
+        "name": "Design and Application of Materials in Science and Engineering 3",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3006.html",
+        "uoc": "6"
+    },
+    "MATS3007": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS1244"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS3007.html",
+        "level": "Undergraduate ",
+        "name": "Materials Industry Management",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS3007.html",
+        "uoc": "6"
+    },
+    "MATS4001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4001.html",
+        "level": "Undergraduate ",
+        "name": "Secondary Processing of Metals",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4001.html",
+        "uoc": "6"
+    },
+    "MATS4002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS3002 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4002.html",
+        "level": "Undergraduate ",
+        "name": "Design and Advanced Ceramics",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4002.html",
+        "uoc": "6"
+    },
+    "MATS4004": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4004.html",
+        "level": "Undergraduate ",
+        "name": "Fracture Mechanics and Failure Analysis",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4004.html",
+        "uoc": "6"
+    },
+    "MATS4005": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [
+            "MATS3064"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4005.html",
+        "level": "Undergraduate ",
+        "name": "Composites and Functional Materials",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4005.html",
+        "uoc": "6"
+    },
+    "MATS4006": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS3004 ",
+        "equivalent": [],
+        "excluded": [
+            "MATS3574"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4006.html",
+        "level": "Undergraduate ",
+        "name": "Polymer Science and Engineering 2",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4006.html",
+        "uoc": "6"
+    },
+    "MATS4007": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "MATS1414"
+        ],
+        "excluded": [
+            "MATS1223"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4007.html",
+        "level": "Undergraduate ",
+        "name": "Engineered Surfaces to Resist Corrosion and Wear",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4007.html",
+        "uoc": "6"
+    },
+    "MATS4008": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS3001 and MATS3002 and MATS3004 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4008.html",
+        "level": "Undergraduate ",
+        "name": "Materials Engineering Project",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4008.html",
+        "uoc": "6"
+    },
+    "MATS4100": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: MATS3001 and MATS3002 and MATS3004 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4100.html",
+        "level": "Undergraduate ",
+        "name": "Materials Engineering Project",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4100.html",
+        "uoc": "6"
+    },
+    "MATS4503": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Materials Science Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4503.html",
+        "level": "Undergraduate ",
+        "name": "Professional Skills",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4503.html",
+        "uoc": "6"
+    },
+    "MATS4504": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Materials Science Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4504.html",
+        "level": "Undergraduate ",
+        "name": "Research Training",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4504.html",
+        "uoc": "6"
+    },
+    "MATS4505": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolled in Materials Science Honours Plan ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS4505.html",
+        "level": "Undergraduate ",
+        "name": "Materials Science Honours Project",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS4505.html",
+        "uoc": "12"
+    },
+    "MATS5001": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS5001.html",
+        "level": "Undergraduate ",
+        "name": "Thesis A",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS5001.html",
+        "uoc": "6"
+    },
+    "MATS5002": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS5002.html",
+        "level": "Undergraduate ",
+        "name": "Thesis B",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS5002.html",
+        "uoc": "6"
+    },
+    "MATS5003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite : MATS5001 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/MATS5003.html",
+        "level": "Undergraduate ",
+        "name": "Advanced Thesis",
+        "school": " School of Materials Science & Engineering",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/MATS5003.html",
+        "uoc": "6"
+    }
+}

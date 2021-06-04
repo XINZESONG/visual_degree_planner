@@ -1,0 +1,30 @@
+{
+    "AVIF5915": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIF5915.html",
+        "level": "Postgraduate ",
+        "name": "Airline Pilot Multi-Crew Coordination",
+        "school": " School of Aviation",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIF5915.html",
+        "uoc": "12"
+    },
+    "AVIF5916": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/postgraduate/courses/2021/AVIF5916.html",
+        "level": "Postgraduate ",
+        "name": "Aeroplane Systems for Airline Pilots",
+        "school": " School of Aviation",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/AVIF5916.html",
+        "uoc": "12"
+    }
+}

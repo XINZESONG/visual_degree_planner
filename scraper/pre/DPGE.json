@@ -1,0 +1,44 @@
+{
+    "DPGE1001": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPGE1001.html",
+        "level": "Undergraduate ",
+        "name": "Communication and Academic Literacy 1",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPGE1001.html",
+        "uoc": "4"
+    },
+    "DPGE1002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPGE1002.html",
+        "level": "Undergraduate ",
+        "name": "Communication and Academic Literacy 2",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPGE1002.html",
+        "uoc": "1"
+    },
+    "DPGE1003": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPGE1003.html",
+        "level": "Undergraduate ",
+        "name": "Communication and Academic Literacy 3",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPGE1003.html",
+        "uoc": "1"
+    }
+}

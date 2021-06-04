@@ -1,0 +1,44 @@
+{
+    "GENC3004": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded:All UG Business programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENC3004.html",
+        "level": "Undergraduate ",
+        "name": "Personal Finance",
+        "school": " School of Banking and Finance",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENC3004.html",
+        "uoc": "6"
+    },
+    "GENC5031": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded:All UG Business programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENC5031.html",
+        "level": "Undergraduate ",
+        "name": "Tax for Professionals",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENC5031.html",
+        "uoc": "6"
+    },
+    "GENC7002": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded:All UG Business programs ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Business School",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/GENC7002.html",
+        "level": "Undergraduate ",
+        "name": "Getting Into Business",
+        "school": " School of Taxation and Business Law",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GENC7002.html",
+        "uoc": "6"
+    }
+}

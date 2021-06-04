@@ -1,0 +1,175 @@
+{
+    "ANAT1521": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: BABS1201 or DPST1051This course is restricted to students enrolled in Medical Science (3991) program ",
+        "equivalent": [],
+        "excluded": [
+            "ANAT1551",
+            "ANAT2111",
+            "ANAT2151",
+            "ANAT2511"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT1521.html",
+        "level": "Undergraduate ",
+        "name": "Anatomy for Medical Science",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT1521.html",
+        "uoc": "6"
+    },
+    "ANAT2111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: A pass in BABS1201 or DPST1051 plus either a pass in ANAT2241 or BABS1202 or DPST1052 or BABS2202 or BABS2204 or BIOC2201 or BIOC2291 or BIOS1101 or HESC1501 or PHSL2101 or PHSL2121 or VISN1221 ",
+        "equivalent": [],
+        "excluded": [
+            "ANAT1521",
+            "ANAT1551",
+            "ANAT2151",
+            "ANAT2511"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2111.html",
+        "level": "Undergraduate ",
+        "name": "Introductory Anatomy",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2111.html",
+        "uoc": "6"
+    },
+    "ANAT2241": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: BABS1201 (or DPST1051) AND 30 UOC ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2241.html",
+        "level": "Undergraduate ",
+        "name": "Histology: Basic and Systematic",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2241.html",
+        "uoc": "6"
+    },
+    "ANAT2341": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT2241 or BABS2202 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2341.html",
+        "level": "Undergraduate ",
+        "name": "Embryology",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2341.html",
+        "uoc": "6"
+    },
+    "ANAT2451": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites:  ANAT1551 or ANAT2111 ",
+        "equivalent": [],
+        "excluded": [
+            "ANAT3141"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2451.html",
+        "level": "Undergraduate ",
+        "name": "Functional Anatomy for Health and Exercise Science",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2451.html",
+        "uoc": "6"
+    },
+    "ANAT2511": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Excluded: ANAT2111, ANAT2151, ANAT2200, ANAT2241 ",
+        "equivalent": [],
+        "excluded": [
+            "ANAT1521",
+            "ANAT1551",
+            "ANAT2111",
+            "ANAT2151"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2511.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Anatomy",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2511.html",
+        "uoc": "6"
+    },
+    "ANAT2521": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT2521.html",
+        "level": "Undergraduate ",
+        "name": "Biological Anthropology: Principles and Practices",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT2521.html",
+        "uoc": "6"
+    },
+    "ANAT3121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT2111 or ANAT1521 or ANAT2511 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT3121.html",
+        "level": "Undergraduate ",
+        "name": "Visceral Anatomy",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT3121.html",
+        "uoc": "6"
+    },
+    "ANAT3131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT2111 or ANAT1521 or ANAT2511 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT3131.html",
+        "level": "Undergraduate ",
+        "name": "Functional Anatomy of the Head, Neck and Back",
+        "school": " School of Medical Sciences",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT3131.html",
+        "uoc": "6"
+    },
+    "ANAT3141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT2111 or ANAT1521 or ANAT2511 ",
+        "equivalent": [],
+        "excluded": [
+            "ANAT2451"
+        ],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT3141.html",
+        "level": "Undergraduate ",
+        "name": "Functional Anatomy of the Limbs",
+        "school": " School of Medical Sciences",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT3141.html",
+        "uoc": "6"
+    },
+    "ANAT3411": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: ANAT1521 or a minimum mark of 55 in ANAT2111 or  ANAT2511 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Medicine",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/ANAT3411.html",
+        "level": "Undergraduate ",
+        "name": "Neuroanatomy",
+        "school": " School of Medical Sciences",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/ANAT3411.html",
+        "uoc": "6"
+    }
+}

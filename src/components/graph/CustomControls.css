@@ -1,0 +1,13 @@
+/* Change the size of the Graph controls */
+div.react-flow__controls-button {
+  width: 22px;
+  height: 22px;
+}
+
+.controls-separator {
+  border-bottom: 5px solid #eee;
+}
+
+.react-flow__controls-clearselection {
+  border: 0;
+}

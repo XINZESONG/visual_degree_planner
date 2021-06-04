@@ -1,0 +1,20 @@
+.App {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+}
+
+.title{
+  font-size:40px;
+  display:contents;
+  font-family:Avenir;
+  color:white;
+
+}
+
+.row {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}

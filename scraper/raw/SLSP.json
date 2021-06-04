@@ -1,0 +1,30 @@
+{
+    "SLSP8301": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/SLSP8301.html",
+        "level": "Research ",
+        "name": "Masters Program by Coursework and Research Full-Time",
+        "school": " School of Social Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SLSP8301.html",
+        "uoc": "12"
+    },
+    "SLSP8302": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Arts and Social Sciences",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/SLSP8302.html",
+        "level": "Research ",
+        "name": "Masters Program by Coursework and Research  Part-Time",
+        "school": " School of Social Sciences",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/SLSP8302.html",
+        "uoc": "6"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "GSBE0703": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/GSBE0703.html",
+        "level": "Research ",
+        "name": "Built Environment Research Thesis Full-Time",
+        "school": " School of Built Environment",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSBE0703.html",
+        "uoc": "12"
+    },
+    "GSBE0803": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Built Environment",
+        "handbook": "http://www.handbook.unsw.edu.au/research/courses/2021/GSBE0803.html",
+        "level": "Research ",
+        "name": "Built Environment Research Thesis Part-Time",
+        "school": " School of Built Environment",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/GSBE0803.html",
+        "uoc": "6"
+    }
+}

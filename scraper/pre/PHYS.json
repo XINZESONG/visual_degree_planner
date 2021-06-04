@@ -1,0 +1,508 @@
+{
+    "PHYS1110": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: PHYS1121, PHYS1131 or DPST1023, PHYS1221, PHYS1231 or DPST1024, PHYS1241, PHYS1211, PHYS1141 ",
+        "equivalent": [],
+        "excluded": [
+            "PHYS1111",
+            "PHYS1149",
+            "PHYS9110"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1110.html",
+        "level": "Undergraduate ",
+        "name": "Everyday Physics",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1110.html",
+        "uoc": "6"
+    },
+    "PHYS1111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: PHYS0001, PHYS1121, PHYS1131 or DPST1023, PHYS1141, PHYS1149 ",
+        "equivalent": [
+            "PHYS1149",
+            "PHYS1189",
+            "PHYS1199"
+        ],
+        "excluded": [
+            "PHYS1110",
+            "PHYS1149",
+            "PHYS9110"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1111.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Physics",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1111.html",
+        "uoc": "6"
+    },
+    "PHYS1121": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Corequisite: MATH1131 or DPST1013 or MATH1141 or MATH1151 or MATH1011 ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1023",
+            "PHYS1131",
+            "PHYS1141",
+            "PHYS9120"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1121.html",
+        "level": "Undergraduate ",
+        "name": "Physics 1A",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1121.html",
+        "uoc": "6"
+    },
+    "PHYS1131": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Corequisite: MATH1131 or DPST1013 or MATH1141 or MATH1151 or MATH1011 ",
+        "equivalent": [
+            "DPST1023"
+        ],
+        "excluded": [
+            "DPST1023",
+            "PHYS1121",
+            "PHYS1141",
+            "PHYS9120"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1131.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1A",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1131.html",
+        "uoc": "6"
+    },
+    "PHYS1141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Corequisite: MATH1131 or DPST1013 or MATH1141 or MATH1151 or MATH1011 ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1023",
+            "PHYS1121",
+            "PHYS1131",
+            "PHYS9120"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1141.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1A (Special)",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1141.html",
+        "uoc": "6"
+    },
+    "PHYS1149": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [
+            "PHYS1111",
+            "PHYS1189",
+            "PHYS1199"
+        ],
+        "excluded": [
+            "PHYS1110",
+            "PHYS1111",
+            "PHYS9110"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1149.html",
+        "level": "Undergraduate ",
+        "name": "Physics 1A (Aviation)",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1149.html",
+        "uoc": "6"
+    },
+    "PHYS1160": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Exclusion: GENS4001 & GENS4003 ",
+        "equivalent": [],
+        "excluded": [
+            "GENS4001",
+            "GENS4003",
+            "GENS4014",
+            "PHYS2170"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1160.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Astronomy",
+        "school": " School of Physics",
+        "terms": "Summer Term, Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1160.html",
+        "uoc": "6"
+    },
+    "PHYS1200": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1200.html",
+        "level": "Undergraduate ",
+        "name": "Step into Research",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1200.html",
+        "uoc": "6"
+    },
+    "PHYS1211": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1211.html",
+        "level": "Undergraduate ",
+        "name": "Energy and Environmental Physics",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1211.html",
+        "uoc": "6"
+    },
+    "PHYS1221": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS1121 or PHYS1131 or DPST1023 or PHYS1141; Corequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1024",
+            "PHYS1231",
+            "PHYS1241",
+            "PHYS9130"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1221.html",
+        "level": "Undergraduate ",
+        "name": "Physics 1B",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1221.html",
+        "uoc": "6"
+    },
+    "PHYS1231": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS1131 or DPST1023 or PHYS1141 or a mark of 65 or above in PHYS1121; Corequisite: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [
+            "DPST1024"
+        ],
+        "excluded": [
+            "DPST1024",
+            "PHYS1221",
+            "PHYS1241",
+            "PHYS9130"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1231.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1B",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1231.html",
+        "uoc": "6"
+    },
+    "PHYS1241": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisites: PHYS1131 or DPST1023 or PHYS1141; Co-requisites: MATH1231 or DPST1014 or MATH1241 or MATH1251 ",
+        "equivalent": [],
+        "excluded": [
+            "DPST1024",
+            "PHYS1221",
+            "PHYS1231",
+            "PHYS9130"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS1241.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1B (Special)",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS1241.html",
+        "uoc": "6"
+    },
+    "PHYS2113": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS1221 or PHYS1231 or DPST1024 or PHYS1241 and MATH1231 or DPST1014 or MATH1241 ",
+        "equivalent": [],
+        "excluded": [
+            "PHYS2120"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS2113.html",
+        "level": "Undergraduate ",
+        "name": "Classical Mechanics and Special Relativity",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS2113.html",
+        "uoc": "6"
+    },
+    "PHYS2114": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS1221 or PHYS1231 or DPST1024 or PHYS1241 and MATH2069 or MATH2011 or MATH2111 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS2114.html",
+        "level": "Undergraduate ",
+        "name": "Electromagnetism",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS2114.html",
+        "uoc": "6"
+    },
+    "PHYS2801": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment PHYS1111 or PHYS1121 or PHYS1131 or DPST1023 or PHYS1141 or PHYS1211 and MATH1011 or MATH1031 or MATH1131 or DPST1013 or MATH1141 or MATH1151 ",
+        "equivalent": [
+            "CLIM2001"
+        ],
+        "excluded": [
+            "CLIM2001",
+            "PHYS2810"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS2801.html",
+        "level": "Undergraduate ",
+        "name": "Fundamentals of Atmospheric Science",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS2801.html",
+        "uoc": "6"
+    },
+    "PHYS3111": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH2069 or MATH2521 or MATH2621) and (PHYS2111 or PHYS2110) ",
+        "equivalent": [],
+        "excluded": [
+            "PHYS3011"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3111.html",
+        "level": "Undergraduate ",
+        "name": "Quantum Mechanics",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3111.html",
+        "uoc": "6"
+    },
+    "PHYS3112": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (PHYS2111 or PHYS2113 or PHYS2114 or PHYS2110) and (MATH2089 or (MATH2301 and (MATH2801 or MATH2901))) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3112.html",
+        "level": "Undergraduate ",
+        "name": "Experimental and Computational Physics",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3112.html",
+        "uoc": "6"
+    },
+    "PHYS3113": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS2111 or PHYS2110 Exclusion: PHYS2210, PHYS3021 ",
+        "equivalent": [],
+        "excluded": [
+            "PHYS3021"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3113.html",
+        "level": "Undergraduate ",
+        "name": "Thermal Physics and Statistical Mechanics",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3113.html",
+        "uoc": "6"
+    },
+    "PHYS3114": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (PHYS2114 or PHYS2210) and PHYS2113. Exclusion: PHYS3011 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3114.html",
+        "level": "Undergraduate ",
+        "name": "Electrodynamics",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3114.html",
+        "uoc": "6"
+    },
+    "PHYS3115": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (PHYS2111 or PHYS2110) and (PHYS2114 or PHYS2210) and PHYS2113 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3115.html",
+        "level": "Undergraduate ",
+        "name": "Particle Physics and the Early Universe",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3115.html",
+        "uoc": "6"
+    },
+    "PHYS3116": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (MATH2069 or MATH2011 or MATH2111) and (PHYS2111 or PHYS2110). Exclusions: PHYS2160, PHYS3160 ",
+        "equivalent": [],
+        "excluded": [
+            "PHYS2160"
+        ],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3116.html",
+        "level": "Undergraduate ",
+        "name": "Astrophysics",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3116.html",
+        "uoc": "6"
+    },
+    "PHYS3117": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS3112 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3117.html",
+        "level": "Undergraduate ",
+        "name": "Physics Laboratory",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3117.html",
+        "uoc": "6"
+    },
+    "PHYS3118": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: (PHYS2111 or PHYS2110) and PHYS3113. Exclusions: PHYS3021, PHYS3310 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS3118.html",
+        "level": "Undergraduate ",
+        "name": "Quantum Physics of Solids and Devices",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS3118.html",
+        "uoc": "6"
+    },
+    "PHYS4141": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Physics Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4141.html",
+        "level": "Undergraduate ",
+        "name": "Quantum Mechanics (Honours)",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4141.html",
+        "uoc": "6"
+    },
+    "PHYS4142": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Physics Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4142.html",
+        "level": "Undergraduate ",
+        "name": "Statistical Physics (Honours)",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4142.html",
+        "uoc": "6"
+    },
+    "PHYS4143": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS4141 and PHYS4142 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4143.html",
+        "level": "Undergraduate ",
+        "name": "Topics in Contemporary Physics",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4143.html",
+        "uoc": "12"
+    },
+    "PHYS4144": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Physics Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4144.html",
+        "level": "Undergraduate ",
+        "name": "Physics Honours Research A",
+        "school": " School of Physics",
+        "terms": "Term 1 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4144.html",
+        "uoc": "6"
+    },
+    "PHYS4145": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Physics Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4145.html",
+        "level": "Undergraduate ",
+        "name": "Physics Honours Research B",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4145.html",
+        "uoc": "6"
+    },
+    "PHYS4146": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: Enrolment in Physics Honours ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4146.html",
+        "level": "Undergraduate ",
+        "name": "Physics Honours Research C",
+        "school": " School of Physics",
+        "terms": "Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4146.html",
+        "uoc": "12"
+    },
+    "PHYS4200": {
+        "campus": "Sydney ",
+        "conditions": [],
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS4200.html",
+        "level": "Undergraduate ",
+        "name": "Physics Research Project",
+        "school": " School of Physics",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS4200.html",
+        "uoc": "6"
+    },
+    "PHYS6143": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment Prerequisite: PHYS4141 and PHYS4142 ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " Faculty of Science",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/PHYS6143.html",
+        "level": "Undergraduate ",
+        "name": "Contemporary Physics A",
+        "school": " School of Physics",
+        "terms": "Term 2 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/PHYS6143.html",
+        "uoc": "6"
+    }
+}

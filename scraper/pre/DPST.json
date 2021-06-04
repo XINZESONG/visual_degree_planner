@@ -1,0 +1,335 @@
+{
+    "DPST1013": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "MATH1131"
+        ],
+        "excluded": [
+            "ECON1202",
+            "ECON2291",
+            "MATH1131",
+            "MATH1141",
+            "MATH1151"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1013.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 1A",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1013.html",
+        "uoc": "6"
+    },
+    "DPST1014": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "MATH1231"
+        ],
+        "excluded": [
+            "MATH1021",
+            "MATH1231",
+            "MATH1241",
+            "MATH1251"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1014.html",
+        "level": "Undergraduate ",
+        "name": "Mathematics 1B",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1014.html",
+        "uoc": "6"
+    },
+    "DPST1021": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1021.html",
+        "level": "Undergraduate ",
+        "name": "Physics 1A",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1021.html",
+        "uoc": "6"
+    },
+    "DPST1022": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [],
+        "excluded": [],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1022.html",
+        "level": "Undergraduate ",
+        "name": "Physics 1B",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1022.html",
+        "uoc": "6"
+    },
+    "DPST1023": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "PHYS1131"
+        ],
+        "excluded": [
+            "PHYS1121",
+            "PHYS1131",
+            "PHYS1141",
+            "PHYS9120"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1023.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1A",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1023.html",
+        "uoc": "6"
+    },
+    "DPST1024": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "PHYS1231"
+        ],
+        "excluded": [
+            "PHYS1221",
+            "PHYS1231",
+            "PHYS1241",
+            "PHYS9130"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1024.html",
+        "level": "Undergraduate ",
+        "name": "Higher Physics 1B",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1024.html",
+        "uoc": "6"
+    },
+    "DPST1031": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "CHEM1011",
+            "CHEM1031",
+            "CHEM1051",
+            "CHEM1831"
+        ],
+        "excluded": [
+            "CHEM1011",
+            "CHEM1031",
+            "CHEM1051",
+            "CHEM1811"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1031.html",
+        "level": "Undergraduate ",
+        "name": "Chemistry A: Atoms, Molecules, and Energy",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1031.html",
+        "uoc": "6"
+    },
+    "DPST1032": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "CHEM1021"
+        ],
+        "excluded": [
+            "CHEM1021",
+            "CHEM1041",
+            "CHEM1061",
+            "CHEM1821"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1032.html",
+        "level": "Undergraduate ",
+        "name": "Chemistry B: Elements, Compounds and Life",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1032.html",
+        "uoc": "6"
+    },
+    "DPST1041": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "BIOS1101"
+        ],
+        "excluded": [
+            "BEES7201",
+            "BIOS1101",
+            "GENS7201"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1041.html",
+        "level": "Undergraduate ",
+        "name": "Evolutionary and Functional Biology",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1041.html",
+        "uoc": "6"
+    },
+    "DPST1051": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "BABS1201",
+            "BIOS1201"
+        ],
+        "excluded": [
+            "BABS1111",
+            "BABS1201",
+            "GENS1111"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1051.html",
+        "level": "Undergraduate ",
+        "name": "Molecules, Cells and Genes",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1051.html",
+        "uoc": "6"
+    },
+    "DPST1052": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "BABS1202"
+        ],
+        "excluded": [
+            "BABS1202"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1052.html",
+        "level": "Undergraduate ",
+        "name": "Applied Biomolecular Sciences",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1052.html",
+        "uoc": "6"
+    },
+    "DPST1061": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "MATS1192"
+        ],
+        "excluded": [
+            "MATS1101",
+            "MATS1192"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1061.html",
+        "level": "Undergraduate ",
+        "name": "Design in Application of Materials in Science and Engineering",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1061.html",
+        "uoc": "6"
+    },
+    "DPST1071": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "ENGG1000"
+        ],
+        "excluded": [
+            "ENGG1000"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1071.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Engineering Design and Innovation",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1071.html",
+        "uoc": "6"
+    },
+    "DPST1072": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "CVEN1300",
+            "ENGG1300",
+            "MECH0330",
+            "MECH1300",
+            "MINE1300",
+            "MMAN1300"
+        ],
+        "excluded": [
+            "ENGG1300"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1072.html",
+        "level": "Undergraduate ",
+        "name": "Engineering Mechanics 1",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1072.html",
+        "uoc": "6"
+    },
+    "DPST1081": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "ELEC1111"
+        ],
+        "excluded": [
+            "ELEC1111",
+            "ELEC1112"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1081.html",
+        "level": "Undergraduate ",
+        "name": "Electrical and Telecommunications Engineering",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1081.html",
+        "uoc": "6"
+    },
+    "DPST1091": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "COMP1511",
+            "COMP1917"
+        ],
+        "excluded": [
+            "COMP1511"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1091.html",
+        "level": "Undergraduate ",
+        "name": "Introduction to Programming",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1091.html",
+        "uoc": "6"
+    },
+    "DPST1092": {
+        "campus": "Sydney ",
+        "conditions": "Conditions for Enrolment UNSW Global Diplomas only (7001, 7002, 7003, 7004) ",
+        "equivalent": [
+            "COMP1521"
+        ],
+        "excluded": [
+            "COMP1521"
+        ],
+        "faculty": " UNSW Global",
+        "handbook": "http://www.handbook.unsw.edu.au/undergraduate/courses/2021/DPST1092.html",
+        "level": "Undergraduate ",
+        "name": "Computer Systems Fundamentals",
+        "school": " UNSW Global Diplomas",
+        "terms": "Term 1, Term 2, Term 3 ",
+        "timetable": "http://timetable.unsw.edu.au/2021/DPST1092.html",
+        "uoc": "6"
+    }
+}
